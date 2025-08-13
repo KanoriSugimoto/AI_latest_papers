@@ -12,7 +12,7 @@ KEYWORDS = []
 #     " hermean ", " venusian ", " martian ", " jovian ", " lunar "
 # ] # "planet", "solar system",  "kuiper belt", "pluto", "eris", "ceres", "makemake", "haumea", 
 
-SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL_2") # "latest_papers_2" channel
+SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL") # channel URL
 POSTED_TITLES_FILE = "posted_titles.txt" # for DailyPapers
 
 # === ユーティリティ関数 ===
