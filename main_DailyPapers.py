@@ -42,13 +42,17 @@ def post_to_slack(message):
         print(f"Slack送信失敗: {response.status_code} {response.text}")
 
 def fetch_huggingface_papers():
-    url = "https://huggingface.co/papers"
-    try:
-        r = requests.get(url)
-        r.raise_for_status()
-    except Exception as e:
-        print(f"Hugging Face 読み込みエラー: {e}")
-        return []
+    url_list = [
+        "https://huggingface.co/papers",
+#        "XXX"
+    ]
+    for url in url_list:
+        try:
+            r = requests.get(url)
+            r.raise_for_status()
+        except Exception as e:
+            print(f"Hugging Face 読み込みエラー: {e}")
+            return []
 
     soup = BeautifulSoup(r.text, "html.parser")
     papers = []
