@@ -6,10 +6,7 @@ import time
 # === 設定 ===
 KEYWORDS = []
 # KEYWORDS = [
-#     " mercury ", " venus ", " mars ", " jupiter ", " saturn ", " uranus ", " neptune ", " moon ", 
-#     " phobos ", " deimos ", " io ", " europa ", " ganymede ", " calisto ", " enceladus ", 
-#     " dwarf planet ", " asteroid ", " comet ", " meteorite ", " habitable ", " habitability ", " exoplanet ", 
-#     " hermean ", " venusian ", " martian ", " jovian ", " lunar "
+#     " LLM ", " lunar "
 # ] # "planet", "solar system",  "kuiper belt", "pluto", "eris", "ceres", "makemake", "haumea", 
 
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL") # channel URL
@@ -44,7 +41,7 @@ def post_to_slack(message):
 def fetch_huggingface_papers():
     url_list = [
         "https://huggingface.co/papers",
-#        "XXX"
+        "https://rss.arxiv.org/rss/cs"
     ]
     for url in url_list:
         try:
