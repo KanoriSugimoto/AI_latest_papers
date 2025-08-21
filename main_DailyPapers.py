@@ -4,7 +4,9 @@ import os
 import time
 
 # === 設定 ===
-KEYWORDS = []
+KEYWORDS = [
+    "machine learning", "deep learning"
+]
 # KEYWORDS = [
 #     " LLM ", " lunar "
 # ] # "planet", "solar system",  "kuiper belt", "pluto", "eris", "ceres", "makemake", "haumea", 
