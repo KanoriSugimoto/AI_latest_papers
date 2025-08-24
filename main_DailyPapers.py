@@ -6,9 +6,9 @@ import time
 # === 設定 ===
 KEYWORDS = [
     " transformer ", " llm ", " large lunguage model ", " convolutional neural network ", " cnn ", " vision transformer ", " vit ", " self-supervised learning ", " representation learning ", " foundation model ", 
-    " object detection ", " object localization ", " region proposal ", " fast r-cnn ", " faster r-cnn ", " mask r-cnn ", " ssd ", " yolo ", " retainnet ", 
+    " object detection ", " object localization ", " detection ", " region proposal ", " fast r-cnn ", " faster r-cnn ", " mask r-cnn ", " ssd ", " yolo ", " retainnet ", 
     " anchor-based detection ", " anchor-free detection ", " multi-class detection ", " image segmentation ", " semantic segmentation ", " instance segmentaion ", " panoptic segmentaion ", " weakly-supervised segmentaiton ", " unsupervised segmentaion ", 
-    " u-net ", " deeplab ", " segformer ", " segment anything ", " mask2former ", " fcn ", " scene understanding ", " image classification ", " image recognition ", " keypoint detection ", " anomaly detevction ", 
+    " u-net ", " deeplab ", " segformer ", " segment anything ", " mask2former ", " fcn ", " scene understanding ", " image classification ", " image recognition ", " keypoint detection ", " anomaly detection ", 
     " remote sensing ", " satallite image ", " aerial imagery ", " few-shot learning ", " zero-shot learning ", " gemini ", " spatial understanding "
 ]
 # KEYWORDS = [
