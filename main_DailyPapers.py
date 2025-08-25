@@ -40,8 +40,7 @@ def post_to_slack(message):
 
 def fetch_huggingface_papers():
     url_list = [
-        "https://huggingface.co/papers",
-        "https://arxiv.org/rss/cs.LG"
+        "https://huggingface.co/papers"
     ]
     for url in url_list:
         try:
