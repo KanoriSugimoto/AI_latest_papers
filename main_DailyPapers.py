@@ -4,7 +4,12 @@ import os
 import time
 
 # === 設定 ===
-KEYWORDS = []
+KEYWORDS = [
+    " neural network ", " convolutional neural network ", " cnn ", " transformer ", " vision transformer ", " vit ", " self-supervised ", " representation learning ", " foundation model ", 
+    " object detection ", " object localization ", " region proposal ", " fast r-cnn ", " faster r-cnn ", " mask r-cnn ", " ssd ", " single shot detection ", " yolo ", " retainnet ", " anchor-based ", " anchor-free ", " one-stage ", " two-stage ", " tiny object ", " small object ", " multi-class ", 
+    " image segmentation ", " semantic segmentation ", " instance segmentation ", " panoptic segmentation ", " weakly-supervised ", " u-net ", " deeplab ", " segformer ", " segment anything ", " sam ", " mask2former ", " fcn ", " fully convolutional network ",
+    " scene understanding ", " image classification ", " image recognition ", " feature extraction ", " keypoint detection ", " anomaly detection ", " remote sensing ", " satellite image ", " aerial imagery ", " few-shot learning ", " zero-shot learning "
+]
 # KEYWORDS = [
 #     " lunar "
 # ]
