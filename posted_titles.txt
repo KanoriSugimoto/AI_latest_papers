@@ -381,3 +381,34 @@ VertexRegen: Mesh Generation with Continuous Level of Detail
 Cut2Next: Generating Next Shot via In-Context Tuning
 Feedback-Driven Tool-Use Improvements in Large Language Models via
   Automated Build Environments
+PGF-Net: A Progressive Gated-Fusion Framework for Efficient Multimodal Sentiment Analysis
+Transforming Causality: Transformer-Based Temporal Causal Discovery with Prior Knowledge Integration
+An Efficient Hybridization of Graph Representation Learning and Metaheuristics for the Constrained Incremental Graph Drawing Problem
+STA-GANN: A Valid and Generalizable Spatio-Temporal Kriging Approach
+Motor Imagery EEG Signal Classification Using Minimally Random Convolutional Kernel Transform and Hybrid Deep Learning
+PIANO: Physics Informed Autoregressive Network
+A XAI-based Framework for Frequency Subband Characterization of Cough Spectrograms in Chronic Respiratory Disease
+Fast and Accurate RFIC Performance Prediction via Pin Level Graph Neural Networks and Probabilistic Flow
+Double Check My Desired Return: Transformer with Target Alignment for Offline Reinforcement Learning
+TinyML Towards Industry 4.0: Resource-Efficient Process Monitoring of a Milling Machine
+Closer to Reality: Practical Semi-Supervised Federated Learning for Foundation Model Adaptation
+A Deep Learning-Based CCTV System for Automatic Smoking Detection in Fire Exit Zones
+A BERT-based Hierarchical Classification Model with Applications in Chinese Commodity Classification
+SDEC: Semantic Deep Embedded Clustering
+Mechanistic Exploration of Backdoored Large Language Model Attention Patterns
+Beyond Imaging: Vision Transformer Digital Twin Surrogates for 3D+T Biological Tissue Dynamics
+Continuous Determination of Respiratory Rate in Hospitalized Patients using Machine Learning Applied to Electrocardiogram Telemetry
+A simulation-based training framework for machine-learning applications in ARPES
+HePGA: A Heterogeneous Processing-in-Memory based GNN Training Accelerator
+FIRE-GNN: Force-informed, Relaxed Equivariance Graph Neural Network for Rapid and Accurate Prediction of Surface Properties
+Training a Foundation Model for Materials on a Budget
+From Indirect Object Identification to Syllogisms: Exploring Binary Mechanisms in Transformer Circuits
+Set Transformer Architectures and Synthetic Data Generation for Flow-Guided Nanoscale Localization
+OmniCache: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models
+HOSt3R: Keypoint-free Hand-Object 3D Reconstruction from RGB images
+Reinforcement Learning-based Control via Y-wise Affine Neural Networks (YANNs)
+Neural-Network solver of ideal MHD equilibria
+PENGUIN: Enhancing Transformer with Periodic-Nested Group Attention for Long-term Time Series Forecasting
+LIB-KD: Teaching Inductive Bias for Efficient Vision Transformer Distillation and Compression
+Overcoming classic challenges for artificial neural networks by providing incentives and practice
+Multi-Level Knowledge Distillation and Dynamic Self-Supervised Learning for Continual Learning
