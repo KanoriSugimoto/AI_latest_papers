@@ -10,9 +10,7 @@ KEYWORDS = [
     " image segmentation ", " semantic segmentation ", " instance segmentation ", " panoptic segmentation ", " weakly-supervised ", " u-net ", " deeplab ", " segformer ", " segment anything ", " sam ", " mask2former ", " fcn ", " fully convolutional network ",
     " scene understanding ", " image classification ", " image recognition ", " feature extraction ", " keypoint detection ", " anomaly detection ", " remote sensing ", " satellite image ", " aerial imagery ", " few-shot learning ", " zero-shot learning "
 ]
-# KEYWORDS = [
-#     " lunar "
-# ]
+
 
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL") # channel URL
 POSTED_TITLES_FILE = "posted_titles.txt" # for DailyPapers
@@ -44,16 +42,13 @@ def post_to_slack(message):
         print(f"Slack送信失敗: {response.status_code} {response.text}")
 
 def fetch_huggingface_papers():
-    url_list = [
-        "https://huggingface.co/papers"
-    ]
-    for url in url_list:
-        try:
-            r = requests.get(url)
-            r.raise_for_status()
-        except Exception as e:
-            print(f"Hugging Face 読み込みエラー: {e}")
-            return []
+    url = "https://huggingface.co/papers"
+    try:
+        r = requests.get(url)
+        r.raise_for_status()
+    except Exception as e:
+        print(f"Hugging Face 読み込みエラー: {e}")
+        return []
 
     soup = BeautifulSoup(r.text, "html.parser")
     papers = []
