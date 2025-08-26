@@ -412,3 +412,111 @@ PENGUIN: Enhancing Transformer with Periodic-Nested Group Attention for Long-ter
 LIB-KD: Teaching Inductive Bias for Efficient Vision Transformer Distillation and Compression
 Overcoming classic challenges for artificial neural networks by providing incentives and practice
 Multi-Level Knowledge Distillation and Dynamic Self-Supervised Learning for Continual Learning
+CrystalDiT: A Diffusion Transformer for Crystal Generation
+Recurrent Transformer U-Net Surrogate for Flow Modeling and Data Assimilation in Subsurface Formations with Faults
+A Novel Unified Extended Matrix for Graph Signal Processing: Theory and Application
+A Laplace diffusion-based transformer model for heart rate forecasting within daily activity context
+OASIS: Open-world Adaptive Self-supervised and Imbalanced-aware System
+WISCA: A Lightweight Model Transition Method to Improve LLM Training via Weight Scaling
+Multidimensional Distributional Neural Network Output Demonstrated in Super-Resolution of Surface Wind Speed
+Hyperbolic Multimodal Representation Learning for Biological Taxonomies
+FAIRWELL: Fair Multimodal Self-Supervised Learning for Wellbeing Prediction
+DR-CircuitGNN: Training Acceleration of Heterogeneous Circuit Graph Neural Network on GPUs
+Out of Distribution Detection for Efficient Continual Learning in Quality Prediction for Arc Welding
+Tri-Accel: Curvature-Aware Precision-Adaptive and Memory-Elastic Optimization for Efficient GPU Usage
+Attention Layers Add Into Low-Dimensional Residual Subspaces
+Degree of Staleness-Aware Data Updating in Federated Learning
+Convolutional Neural Networks for Accurate Measurement of Train Speed
+Reconciling Communication Compression and Byzantine-Robustness in Distributed Learning
+MoE-Beyond: Learning-Based Expert Activation Prediction on Edge Devices
+BudgetThinker: Empowering Budget-aware LLM Reasoning with Control Tokens
+GPG-HT: Generalized Policy Gradient with History-Aware Decision Transformer for Probabilistic Path Planning
+Curvature Learning for Generalization of Hyperbolic Neural Networks
+Module-Aware Parameter-Efficient Machine Unlearning on Transformers
+DeepCFD: Efficient near-ground airfoil lift coefficient approximation with deep convolutional neural networks
+Physics-informed neural network for fatigue life prediction of irradiated austenitic and ferritic/martensitic steels
+Effective Clustering for Large Multi-Relational Graphs
+Multimodal Representation Learning Conditioned on Semantic Relations
+GateTS: Versatile and Efficient Forecasting via Attention-Inspired routed Mixture-of-Experts
+Activation Transport Operators
+In-Context Algorithm Emulation in Fixed-Weight Transformers
+Quantum Graph Attention Network: A Novel Quantum Multi-Head Attention Mechanism for Graph Learning
+Longitudinal Progression Prediction of Alzheimer's Disease with Tabular Foundation Model
+Speculative Safety-Aware Decoding
+Learning to Detect Label Errors by Making Them: A Method for Segmentation and Object Detection Datasets
+Choice Outweighs Effort: Facilitating Complementary Knowledge Fusion in Federated Learning via Re-calibration and Merit-discrimination
+AQ-PCDSys: An Adaptive Quantized Planetary Crater Detection System for Autonomous Space Exploration
+Training Transformers for Mesh-Based Simulations
+Frozen in Time: Parameter-Efficient Time Series Transformers via Reservoir-Induced Feature Expansion and Fixed Random Dynamics
+HemePLM-Diffuse: A Scalable Generative Framework for Protein-Ligand Dynamics in Large Biomolecular System
+Bridging Foundation Models and Efficient Architectures: A Modular Brain Imaging Framework with Local Masking and Pretrained Representation Learning
+Generative Latent Diffusion Model for Inverse Modeling and Uncertainty Analysis in Geological Carbon Sequestration
+COVID19 Prediction Based On CT Scans Of Lungs Using DenseNet Architecture
+Walk-on-Interfaces: A Monte Carlo Estimator for an Elliptic Interface Problem with Nonhomogeneous Flux Jump Conditions and a Neumann Boundary Condition
+TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling
+TriagerX: Dual Transformers for Bug Triaging Tasks with Content and Interaction Based Rankings
+A Decoupled LOB Representation Framework for Multilevel Manipulation Detection with Supervised Contrastive Learning
+SugarcaneShuffleNet: A Very Fast, Lightweight Convolutional Neural Network for Diagnosis of 15 Sugarcane Leaf Diseases
+PlantVillageVQA: A Visual Question Answering Dataset for Benchmarking Vision-Language Models in Plant Science
+Token Homogenization under Positional Bias
+Quickly Tuning Foundation Models for Image Segmentation
+Optimizing Grasping in Legged Robots: A Deep Learning Approach to Loco-Manipulation
+A Synthetic Dataset for Manometry Recognition in Robotic Applications
+LodeStar: Long-horizon Dexterity via Synthetic Data Augmentation from Human Demonstrations
+Boltzina: Efficient and Accurate Virtual Screening via Docking-Guided Binding Prediction with Boltz-2
+Towards Optimal Convolutional Transfer Learning Architectures for Breast Lesion Classification and ACL Tear Detection
+CausalSent: Interpretable Sentiment Classification with RieszNet
+GWM: Towards Scalable Gaussian World Models for Robotic Manipulation
+Segmentation and Classification of Pap Smear Images for Cervical Cancer Detection Using Deep Learning
+ISACL: Internal State Analyzer for Copyrighted Training Data Leakage
+Algebraic Approach to Ridge-Regularized Mean Squared Error Minimization in Minimal ReLU Neural Network
+Robust Anomaly Detection in Industrial Environments via Meta-Learning
+A Contrastive Learning-Guided Confident Meta-learning for Zero Shot Anomaly Detection
+Diffusion-Based Data Augmentation for Medical Image Segmentation
+Development of a Neural Network Model for Currency Detection to aid visually impaired people in Nigeria
+Arnold: a generalist muscle transformer policy
+Hybrid Quantum-Classical Learning for Multiclass Image Classification
+PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation
+Emerging Semantic Segmentation from Positive and Negative Coarse Label Learning
+Unraveling the cognitive patterns of Large Language Models through module communities
+Flexibility-Conditioned Protein Structure Design with Flow Matching
+Hyperbolic Graph Neural Networks: A Review of Methods and Applications
+Quadratic Binary Optimization with Graph Neural Networks
+Hypformer: Exploring Efficient Transformer Fully in Hyperbolic Space
+Local Off-Grid Weather Forecasting with Multi-Modal Earth Observation Data
+ReHub: Linear Complexity Graph Transformers with Adaptive Hub-Spoke Reassignment
+Field Matching: an Electrostatic Paradigm to Generate and Transfer Data
+Imputation is Not Required: Incremental Feature Attention Learning of Tabular Data with Missing Values
+Fault Detection in New Wind Turbines with Limited Data by Generative Transfer Learning
+DeeP-Mod: Deep Dynamic Programming based Environment Modelling using Feature Extraction
+Rethinking Gating Mechanism in Sparse MoE: Handling Arbitrary Modality Inputs with Confidence-Guided Gate
+Equivariant Spherical Transformer for Efficient Molecular Modeling
+Accountability Attribution: Tracing Model Behavior to Training Processes
+How to craft a deep reinforcement learning policy for wind farm flow control
+Breaking Data Silos: Towards Open and Scalable Mobility Foundation Models via Generative Continual Learning
+GUST: Quantifying Free-Form Geometric Uncertainty of Metamaterials Using Small Data
+A foundation model with multi-variate parallel attention to generate neuronal activity
+Multi-Level Fusion Graph Neural Network for Molecule Property Prediction
+Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning
+Large-Scale Model Enabled Semantic Communication Based on Robust Knowledge Distillation
+An Unsupervised Deep XAI Framework for Localization of Concurrent Replay Attacks in Nuclear Reactor Signals
+CURE: Critical-Token-Guided Re-Concatenation for Entropy-Collapse Prevention
+Minimizing Surrogate Losses for Decision-Focused Learning using Differentiable Optimization
+Artificial Intelligence-Based Multiscale Temporal Modeling for Anomaly Detection in Cloud Services
+Intern-S1: A Scientific Multimodal Foundation Model
+Transformer-based Models to Deal with Heterogeneous Environments in Human Activity Recognition
+A Global Optimization Algorithm for K-Center Clustering of One Billion Samples
+Optimizing the Design of an Artificial Pancreas to Improve Diabetes Management
+SVGCraft: Beyond Single Object Text-to-SVG Synthesis with Comprehensive Canvas Layout
+EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding
+Adversarial Robustness in Two-Stage Learning-to-Defer: Algorithms and Guarantees
+CAARMA: Class Augmentation with Adversarial Mixup Regularization
+Exponentially Weighted Instance-Aware Repeat Factor Sampling for Long-Tailed Object Detection Model Training in Unmanned Aerial Vehicles Surveillance Scenarios
+SVD Based Least Squares for X-Ray Pneumonia Classification Using Deep Features
+HMAE: Self-Supervised Few-Shot Learning for Quantum Spin Systems
+IGNIS: A Robust Neural Network Framework for Constrained Parameter Estimation in Archimedean Copulas
+Beyond Blur: A Fluid Perspective on Generative Diffusion Models
+Global Convergence of Iteratively Reweighted Least Squares for Robust Subspace Recovery
+Efficient Pain Recognition via Respiration Signals: A Single Cross-Attention Transformer Multi-Window Fusion Pipeline
+Geometry-Aware Spiking Graph Neural Network
+Architectural Co-Design for Zero-Shot Anomaly Detection: Decoupling Representation and Dynamically Fusing Features in CLIP
