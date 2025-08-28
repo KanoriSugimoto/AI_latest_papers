@@ -573,3 +573,49 @@ Cohort-Aware Agents for Individualized Lung Cancer Risk Prediction Using a Retri
 Pessimistic Iterative Planning with RNNs for Robust POMDPs
 Multi-timescale time encoding for CNN prediction of Fenna-Matthews-Olson energy-transfer dynamics
 NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model
+Lossless Compression of Neural Network Components: Weights, Checkpoints, and K/V Caches in Low-Precision Formats
+Re:Frame -- Retrieving Experience From Associative Memory
+Atrial Fibrillation Prediction Using a Lightweight Temporal Convolutional and Selective State Space Architecture
+Fine-Tuning Vision-Language Models for Neutrino Event Analysis in High-Energy Physics Experiments
+Towards Quantum Machine Learning for Malicious Code Analysis
+DETNO: A Diffusion-Enhanced Transformer Neural Operator for Long-Term Traffic Forecasting
+Kolmogorov-Arnold Representation for Symplectic Learning: Advancing Hamiltonian Neural Networks
+Even Heads Fix Odd Errors: Mechanistic Discovery and Surgical Repair in Transformer Attention
+Differentiable multiphase flow model for physics-informed machine learning in reservoir pressure management
+Data-Augmented Few-Shot Neural Stencil Emulation for System Identification of Computer Models
+Data-Efficient Symbolic Regression via Foundation Model Distillation
+Just Because You Can, Doesn't Mean You Should: LLMs for Data Fitting
+Bi-LoRA: Efficient Sharpness-Aware Minimization for Fine-Tuning Large-Scale Models
+Counterfactual Reward Model Training for Bias Mitigation in Multimodal Reinforcement Learning
+Complementary Learning System Empowers Online Continual Learning of Vehicle Motion Forecasting in Smart Cities
+FinCast: A Foundation Model for Financial Time-Series Forecasting
+ALSA: Anchors in Logit Space for Out-of-Distribution Accuracy Estimation
+Fast 3D Diffusion for Scalable Granular Media Synthesis
+Symplectic convolutional neural networks
+Parameter-Free Structural-Diversity Message Passing for Graph Neural Networks
+GegenNet: Spectral Convolutional Neural Networks for Link Sign Prediction in Signed Bipartite Graphs
+FlowletFormer: Network Behavioral Semantic Aware Pre-training Model for Traffic Classification
+Self-Supervised Pre-Training with Equilibrium Constraints
+Cross-Platform E-Commerce Product Categorization and Recategorization: A Multimodal Hierarchical Classification Approach
+GENIE-ASI: Generative Instruction and Executable Code for Analog Subcircuit Identification
+Stack Trace-Based Crash Deduplication with Transformer Adaptation
+Topological Uncertainty for Anomaly Detection in the Neural-network EoS Inference with Neutron Star Data
+TrajFusionNet: Pedestrian Crossing Intention Prediction via Fusion of Sequential and Visual Trajectory Representations
+CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer Use Agent with Decoupled Reinforcement Learning
+TabSketchFM: Sketch-based Tabular Representation Learning for Data Discovery over Data Lakes
+Machine Learning for Asymptomatic Ratoon Stunting Disease Detection With Freely Available Satellite Based Multispectral Imaging
+Human locomotor control timescales depend on the environmental context and sensory input modality
+EnvInjection: Environmental Prompt Injection Attack to Multi-modal Web Agents
+Forecasting Multivariate Urban Data via Decomposition and Spatio-Temporal Graph Analysis
+BinConv: A Neural Architecture for Ordinal Encoding in Time-Series Forecasting
+ProARD: progressive adversarial robustness distillation: provide wide range of robust students
+EEGDM: EEG Representation Learning via Generative Diffusion Model
+Deep Learning of Semi-Competing Risk Data via a New Neural Expectation-Maximization Algorithm
+Predicting the cardinality and maximum degree of a reduced Gr\"obner basis
+Bayes-Optimal Fair Classification with Linear Disparity Constraints via Pre-, In-, and Post-processing
+On Domain-Adaptive Post-Training for Multimodal Large Language Models
+Score-based Generative Diffusion Models for Social Recommendations
+GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network
+SuperBPE: Space Travel for Language Models
+Predicting Forced Responses of Probability Distributions via the Fluctuation-Dissipation Theorem and Generative Modeling
+Analyzing Character Representation in Media Content using Multimodal Foundation Model: Effectiveness and Trust
