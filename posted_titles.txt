@@ -619,3 +619,45 @@ GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neura
 SuperBPE: Space Travel for Language Models
 Predicting Forced Responses of Probability Distributions via the Fluctuation-Dissipation Theorem and Generative Modeling
 Analyzing Character Representation in Media Content using Multimodal Foundation Model: Effectiveness and Trust
+What can we learn from signals and systems in a transformer? Insights for probabilistic modeling and inference architecture
+Latent Variable Modeling for Robust Causal Effect Estimation
+A Systematic Review on the Generative AI Applications in Human Medical Genomics
+Objective Value Change and Shape-Based Accelerated Optimization for the Neural Network Approximation
+Dynamics-Aligned Latent Imagination in Contextual World Models for Zero-Shot Generalization
+TF-TransUNet1D: Time-Frequency Guided Transformer U-Net for Robust ECG Denoising in Digital Twin
+Rethinking Transformer Connectivity: TLinFormer, A Path to Exact, Full Context-Aware Linear Attention
+Structure-aware Hypergraph Transformer for Diagnosis Prediction in Electronic Health Records
+Masked Autoencoders for Ultrasound Signals: Robust Representation Learning for Downstream Applications
+EEGDM: Learning EEG Representation with Latent Diffusion Model
+GPT-FT: An Efficient Automated Feature Transformation Using GPT for Sequence Reconstruction and Performance Enhancement
+ATM-GAD: Adaptive Temporal Motif Graph Anomaly Detection for Financial Transaction Networks
+Practical Physical Layer Authentication for Mobile Scenarios Using a Synthetic Dataset Enhanced Deep Learning Approach
+Turning Tabular Foundation Models into Graph Foundation Models
+Fast Convergence Rates for Subsampled Natural Gradient Algorithms on Quadratic Model Problems
+Multi-Objective Optimization of ReRAM Crossbars for Robust DNN Inferencing under Stochastic Noise
+Is the medical image segmentation problem solved? A survey of current developments and future directions
+Linking heterogeneous microstructure informatics with expert characterization knowledge through customized and hybrid vision-language representations for industrial qualification
+ELIXIR: Efficient and LIghtweight model for eXplaIning Recommendations
+Stochastic Gradients under Nuisances
+Graph-R1: Unleashing LLM Reasoning with NP-Hard Graph Problems
+CoFormer: Collaborating with Heterogeneous Edge Devices for Scalable Transformer Inference
+Dual-Model Weight Selection and Self-Knowledge Distillation for Medical Image Classification
+Machine-learning based particle-flow algorithm in CMS
+Unified Multi-task Learning for Voice-Based Detection of Diverse Clinical Conditions
+SKGE-SWIN: End-To-End Autonomous Vehicle Waypoint Prediction and Navigation Using Skip Stage Swin Transformer
+Learning Robust Spatial Representations from Binaural Audio through Feature Distillation
+Efficient Large-Scale Cross-Domain Sequential Recommendation with Dynamic State Representations
+Multilingual Dataset Integration Strategies for Robust Audio Deepfake Detection: A SAFE Challenge System
+ChainReaction! Structured Approach with Causal Chains as Intermediate Representations for Improved and Explainable Causal Video Question Answering
+LASE: Learned Adjacency Spectral Embeddings
+CT-PatchTST: Channel-Time Patch Time-Series Transformer for Long-Term Renewable Energy Forecasting
+Diagonal Symmetrization of Neural Network Solvers for the Many-Electron Schr\"odinger Equation
+Transformers Meet In-Context Learning: A Universal Approximation Theory
+GLProtein: Global-and-Local Structure Aware Protein Representation Learning
+Escaping Plato's Cave: JAM for Aligning Independently Trained Vision and Language Models
+DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation
+Improving Hospital Risk Prediction with Knowledge-Augmented Multimodal EHR Modeling
+VRPRM: Process Reward Modeling via Visual Reasoning
+SleepDIFFormer: Sleep Stage Classification via Multivariate Differential Transformer
+NetGPT: Generative Pretrained Transformer for Network Traffic
+Residual Neural Terminal Constraint for MPC-based Collision Avoidance in Dynamic Environments
