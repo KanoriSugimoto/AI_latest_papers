@@ -661,3 +661,34 @@ VRPRM: Process Reward Modeling via Visual Reasoning
 SleepDIFFormer: Sleep Stage Classification via Multivariate Differential Transformer
 NetGPT: Generative Pretrained Transformer for Network Traffic
 Residual Neural Terminal Constraint for MPC-based Collision Avoidance in Dynamic Environments
+Normalisation of SWIFT Message Counterparties with Feature Extraction and Clustering
+Spatiotemporal EEG-Based Emotion Recognition Using SAM Ratings from Serious Games with Hybrid Deep Learning
+An Explainable, Attention-Enhanced, Bidirectional Long Short-Term Memory Neural Network for Joint 48-Hour Forecasting of Temperature, Irradiance, and Relative Humidity
+Automating the Deep Space Network Data Systems; A Case Study in Adaptive Anomaly Detection through Agentic AI
+A Mixture of Experts Gating Network for Enhanced Surrogate Modeling in External Aerodynamics
+CALM: A Framework for Continuous, Adaptive, and LLM-Mediated Anomaly Detection in Time-Series Streams
+DLGAN : Time Series Synthesis Based on Dual-Layer Generative Adversarial Networks
+Adaptive Heavy-Tailed Stochastic Gradient Descent
+Iterative Inference in a Chess-Playing Neural Network
+Quantum enhanced ensemble GANs for anomaly detection in continuous biomanufacturing
+Spiking Decision Transformers: Local Plasticity, Phase-Coding, and Dendritic Routing for Low-Power Sequence Control
+OASIS: Harnessing Diffusion Adversarial Network for Ocean Salinity Imputation using Sparse Drifter Trajectories
+Neural Network Acceleration on MPSoC board: Integrating SLAC's SNL, Rogue Software and Auto-SNL
+Advanced Deep Learning Techniques for Classifying Dental Conditions Using Panoramic X-Ray Images
+Can Layer-wise SSL Features Improve Zero-Shot ASR Performance for Children's Speech?
+Weighted Support Points from Random Measures: An Interpretable Alternative for Generative Modeling
+Deep Active Learning for Lung Disease Severity Classification from Chest X-rays: Learning with Less Data in the Presence of Class Imbalance
+Multi-Ontology Integration with Dual-Axis Propagation for Medical Concept Representation
+Quantum-Enhanced Natural Language Generation: A Multi-Model Framework with Hybrid Quantum-Classical Architectures
+SatDINO: A Deep Dive into Self-Supervised Pretraining for Remote Sensing
+Binary Weight Multi-Bit Activation Quantization for Compute-in-Memory CNN Accelerators
+I Stolenly Swear That I Am Up to (No) Good: Design and Evaluation of Model Stealing Attacks
+Unsupervised Video Continual Learning via Non-Parametric Deep Embedded Clustering
+Mamba State-Space Models Are Lyapunov-Stable Learners
+SPIN-ODE: Stiff Physics-Informed Neural ODE for Chemical Reaction Rate Estimation
+WebInject: Prompt Injection Attack to Web Agents
+Time-RA: Towards Time Series Reasoning for Anomaly with LLM Feedback
+Inductive Domain Transfer In Misspecified Simulation-Based Inference
+Robustness is Important: Limitations of LLMs for Data Fitting
+BrainGPT: Unleashing the Potential of EEG Generalist Foundation Model by Autoregressive Pre-training
+Interpretation of Deep Learning Model in Embryo Selection for In Vitro Fertilization (IVF) Treatment
