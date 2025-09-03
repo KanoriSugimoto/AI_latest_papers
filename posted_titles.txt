@@ -692,3 +692,136 @@ Inductive Domain Transfer In Misspecified Simulation-Based Inference
 Robustness is Important: Limitations of LLMs for Data Fitting
 BrainGPT: Unleashing the Potential of EEG Generalist Foundation Model by Autoregressive Pre-training
 Interpretation of Deep Learning Model in Embryo Selection for In Vitro Fertilization (IVF) Treatment
+Industrial Steel Slag Flow Data Loading Method for Deep Learning Applications
+Adaptive Physics-Informed Neural Networks with Multi-Category Feature Engineering for Hydrogen Sorption Prediction in Clays, Shales, and Coals
+Applying Deep Learning to Anomaly Detection of Russian Satellite Activity for Indications Prior to Military Activity
+From Data to Decision: A Multi-Stage Framework for Class Imbalance Mitigation in Optical Network Failure Analysis
+AnomalyExplainer Explainable AI for LLM-based anomaly detection using BERTViz and Captum
+Experimental Assessment of a Multi-Class AI/ML Architecture for Real-Time Characterization of Cyber Events in a Live Research Reactor
+Centralized vs. Federated Learning for Educational Data Mining: A Comparative Study on Student Performance Prediction with SAEB Microdata
+Robust Detection of Synthetic Tabular Data under Schema Variability
+Pruning Weights but Not Truth: Safeguarding Truthfulness While Pruning LLMs
+Progressive Element-wise Gradient Estimation for Neural Network Quantization
+Exploiting a Mixture-of-Layers in an Electrocardiography Foundation Model
+From TLinFormer to TConstFormer: The Leap to Constant-Time Transformer Attention: Achieving O(1) Computation and O(1) KV Cache during Autoregressive Inference
+Speech Foundation Models Generalize to Time Series Tasks from Wearable Sensor Data
+Are We Really Learning the Score Function? Reinterpreting Diffusion Models Through Wasserstein Gradient Flow Matching
+LLM-Driven Policy Diffusion: Enhancing Generalization in Offline Reinforcement Learning
+Theory Foundation of Physics-Enhanced Residual Learning
+Memory Limitations of Prompt Tuning in Transformers
+RoFt-Mol: Benchmarking Robust Fine-Tuning with Molecular Graph Foundation Models
+Valid Property-Enhanced Contrastive Learning for Targeted Optimization & Resampling for Novel Drug Design
+Predicting Multi-Type Talented Students in Secondary School Using Semi-Supervised Machine Learning
+DTRNet: Dynamic Token Routing Network to Reduce Quadratic Costs in Transformers
+ART: Adaptive Resampling-based Training for Imbalanced Classification
+MEPT: Mixture of Expert Prompt Tuning as a Manifold Mapper
+Reinforcement Learning Driven Generalizable Feature Representation for Cross-User Activity Recognition
+CCE: Confidence-Consistency Evaluation for Time Series Anomaly Detection
+SC-GIR: Goal-oriented Semantic Communication via Invariant Representation Learning
+Unsupervised Identification and Replay-based Detection (UIRD) for New Category Anomaly Detection in ECG Signal
+Prediction, Generation of WWTPs microbiome community structures and Clustering of WWTPs various feature attributes using DE-BP model, SiTime-GAN model and DPNG-EPMC ensemble clustering algorithm with modulation of microbial ecosystem health
+REVELIO -- Universal Multimodal Task Load Estimation for Cross-Domain Generalization
+Robust Anomaly Detection through Multi-Modal Autoencoder Fusion for Small Vehicle Damage Detection
+Convolutional Monge Mapping between EEG Datasets to Support Independent Component Labeling
+A Multi-target Bayesian Transformer Framework for Predicting Cardiovascular Disease Biomarkers during Pandemics
+When LLM Meets Time Series: Can LLMs Perform Multi-Step Time Series Reasoning and Inference
+GradES: Significantly Faster Training in Transformers with Gradient-Based Early Stopping
+Preserving Bilinear Weight Spectra with a Signed and Shrunk Quadratic Activation Function
+Causal representation learning from network data
+A Continuous Encoding-Based Representation for Efficient Multi-Fidelity Multi-Objective Neural Architecture Search
+Knowledge distillation as a pathway toward next-generation intelligent ecohydrological modeling systems
+Semantic and episodic memories in a predictive coding model of the neocortex
+Towards Comprehensive Information-theoretic Multi-view Learning
+Scale, Don't Fine-tune: Guiding Multimodal LLMs for Efficient Visual Place Recognition at Test-Time
+Simulating classification models to evaluate Predict-Then-Optimize methods
+VariAntNet: Learning Decentralized Control of Multi-Agent Systems
+Learnable Loss Geometries with Mirror Descent for Scalable and Convergent Meta-Learning
+VASSO: Variance Suppression for Sharpness-Aware Minimization
+Generative Sequential Notification Optimization via Multi-Objective Decision Transformers
+HydroGAT: Distributed Heterogeneous Graph Attention Transformer for Spatiotemporal Flood Prediction
+Understanding sparse autoencoder scaling in the presence of feature manifolds
+Exploring the Efficacy of Convolutional Neural Networks in Sleep Apnea Detection from Single Channel EEG
+MedFormer: a data-driven model for forecasting the Mediterranean Sea
+Deep Learning for Operational High-Resolution Nowcasting in Switzerland Using Graph Neural Networks
+Migration as a Probe: A Generalizable Benchmark Framework for Specialist vs. Generalist Machine-Learned Force Fields in Doped Materials
+Scaling Legal AI: Benchmarking Mamba and Transformers for Statutory Classification and Case Law Retrieval
+Evaluating the Effectiveness of Transformer Layers in Wav2Vec 2.0, XLS-R, and Whisper for Speaker Identification Tasks
+Mechanistic interpretability for steering vision-language-action models
+Target-Oriented Single Domain Generalization
+Game Theoretic Resilience Recommendation Framework for CyberPhysical Microgrids Using Hypergraph MetaLearning
+Gated Associative Memory: A Parallel O(N) Architecture for Efficient Sequence Modeling
+Resting-state fMRI Analysis using Quantum Time-series Transformer
+Self-Organising Memristive Networks as Physical Learning Systems
+CaresAI at BioCreative IX Track 1 -- LLM for Biomedical QA
+Can General-Purpose Omnimodels Compete with Specialists? A Case Study in Medical Image Segmentation
+AgroSense: An Integrated Deep Learning System for Crop Recommendation via Soil Image Analysis and Nutrient Profiling
+Phase diagram and eigenvalue dynamics of stochastic gradient descent in multilayer neural networks
+M3Ret: Unleashing Zero-shot Multimodal Medical Image Retrieval via Self-Supervision
+Exploring Quantum Machine Learning for Weather Forecasting
+Temporal Representation Learning for Real-Time Ultrasound Analysis
+TransForSeg: A Multitask Stereo ViT for Joint Stereo Segmentation and 3D Force Estimation in Catheterization
+TransGAT: Transformer-Based Graph Neural Networks for Multi-Dimensional Automated Essay Scoring
+Preconditioned Regularized Wasserstein Proximal Sampling
+Music Genre Classification Using Machine Learning Techniques
+Modeling and benchmarking quantum optical neurons for efficient neural computation
+Real-Time Applicability of Emulated Virtual Circuits for Tokamak Plasma Shape Control
+AI-Driven Marine Robotics: Emerging Trends in Underwater Perception and Ecosystem Monitoring
+Computational Fluid Dynamics Optimization of F1 Front Wing using Physics Informed Neural Networks
+Inference in Spreading Processes with Neural-Network Priors
+SegFormer Fine-Tuning with Dropout: Advancing Hair Artifact Removal in Skin Lesion Analysis
+Understanding Space Is Rocket Science - Only Top Reasoning Models Can Solve Spatial Understanding Tasks
+Selection of Optimal Number and Location of PMUs for CNN Based Fault Location and Identification
+Speech transformer models for extracting information from baby cries
+AudioCodecBench: A Comprehensive Benchmark for Audio Codec Evaluation
+Ordinal Adaptive Correction: A Data-Centric Approach to Ordinal Image Classification with Noisy Labels
+An Ensemble Classification Approach in A Multi-Layered Large Language Model Framework for Disease Prediction
+EmoPerso: Enhancing Personality Detection with Self-Supervised Emotion-Aware Modelling
+GRAM-R$^2$: Self-Training Generative Foundation Reward Models for Reward Reasoning
+InDiD: Instant Disorder Detection via Representation Learning
+Knowledge-integrated AutoEncoder Model
+Deep Tensor Network
+Decentralized Transformers with Centralized Aggregation are Sample-Efficient Multi-Agent World Models
+Learning to (Learn at Test Time): RNNs with Expressive Hidden States
+Beyond the Kolmogorov Barrier: A Learnable Weighted Hybrid Autoencoder for Model Order Reduction
+Exploring Response Uncertainty in MLLMs: An Empirical Evaluation under Misleading Scenarios
+Contrastive MIM: A Contrastive Mutual Information Framework for Unified Generative and Discriminative Representation Learning
+Re-examining learning linear functions in context
+Skill-Enhanced Reinforcement Learning Acceleration from Heterogeneous Demonstrations
+Addressing Key Challenges of Adversarial Attacks and Defenses in the Tabular Domain: A Methodological Framework for Coherence and Consistency
+chebgreen: Learning and Interpolating Continuous Empirical Green's Functions from Data
+A Gap Between the Gaussian RKHS and Neural Networks: An Infinite-Center Asymptotic Analysis
+Tighten The Lasso: A Convex Hull Volume-based Anomaly Detection Method
+Armijo Line-search Can Make (Stochastic) Gradient Descent Provably Faster
+Learnable cut flow for high energy physics
+ORBIT-2: Scaling Exascale Vision Foundation Models for Weather and Climate Downscaling
+A Causality- and Frequency-Aware Deep Learning Framework for Wave Elevation Prediction Behind Floating Breakwaters
+A theoretical framework for self-supervised contrastive learning for continuous dependent data
+History-Aware Neural Operator: Robust Data-Driven Constitutive Modeling of Path-Dependent Materials
+Towards a Unified Textual Graph Framework for Spectral Reasoning via Physical and Chemical Information Fusion
+Graded Transformers
+Toward Efficient Spiking Transformers: Synapse Pruning Meets Synergistic Learning-Based Compensation
+Will You Be Aware? Eye Tracking-Based Modeling of Situational Awareness in Augmented Reality
+UQGNN: Uncertainty Quantification of Graph Neural Networks for Multivariate Spatiotemporal Prediction
+RISE: Enhancing VLM Image Annotation with Self-Supervised Reasoning
+Bridging Generalization and Personalization in Wearable Human Activity Recognition via On-Device Few-Shot Learning
+Multi-stream Convolutional Neural Network with Frequency Selection for Robust Speaker Verification
+Heterogeneous Directed Hypergraph Neural Network over abstract syntax tree (AST) for Code Classification
+Dyna-LfLH: Learning Agile Navigation in Dynamic Environments from Learned Hallucination
+A Data-Free Analytical Quantization Scheme for Deep Learning Models
+Full-Head Segmentation of MRI with Abnormal Brain Anatomy: Model and Data Release
+VPO: Aligning Text-to-Video Generation Models with Prompt Optimization
+Flip Learning: Weakly Supervised Erase to Segment Nodules in Breast Ultrasound
+Global Climate Model Bias Correction Using Deep Learning
+FreqSelect: Frequency-Aware fMRI-to-Image Reconstruction
+Unveil Multi-Picture Descriptions for Multilingual Mild Cognitive Impairment Detection via Contrastive Learning
+MedVAL: Toward Expert-Level Medical Text Validation with Language Models
+A Generalization Theory for Zero-Shot Prediction
+Demographic-aware fine-grained classification of pediatric wrist fractures
+ACD-CLIP: Decoupling Representation and Dynamic Fusion for Zero-Shot Anomaly Detection
+In-Context Learning as Nonparametric Conditional Probability Estimation: Risk Bounds and Optimality
+BConformeR: A Conformer Based on Mutual Sampling for Unified Prediction of Continuous and Discontinuous Antibody Binding Sites
+GenCompositor: Generative Video Compositing with Diffusion Transformer
+Towards More Diverse and Challenging Pre-training for Point Cloud
+  Learning: Self-Supervised Cross Reconstruction with Decoupled Views
+C-DiffDet+: Fusing Global Scene Context with Generative Denoising for
+  High-Fidelity Object Detection
