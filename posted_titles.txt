@@ -825,3 +825,59 @@ Towards More Diverse and Challenging Pre-training for Point Cloud
   Learning: Self-Supervised Cross Reconstruction with Decoupled Views
 C-DiffDet+: Fusing Global Scene Context with Generative Denoising for
   High-Fidelity Object Detection
+The Lifecycle Principle: Stabilizing Dynamic Neural Networks with State Memory
+Mentality: A Mamba-based Approach towards Foundation Models for EEG
+The Transparent Earth: A Multimodal Foundation Model for the Earth's Subsurface
+Learning Laplacian Eigenvectors: a Pre-training Method for Graph Neural Networks
+Power Grid Control with Graph-Based Distributed Reinforcement Learning
+PDRL: Post-hoc Descriptor-based Residual Learning for Uncertainty-Aware Machine Learning Potentials
+VendiRL: A Framework for Self-Supervised Reinforcement Learning of Diversely Diverse Skills
+Multimodal learning of melt pool dynamics in laser powder bed fusion
+LSAM: Asynchronous Distributed Training with Landscape-Smoothed Sharpness-Aware Minimization
+A Neural Network Approach to Multi-radionuclide TDCR Beta Spectroscopy
+Rashomon in the Streets: Explanation Ambiguity in Scene Understanding
+Systematic Evaluation of Attribution Methods: Eliminating Threshold Bias and Revealing Method-Dependent Performance Patterns
+Tabular foundation model for GEOAI benchmark problems BM/AirportSoilProperties/2/2025
+Unsupervised Learning based Element Resource Allocation for Reconfigurable Intelligent Surfaces in mmWave Network
+TopoMap: A Feature-based Semantic Discriminator of the Topographical Regions in the Test Input Space
+FoMEMO: Towards Foundation Models for Expensive Multi-objective Optimization
+HyPV-LEAD: Proactive Early-Warning of Cryptocurrency Anomalies through Data-Driven Structural-Temporal Modeling
+Exploring a Graph-based Approach to Offline Reinforcement Learning for Sepsis Treatment
+Invariant Features for Global Crop Type Classification
+Toward a robust lesion detection model in breast DCE-MRI: adapting foundation models to high-risk women
+Multi-Scale Deep Learning for Colon Histopathology: A Hybrid Graph-Transformer Approach
+A Data-Driven RetinaNet Model for Small Object Detection in Aerial Images
+RankGraph: Unified Heterogeneous Graph Learning for Cross-Domain Recommendation
+SurGBSA: Learning Representations From Molecular Dynamics Simulations
+TRELLIS-Enhanced Surface Features for Comprehensive Intracranial Aneurysm Analysis
+RecBase: Generative Foundation Model Pretraining for Zero-Shot Recommendation
+Count2Density: Crowd Density Estimation without Location-level Annotations
+Enhancing Interpretability and Effectiveness in Recommendation with Numerical Features via Learning to Contrast the Counterfactual samples
+Machine Learning-Driven Anomaly Detection for 5G O-RAN Performance Metrics
+Improving Perceptual Audio Aesthetic Assessment via Triplet Loss and Self-Supervised Embeddings
+An Effective Strategy for Modeling Score Ordinality and Non-uniform Intervals in Automated Speaking Assessment
+Understanding and Improving the Shampoo Optimizer via Kullback-Leibler Minimization
+Learning AC Power Flow Solutions using a Data-Dependent Variational Quantum Circuit
+Cost-Driven Representation Learning for Linear Quadratic Gaussian Control: Part I
+Deep Variational Multivariate Information Bottleneck -- A Framework for Variational Losses
+P2DT: Mitigating Forgetting in task-incremental Learning with progressive prompt Decision Transformer
+Soft-TransFormers for Continual Learning
+Predict, Cluster, Refine: A Joint Embedding Predictive Self-Supervised Framework for Graph Representation Learning
+Structure-preserving contrastive learning for spatial time series
+Investigating a Model-Agnostic and Imputation-Free Approach for Irregularly-Sampled Multivariate Time-Series Modeling
+Impoola: The Power of Average Pooling for Image-Based Deep Reinforcement Learning
+Explaining Anomalies with Tensor Networks
+FastCache: Fast Caching for Diffusion Transformer Through Learnable Linear Approximation
+Learning and Interpreting Gravitational-Wave Features from CNNs with a Random Forest Approach
+Revisiting Clustering of Neural Bandits: Selective Reinitialization for Mitigating Loss of Plasticity
+Neural Canonical Polyadic Factorization for Traffic Analysis
+SampleAttention: Near-Lossless Acceleration of Long Context LLM Inference with Adaptive Structured Sparse Attention
+Aligning Machine and Human Visual Representations across Abstraction Levels
+A Lorentz-Equivariant Transformer for All of the LHC
+Transformer-Based Power Optimization for Max-Min Fairness in Cell-Free Massive MIMO
+Model-based learning for joint channel estimationand hybrid MIMO precoding
+DeepTopoNet: A Framework for Subglacial Topography Estimation on the Greenland Ice Sheets
+Open-Set LiDAR Panoptic Segmentation Guided by Uncertainty-Aware Learning
+Flow Matching at Scale: A Machine Learning Framework for Efficient Large-Size Sampling of Many-Body Systems
+Mixture of Global and Local Experts with Diffusion Transformer for
+  Controllable Face Generation
