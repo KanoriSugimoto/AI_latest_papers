@@ -881,3 +881,46 @@ Open-Set LiDAR Panoptic Segmentation Guided by Uncertainty-Aware Learning
 Flow Matching at Scale: A Machine Learning Framework for Efficient Large-Size Sampling of Many-Body Systems
 Mixture of Global and Local Experts with Diffusion Transformer for
   Controllable Face Generation
+CEHR-GPT: A Scalable Multi-Task Foundation Model for Electronic Health Records
+AutoGrid AI: Deep Reinforcement Learning Framework for Autonomous Microgrid Management
+Differentiable Entropy Regularization for Geometry and Neural Networks
+What Fundamental Structure in Reward Functions Enables Efficient Sparse-Reward Learning?
+Machine Learning for LiDAR-Based Indoor Surface Classification in Intelligent Wireless Environments
+Peptidomic-Based Prediction Model for Coronary Heart Disease Using a Multilayer Perceptron Neural Network
+Topotein: Topological Deep Learning for Protein Representation Learning
+Formal Verification of Local Robustness of a Classification Algorithm for a Spatial Use Case
+Crossing the Species Divide: Transfer Learning from Speech to Animal Sounds
+Rethinking the long-range dependency in Mamba/SSM and transformer models
+A Primer on Causal and Statistical Dataset Biases for Fair and Robust Image Analysis
+Parking Availability Prediction via Fusing Multi-Source Data with A Self-Supervised Learning Enhanced Spatio-Temporal Inverted Transformer
+IPA: An Information-Preserving Input Projection Framework for Efficient Foundation Model Adaptation
+Interpretable Clustering with Adaptive Heterogeneous Causal Structure Learning in Mixed Observational Data
+ChronoGraph: A Real-World Graph-Based Multivariate Time Series Dataset
+Combining feature-based approaches with graph neural networks and symbolic regression for synergistic performance and interpretability
+Accurate and scalable deep Maxwell solvers using multilevel iterative methods
+Efficient Virtuoso: A Latent Diffusion Transformer Model for Goal-Conditioned Trajectory Planning
+MLSD: A Novel Few-Shot Learning Approach to Enhance Cross-Target and Cross-Domain Stance Detection
+Finetuning AI Foundation Models to Develop Subgrid-Scale Parameterizations: A Case Study on Atmospheric Gravity Waves
+Hardware-Aware Data and Instruction Mapping for AI Tasks: Balancing Parallelism, I/O and Memory Tradeoffs
+Reactive In-Air Clothing Manipulation with Confidence-Aware Dense Correspondence and Visuotactile Affordance
+LMAE4Eth: Generalizable and Robust Ethereum Fraud Detection by Exploring Transaction Semantics and Masked Graph Embedding
+Expanding Foundational Language Capabilities in Open-Source LLMs through a Korean Case Study
+COBRA: Multimodal Sensing Deep Learning Framework for Remote Chronic Obesity Management via Wrist-Worn Activity Monitoring
+Sailing Towards Zero-Shot State Estimation using Foundation Models Combined with a UKF
+Improving Robustness of AlphaZero Algorithms to Test-Time Environment Changes
+Decoupled Entity Representation Learning for Pinterest Ads Ranking
+Moco: A Learnable Meta Optimizer for Combinatorial Optimization
+Unisolver: PDE-Conditional Transformers Towards Universal Neural PDE Solvers
+Multi-Label Bayesian Active Learning with Inter-Label Relationships
+Dataset Distillation as Pushforward Optimal Quantization
+Extended Histogram-based Outlier Score (EHBOS)
+Imputation-free Learning of Tabular Data with Missing Values using Incremental Feature Partitions in Transformer
+Technology prediction of a 3D model using Neural Network
+Is Random Attention Sufficient for Sequence Modeling? Disentangling Trainable Components in the Transformer
+Federated Isolation Forest for Efficient Anomaly Detection on Edge IoT Systems
+Stochastic Parameter Decomposition
+UniExtreme: A Universal Foundation Model for Extreme Weather Forecasting
+One Small Step with Fingerprints, One Giant Leap for De Novo Molecule Generation from Mass Spectra
+EvoCoT: Overcoming the Exploration Bottleneck in Reinforcement Learning
+Hardware-Friendly Diffusion Models with Fixed-Size Reusable Structures for On-Device Image Generation
+Understanding Space Is Rocket Science -- Only Top Reasoning Models Can Solve Spatial Understanding Tasks
