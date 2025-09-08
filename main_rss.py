@@ -11,8 +11,8 @@ RSS_FEEDS = [
 KEYWORDS = [
     " transformer ", 
     " object detection ", " single shot detection ", 
-    " image segmentation ", " semantic segmentation ", " instance segmentation ",
-    " scene understanding ", " image classification ", " image recognition ", " feature extraction ", " keypoint detection ", " anomaly detection ", " remote sensing ", " satellite image ", " aerial imagery ", " few-shot learning ", " zero-shot learning "
+    " image segmentation ", " semantic segmentation ", " instance segmentation ", " segformer ",
+    " scene understanding ", " image classification ", " remote sensing ", " satellite image ", " aerial imagery ",
 ] # "planet", "solar system",  "kuiper belt", "pluto", "eris", "ceres", "makemake", "haumea", 
 
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
