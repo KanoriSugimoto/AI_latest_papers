@@ -924,3 +924,37 @@ One Small Step with Fingerprints, One Giant Leap for De Novo Molecule Generation
 EvoCoT: Overcoming the Exploration Bottleneck in Reinforcement Learning
 Hardware-Friendly Diffusion Models with Fixed-Size Reusable Structures for On-Device Image Generation
 Understanding Space Is Rocket Science -- Only Top Reasoning Models Can Solve Spatial Understanding Tasks
+Toward Faithfulness-guided Ensemble Interpretation of Neural Network
+Interpreting Transformer Architectures as Implicit Multinomial Regression
+Flexible inference of learning rules from de novo learning data using neural networks
+Beyond I-Con: Exploring New Dimension of Distance Measures in Representation Learning
+VARMA-Enhanced Transformer for Time Series Forecasting
+Graph Unlearning: Efficient Node Removal in Graph Neural Networks
+A transformer-BiGRU-based framework with data augmentation and confident learning for network intrusion detection
+Depth-Aware Initialization for Stable and Efficient Neural Network Training
+Recurrent State Encoders for Efficient Neural Combinatorial Optimization
+Foundational Models and Federated Learning: Survey, Taxonomy, Challenges and Practical Insights
+Accuracy-Constrained CNN Pruning for Efficient and Reliable EEG-Based Seizure Detection
+SpikingBrain Technical Report: Spiking Brain-inspired Large Models
+Dual-Branch Convolutional Framework for Spatial and Frequency-Based Image Forgery Detection
+Learning to accelerate distributed ADMM using graph neural networks
+Multiscale Graph Neural Network for Turbulent Flow-Thermal Prediction Around a Complex-Shaped Pin-Fin
+Inferring the Graph Structure of Images for Graph Neural Networks
+Unified Representation Learning for Multi-Intent Diversity and Behavioral Uncertainty in Recommender Systems
+Extracting Uncertainty Estimates from Mixtures of Experts for Semantic Segmentation
+Adversarial Augmentation and Active Sampling for Robust Cyber Anomaly Detection
+Lightweight DNN for Full-Band Speech Denoising on Mobile Devices: Exploiting Long and Short Temporal Patterns
+Enhancing 3D Point Cloud Classification with ModelNet-R and Point-SkipNet
+Recomposer: Event-roll-guided generative audio editing
+Crosscoding Through Time: Tracking Emergence & Consolidation Of Linguistic Representations Throughout LLM Pretraining
+Continuum Attention for Neural Operators
+Using Causality for Enhanced Prediction of Web Traffic Time Series
+ALF: Advertiser Large Foundation Model for Multi-Modal Advertiser Understanding
+Scalable Unit Harmonization in Medical Informatics via Bayesian-Optimized Retrieval and Transformer-Based Re-ranking
+CEHR-XGPT: A Scalable Multi-Task Foundation Model for Electronic Health Records
+FAGC:Feature Augmentation on Geodesic Curve in the Pre-Shape Space
+Neural Network Verification with PyRAT
+Graph Transformer-Based Flood Susceptibility Mapping: Application to the French Riviera and Railway Infrastructure Under Climate Change
+EEG Foundation Challenge: From Cross-Task to Cross-Subject EEG Decoding
+RS-TinyNet: Stage-wise Feature Fusion Network for Detecting Tiny Objects in Remote Sensing Images
+LuxDiT: Lighting Estimation with Video Diffusion Transformer
