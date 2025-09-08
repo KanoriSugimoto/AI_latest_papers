@@ -10,8 +10,8 @@ RSS_FEEDS = [
 
 KEYWORDS = [
     " transformer ", 
-    " object detection ", " single shot detection ", " yolo ", 
-    " image segmentation ", " semantic segmentation ", " instance segmentation ", " panoptic segmentation ", " weakly-supervised ", " u-net ", " deeplab ", " segformer ", " segment anything ", " sam ", " mask2former ", " fcn ", " fully convolutional network ",
+    " object detection ", " single shot detection ", 
+    " image segmentation ", " semantic segmentation ", " instance segmentation ",
     " scene understanding ", " image classification ", " image recognition ", " feature extraction ", " keypoint detection ", " anomaly detection ", " remote sensing ", " satellite image ", " aerial imagery ", " few-shot learning ", " zero-shot learning "
 ] # "planet", "solar system",  "kuiper belt", "pluto", "eris", "ceres", "makemake", "haumea", 
 
