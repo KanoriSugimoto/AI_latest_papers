@@ -6,9 +6,9 @@ import time
 # === 設定 ===
 KEYWORDS = [
     " transformer ", " vision transformer ", 
-    " object detection ", " object localization ", " single shot detection ", " multi-class ", 
+    " object detection ", " single shot detection ", 
     " image segmentation ", " semantic segmentation ", " instance segmentation ", " segformer ",
-    " scene understanding ", " image classification ", " image recognition ", " feature extraction ", " anomaly detection ", " satellite image ", " aerial imagery ", " few-shot learning ", " zero-shot learning "
+    " scene understanding ", " image classification ", " image recognition ", " anomaly detection ", " satellite image ", " aerial imagery ", " few-shot learning ", " zero-shot learning "
 ]
 
 
