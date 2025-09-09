@@ -9,8 +9,7 @@ RSS_FEEDS = [
 ]
 
 KEYWORDS = [
-    " transformer ", 
-    " object detection ", " single shot detection ", 
+    " object detection ", 
     " image segmentation ", " semantic segmentation ", " instance segmentation ", " segformer ",
     " scene understanding ", " image classification ", " image recognition ", " anomaly detection ", " satellite image ", " aerial imagery ", " few-shot learning ", " zero-shot learning "
 ] # "planet", "solar system",  "kuiper belt", "pluto", "eris", "ceres", "makemake", "haumea", 
