@@ -4,9 +4,8 @@ import os
 import time
 
 # === 設定 ===
-KEYWORDS = [
-    " transformer ", " vision transformer ", 
-    " object detection ", " single shot detection ", 
+KEYWORDS = [ 
+    " object detection ", 
     " image segmentation ", " semantic segmentation ", " instance segmentation ", " segformer ",
     " scene understanding ", " image classification ", " image recognition ", " anomaly detection ", " satellite image ", " aerial imagery ", " few-shot learning ", " zero-shot learning "
 ]
