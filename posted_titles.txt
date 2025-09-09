@@ -958,3 +958,39 @@ Graph Transformer-Based Flood Susceptibility Mapping: Application to the French 
 EEG Foundation Challenge: From Cross-Task to Cross-Subject EEG Decoding
 RS-TinyNet: Stage-wise Feature Fusion Network for Detecting Tiny Objects in Remote Sensing Images
 LuxDiT: Lighting Estimation with Video Diffusion Transformer
+Neural Breadcrumbs: Membership Inference Attacks on LLMs Through Hidden State and Attention Pattern Analysis
+Prior Distribution and Model Confidence
+DQS: A Low-Budget Query Strategy for Enhancing Unsupervised Data-driven Anomaly Detection Approaches
+Ensemble of Precision-Recall Curve (PRC) Classification Trees with Autoencoders
+WindFM: An Open-Source Foundation Model for Zero-Shot Wind Power Forecasting
+CAPMix: Robust Time Series Anomaly Detection Based on Abnormal Assumptions with Dual-Space Mixup
+CAME-AB: Cross-Modality Attention with Mixture-of-Experts for Antibody Binding Site Prediction
+Lane Change Intention Prediction of two distinct Populations using a Transformer
+Contrastive Self-Supervised Network Intrusion Detection using Augmented Negative Pairs
+A Survey of Generalization of Graph Anomaly Detection: From Transfer Learning to Foundation Models
+From Noise to Narrative: Tracing the Origins of Hallucinations in Transformers
+VILOD: A Visual Interactive Labeling Tool for Object Detection
+ALPHA: LLM-Enabled Active Learning for Human-Free Network Anomaly Detection
+Grasp-MPC: Closed-Loop Visual Grasping via Value-Guided Model Predictive Control
+MRD-LiNet: A Novel Lightweight Hybrid CNN with Gradient-Guided Unlearning for Improved Drought Stress Identification
+IGAff: Benchmarking Adversarial Iterative and Genetic Affine Algorithms on Deep Neural Networks
+Impact of Labeling Inaccuracy and Image Noise on Tooth Segmentation in Panoramic Radiographs using Federated, Centralized and Local Learning
+COMPACT: Common-token Optimized Model Pruning Across Channels and Tokens
+Hypergraph-Guided Regex Filter Synthesis for Event-Based Anomaly Detection
+H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers
+DACAD: Domain Adaptation Contrastive Learning for Anomaly Detection in Multivariate Time Series
+Flash STU: Fast Spectral Transform Units
+M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models
+Who Gets Credit or Blame? Attributing Accountability in Modern AI Systems
+Scaling Laws of Motion Forecasting and Planning - Technical Report
+A Gravity-informed Spatiotemporal Transformer for Human Activity Intensity Prediction
+Your Attention Matters: to Improve Model Robustness to Noise and Spurious Correlations
+Bridging Generalization and Personalization in Human Activity Recognition via On-Device Few-Shot Learning
+Amortized In-Context Mixed Effect Transformer Models: A Zero-Shot Approach for Pharmacokinetics
+VIBESegmentator: Full Body MRI Segmentation for the NAKO and UK Biobank
+Efficient and Accurate Pneumonia Detection Using a Novel Multi-Scale Transformer Approach
+Evidential Transformers for Improved Image Retrieval
+AARK: An Open Toolkit for Autonomous Racing Research
+Robust detection of overlapping bioacoustic sound events
+StreamMind: Unlocking Full Frame Rate Streaming Video Dialogue through Event-Gated Cognition
+Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models
