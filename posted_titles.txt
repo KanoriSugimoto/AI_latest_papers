@@ -994,3 +994,13 @@ AARK: An Open Toolkit for Autonomous Racing Research
 Robust detection of overlapping bioacoustic sound events
 StreamMind: Unlocking Full Frame Rate Streaming Video Dialogue through Event-Gated Cognition
 Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models
+1 bit is all we need: binary normalized neural networks
+Methodological Insights into Structural Causal Modelling and Uncertainty-Aware Forecasting for Economic Indicators
+Hybrid GCN-GRU Model for Anomaly Detection in Cryptocurrency Transactions
+Beyond Rebalancing: Benchmarking Binary Classifiers Under Class Imbalance Without Rebalancing Techniques
+SAM$^{*}$: Task-Adaptive SAM with Physics-Guided Rewards
+Synthetic Data Generation with Lorenzetti for Time Series Anomaly Detection in High-Energy Physics Calorimeters
+MedicalPatchNet: A Patch-Based Self-Explainable AI Architecture for Chest X-ray Classification
+Nearest Neighbor Projection Removal Adversarial Training
+FilterFL: Knowledge Filtering-based Data-Free Backdoor Defense for Federated Learning
+GeoChain: Multimodal Chain-of-Thought for Geographic Reasoning
