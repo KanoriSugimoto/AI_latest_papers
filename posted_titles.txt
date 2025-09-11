@@ -1004,3 +1004,8 @@ MedicalPatchNet: A Patch-Based Self-Explainable AI Architecture for Chest X-ray 
 Nearest Neighbor Projection Removal Adversarial Training
 FilterFL: Knowledge Filtering-based Data-Free Backdoor Defense for Federated Learning
 GeoChain: Multimodal Chain-of-Thought for Geographic Reasoning
+A layered architecture for log analysis in complex IT systems
+Agents of Discovery
+From Channel Bias to Feature Redundancy: Uncovering the "Less is More" Principle in Few-Shot Learning
+A Randomized Zeroth-Order Hierarchical Framework for Heterogeneous Federated Learning
+Real Time Semantic Segmentation of High Resolution Automotive LiDAR Scans
