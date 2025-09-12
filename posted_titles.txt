@@ -1009,3 +1009,8 @@ Agents of Discovery
 From Channel Bias to Feature Redundancy: Uncovering the "Less is More" Principle in Few-Shot Learning
 A Randomized Zeroth-Order Hierarchical Framework for Heterogeneous Federated Learning
 Real Time Semantic Segmentation of High Resolution Automotive LiDAR Scans
+Deep Context-Conditioned Anomaly Detection for Tabular Data
+Cough Classification using Few-Shot Learning
+Model-Agnostic Open-Set Air-to-Air Visual Object Detection for Reliable UAV Perception
+Exploring Pre-training Across Domains for Few-Shot Surgical Skill Assessment
+Unveiling Multiple Descents in Unsupervised Autoencoders
