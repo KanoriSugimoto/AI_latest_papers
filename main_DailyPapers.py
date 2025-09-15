@@ -7,7 +7,7 @@ import time
 KEYWORDS = [ 
     " object detection ", 
     " image segmentation ", " semantic segmentation ", " instance segmentation ", " segformer ",
-    " scene understanding ", " image classification ", " image recognition ", " anomaly detection ", " satellite image ", " aerial imagery ", " few-shot learning ", " zero-shot learning "
+    " scene understanding ", " image classification ", " image recognition ", " satellite image ", " aerial imagery ", " few-shot learning ", " zero-shot learning "
 ]
 
 
