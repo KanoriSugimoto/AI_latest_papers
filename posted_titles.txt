@@ -1014,3 +1014,13 @@ Cough Classification using Few-Shot Learning
 Model-Agnostic Open-Set Air-to-Air Visual Object Detection for Reliable UAV Perception
 Exploring Pre-training Across Domains for Few-Shot Surgical Skill Assessment
 Unveiling Multiple Descents in Unsupervised Autoencoders
+Run-Time Monitoring of ERTMS/ETCS Control Flow by Process Mining
+DGFusion: Depth-Guided Sensor Fusion for Robust Semantic Perception
+WAVE-DETR Multi-Modal Visible and Acoustic Real-Life Drone Detector
+Prototypical Contrastive Learning For Improved Few-Shot Audio Classification
+MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection
+I-Segmenter: Integer-Only Vision Transformer for Efficient Semantic Segmentation
+Matrix-free Neural Preconditioner for the Dirac Operator in Lattice Gauge Theory
+Interpretable Data-driven Anomaly Detection in Industrial Processes with ExIFFI
+Neural Force Field: Few-shot Learning of Generalized Physical Reasoning
+PL-Net: Progressive Learning Network for Medical Image Segmentation
