@@ -1024,3 +1024,10 @@ Matrix-free Neural Preconditioner for the Dirac Operator in Lattice Gauge Theory
 Interpretable Data-driven Anomaly Detection in Industrial Processes with ExIFFI
 Neural Force Field: Few-shot Learning of Generalized Physical Reasoning
 PL-Net: Progressive Learning Network for Medical Image Segmentation
+FEDEXCHANGE: Bridging the Domain Gap in Federated Object Detection for Free
+An Advanced Convolutional Neural Network for Bearing Fault Diagnosis under Limited Data
+Intelligent Reservoir Decision Support: An Integrated Framework Combining Large Language Models, Advanced Prompt Engineering, and Multimodal Data Fusion for Real-Time Petroleum Operations
+Inducing Uncertainty for Test-Time Privacy
+FireGNN: Neuro-Symbolic Graph Neural Networks with Trainable Fuzzy Rules for Interpretable Medical Image Classification
+Modality-Aware Infrared and Visible Image Fusion with Target-Aware Supervision
+SEVEN: Pruning Transformer Model by Reserving Sentinels
