@@ -1031,3 +1031,11 @@ Inducing Uncertainty for Test-Time Privacy
 FireGNN: Neuro-Symbolic Graph Neural Networks with Trainable Fuzzy Rules for Interpretable Medical Image Classification
 Modality-Aware Infrared and Visible Image Fusion with Target-Aware Supervision
 SEVEN: Pruning Transformer Model by Reserving Sentinels
+Hybrid Quantum-Classical Model for Image Classification
+ColonCrafter: A Depth Estimation Model for Colonoscopy Videos Using Diffusion Priors
+Dynamic Aware: Adaptive Multi-Mode Out-of-Distribution Detection for Trajectory Prediction in Autonomous Vehicles
+Consistent View Alignment Improves Foundation Models for 3D Medical Image Segmentation
+FedDiverse: Tackling Data Heterogeneity in Federated Learning with Diversity-Driven Client Selection
+Pseudo-Asynchronous Local SGD: Robust and Efficient Data-Parallel Training
+Improving Generalizability of Kolmogorov-Arnold Networks via Error-Correcting Output Codes
+Direct Video-Based Spatiotemporal Deep Learning for Cattle Lameness Detection
