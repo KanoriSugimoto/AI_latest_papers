@@ -11,8 +11,8 @@ RSS_FEEDS = [
 KEYWORDS = [
     " object detection ", 
     " image segmentation ", " semantic segmentation ", " instance segmentation ", " segformer ",
-    " scene understanding ", " image classification ", " image recognition ", " satellite image ", " aerial imagery ", " few-shot learning ", " zero-shot learning "
-] # "planet", "solar system",  "kuiper belt", "pluto", "eris", "ceres", "makemake", "haumea", 
+    " image classification ", " satellite image ", " aerial imagery ", " few-shot learning ", " zero-shot learning "
+]
 
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
 POSTED_TITLES_FILE = "posted_titles.txt"
