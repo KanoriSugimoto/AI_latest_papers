@@ -1039,3 +1039,6 @@ FedDiverse: Tackling Data Heterogeneity in Federated Learning with Diversity-Dri
 Pseudo-Asynchronous Local SGD: Robust and Efficient Data-Parallel Training
 Improving Generalizability of Kolmogorov-Arnold Networks via Error-Correcting Output Codes
 Direct Video-Based Spatiotemporal Deep Learning for Cattle Lameness Detection
+Synthetic-to-Real Object Detection using YOLOv11 and Domain Randomization Strategies
+Fast Multipole Attention: A Scalable Multilevel Attention Mechanism for Text and Images
+Style Transfer with Diffusion Models for Synthetic-to-Real Domain Adaptation
