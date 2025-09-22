@@ -1042,3 +1042,7 @@ Direct Video-Based Spatiotemporal Deep Learning for Cattle Lameness Detection
 Synthetic-to-Real Object Detection using YOLOv11 and Domain Randomization Strategies
 Fast Multipole Attention: A Scalable Multilevel Attention Mechanism for Text and Images
 Style Transfer with Diffusion Models for Synthetic-to-Real Domain Adaptation
+Towards Size-invariant Salient Object Detection: A Generic Evaluation and Optimization Approach
+Training Variational Quantum Circuits Using Particle Swarm Optimization
+The Missing Piece: A Case for Pre-Training in 3D Medical Object Detection
+Disentangling Latent Shifts of In-Context Learning with Weak Supervision
