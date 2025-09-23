@@ -1046,3 +1046,9 @@ Towards Size-invariant Salient Object Detection: A Generic Evaluation and Optimi
 Training Variational Quantum Circuits Using Particle Swarm Optimization
 The Missing Piece: A Case for Pre-Training in 3D Medical Object Detection
 Disentangling Latent Shifts of In-Context Learning with Weak Supervision
+Stabilizing Information Flow Entropy: Regularization for Safe and Interpretable Autonomous Driving Perception
+Training the next generation of physicians for artificial intelligence-assisted clinical neuroradiology: ASNR MICCAI Brain Tumor Segmentation (BraTS) 2025 Lighthouse Challenge education platform
+Uncertainty-Supervised Interpretable and Robust Evidential Segmentation
+BiPrompt-SAM: Enhancing Image Segmentation via Explicit Selection between Point and Text Prompts
+Interpretability-Aware Pruning for Efficient Medical Image Analysis
+Blockchain-Enabled Federated Learning
