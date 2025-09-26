@@ -1065,3 +1065,11 @@ Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models
 The SkipSponge Attack: Sponge Weight Poisoning of Deep Neural Networks
 SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection
 Multimodal Reference Visual Grounding
+Efficiently Attacking Memorization Scores
+Understanding and Improving Adversarial Robustness of Neural Probabilistic Circuits
+Mechanism of Task-oriented Information Removal in In-context Learning
+Sparse Representations Improve Adversarial Robustness of Neural Network Classifiers
+From Physics to Machine Learning and Back: Part II - Learning and Observational Bias in PHM
+Discovery Learning accelerates battery design evaluation
+Lightweight Modular Parameter-Efficient Tuning for Open-Vocabulary Object Detection
+CONSIGN: Conformal Segmentation Informed by Spatial Groupings via Decomposition
