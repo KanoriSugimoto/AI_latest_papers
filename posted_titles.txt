@@ -1073,3 +1073,13 @@ From Physics to Machine Learning and Back: Part II - Learning and Observational 
 Discovery Learning accelerates battery design evaluation
 Lightweight Modular Parameter-Efficient Tuning for Open-Vocabulary Object Detection
 CONSIGN: Conformal Segmentation Informed by Spatial Groupings via Decomposition
+Wavelet-Induced Rotary Encodings: RoPE Meets Graphs
+Coreset selection based on Intra-class diversity
+Learnable Conformal Prediction with Context-Aware Nonconformity Functions for Robotic Planning and Perception
+COMPASS: Robust Feature Conformal Prediction for Medical Segmentation Metrics
+Integrating Background Knowledge in Medical Semantic Segmentation with Logic Tensor Networks
+Training-Free Synthetic Data Generation with Dual IP-Adapter Guidance
+Spectral Graph Neural Networks are Incomplete on Graphs with a Simple Spectrum
+SNR and Resource Adaptive Deep JSCC for Distributed IoT Image Classification
+Tricks and Plug-ins for Gradient Boosting in Image Classification
+Real-Time Object Detection Meets DINOv3
