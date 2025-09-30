@@ -1083,3 +1083,21 @@ Spectral Graph Neural Networks are Incomplete on Graphs with a Simple Spectrum
 SNR and Resource Adaptive Deep JSCC for Distributed IoT Image Classification
 Tricks and Plug-ins for Gradient Boosting in Image Classification
 Real-Time Object Detection Meets DINOv3
+MonoCon: A general framework for learning ultra-compact high-fidelity representations using monotonicity constraints
+Dynamics of Learning: Generative Schedules from Latent ODEs
+GZSL-MoE: Apprentissage G{\'e}n{\'e}ralis{\'e} Z{\'e}ro-Shot bas{\'e} sur le M{\'e}lange d'Experts pour la Segmentation S{\'e}mantique de Nuages de Points 3DAppliqu{\'e} {\`a} un Jeu de Donn{\'e}es d'Environnement de Collaboration Humain-Robot
+FMC-DETR: Frequency-Decoupled Multi-Domain Coordination for Aerial-View Object Detection
+S$^3$F-Net: A Multi-Modal Approach to Medical Image Classification via Spatial-Spectral Summarizer Fusion Network
+Spatially Parallel All-optical Neural Networks
+Diff-3DCap: Shape Captioning with Diffusion Models
+A Multi-Camera Vision-Based Approach for Fine-Grained Assembly Quality Control
+Singleton-Optimized Conformal Prediction
+Environment-Aware Satellite Image Generation with Diffusion Models
+CLASP: Adaptive Spectral Clustering for Unsupervised Per-Image Segmentation
+VT-FSL: Bridging Vision and Text with LLMs for Few-Shot Learning
+CRAUM-Net: Contextual Recursive Attention with Uncertainty Modeling for Salient Object Detection
+Diagnosing and Mitigating Modality Interference in Multimodal Large Language Models
+CC-Time: Cross-Model and Cross-Modality Time Series Forecasting
+MIAFEx: An Attention-based Feature Extraction Method for Medical Image Classification
+Mechanistic Fine-tuning for In-context Learning
+The Geometry of Cortical Computation: Manifold Disentanglement and Predictive Dynamics in VCNet
