@@ -1101,3 +1101,8 @@ CC-Time: Cross-Model and Cross-Modality Time Series Forecasting
 MIAFEx: An Attention-based Feature Extraction Method for Medical Image Classification
 Mechanistic Fine-tuning for In-context Learning
 The Geometry of Cortical Computation: Manifold Disentanglement and Predictive Dynamics in VCNet
+Evaluating the Impact of Radiographic Noise on Chest X-ray Semantic Segmentation and Disease Classification Using a Scalable Noise Injection Framework
+Personalized Auto-Grading and Feedback System for Constructive Geometry Tasks Using Large Language Models on an Online Math Platform
+MetaChest: Generalized few-shot learning of patologies from chest X-rays
+Zero-Shot Decentralized Federated Learning
+Bird Eye-View to Street-View: A Survey
