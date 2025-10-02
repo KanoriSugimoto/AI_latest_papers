@@ -1106,3 +1106,9 @@ Personalized Auto-Grading and Feedback System for Constructive Geometry Tasks Us
 MetaChest: Generalized few-shot learning of patologies from chest X-rays
 Zero-Shot Decentralized Federated Learning
 Bird Eye-View to Street-View: A Survey
+Looking Beyond the Known: Towards a Data Discovery Guided Open-World Object Detection
+Multi-Domain Brain Vessel Segmentation Through Feature Disentanglement
+GRAD: Generative Retrieval-Aligned Demonstration Sampler for Efficient Few-Shot Reasoning
+A Framework for Double-Blind Federated Adaptation of Foundation Models
+Direct Preference Optimization for Adaptive Concept-based Explanations
+Temporal Misalignment Attacks against Multimodal Perception in Autonomous Driving
