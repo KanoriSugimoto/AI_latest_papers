@@ -1112,3 +1112,11 @@ GRAD: Generative Retrieval-Aligned Demonstration Sampler for Efficient Few-Shot 
 A Framework for Double-Blind Federated Adaptation of Foundation Models
 Direct Preference Optimization for Adaptive Concept-based Explanations
 Temporal Misalignment Attacks against Multimodal Perception in Autonomous Driving
+Knowledge Distillation Detection for Open-weights Models
+Automated Defect Detection for Mass-Produced Electronic Components Based on YOLO Object Detection Models
+GeoPurify: A Data-Efficient Geometric Distillation Framework for Open-Vocabulary 3D Segmentation
+Dynamic Bundling with Large Language Models for Zero-Shot Inference on Text-Attributed Graphs
+SUPER-Net: Trustworthy Image Segmentation via Uncertainty Propagation in Encoder-Decoder Networks
+Meta-Transfer Derm-Diagnosis: Exploring Few-Shot Learning and Transfer Learning for Skin Disease Classification in Long-Tail Distribution
+Accelerating Targeted Hard-Label Adversarial Attacks in Low-Query Black-Box Settings
+Automated Model Evaluation for Object Detection via Prediction Consistency and Reliability
