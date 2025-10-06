@@ -1120,3 +1120,6 @@ SUPER-Net: Trustworthy Image Segmentation via Uncertainty Propagation in Encoder
 Meta-Transfer Derm-Diagnosis: Exploring Few-Shot Learning and Transfer Learning for Skin Disease Classification in Long-Tail Distribution
 Accelerating Targeted Hard-Label Adversarial Attacks in Low-Query Black-Box Settings
 Automated Model Evaluation for Object Detection via Prediction Consistency and Reliability
+In-memory Training on Analog Devices with Limited Conductance States via Multi-tile Residual Learning
+Align Your Query: Representation Alignment for Multimodality Medical Object Detection
+Test-Time Defense Against Adversarial Attacks via Stochastic Resonance of Latent Ensembles
