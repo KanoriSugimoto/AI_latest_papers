@@ -1123,3 +1123,18 @@ Automated Model Evaluation for Object Detection via Prediction Consistency and R
 In-memory Training on Analog Devices with Limited Conductance States via Multi-tile Residual Learning
 Align Your Query: Representation Alignment for Multimodality Medical Object Detection
 Test-Time Defense Against Adversarial Attacks via Stochastic Resonance of Latent Ensembles
+Semantic-Inductive Attribute Selection for Zero-Shot Learning
+A Robust Clustered Federated Learning Approach for Non-IID Data with Quantity Skew
+Task-Level Contrastiveness for Cross-Domain Few-Shot Learning
+Share Your Attention: Transformer Weight Sharing via Matrix-based Dictionary Learning
+Exploring the Hierarchical Reasoning Model for Small Natural-Image Classification Without Augmentation
+From Segments to Concepts: Interpretable Image Classification via Concept-Guided Segmentation
+SPEGNet: Synergistic Perception-Guided Network for Camouflaged Object Detection
+ERDE: Entropy-Regularized Distillation for Early-exit
+Comparative Analysis of YOLOv5, Faster R-CNN, SSD, and RetinaNet for Motorbike Detection in Kigali Autonomous Driving Context
+Mamba base PKD for efficient knowledge compression
+What Lurks Within? Concept Auditing for Shared Diffusion Models at Scale
+Can We Infer Confidential Properties of Training Data from LLMs?
+Robust MRI Reconstruction by Smoothed Unrolling (SMUG)
+AutoMiSeg: Automatic Medical Image Segmentation via Test-Time Adaptation of Foundation Models
+TSLA: A Task-Specific Learning Adaptation for Semantic Segmentation on Autonomous Vehicles Platform
