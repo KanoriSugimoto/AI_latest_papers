@@ -1138,3 +1138,4 @@ Can We Infer Confidential Properties of Training Data from LLMs?
 Robust MRI Reconstruction by Smoothed Unrolling (SMUG)
 AutoMiSeg: Automatic Medical Image Segmentation via Test-Time Adaptation of Foundation Models
 TSLA: A Task-Specific Learning Adaptation for Semantic Segmentation on Autonomous Vehicles Platform
+Midway Network: Learning Representations for Recognition and Motion from Latent Dynamics
