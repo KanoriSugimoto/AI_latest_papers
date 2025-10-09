@@ -1139,3 +1139,7 @@ Robust MRI Reconstruction by Smoothed Unrolling (SMUG)
 AutoMiSeg: Automatic Medical Image Segmentation via Test-Time Adaptation of Foundation Models
 TSLA: A Task-Specific Learning Adaptation for Semantic Segmentation on Autonomous Vehicles Platform
 Midway Network: Learning Representations for Recognition and Motion from Latent Dynamics
+General and Efficient Visual Goal-Conditioned Reinforcement Learning using Object-Agnostic Masks
+SDQM: Synthetic Data Quality Metric for Object Detection Dataset Evaluation
+Fitzpatrick Thresholding for Skin Image Segmentation
+Roboflow100-VL: A Multi-Domain Object Detection Benchmark for Vision-Language Models
