@@ -1143,3 +1143,13 @@ General and Efficient Visual Goal-Conditioned Reinforcement Learning using Objec
 SDQM: Synthetic Data Quality Metric for Object Detection Dataset Evaluation
 Fitzpatrick Thresholding for Skin Image Segmentation
 Roboflow100-VL: A Multi-Domain Object Detection Benchmark for Vision-Language Models
+Entropy Regularizing Activation: Boosting Continuous Control, Large Language Models, and Image Classification with Activation as Entropy Constraints
+Enhancing Maritime Object Detection in Real-Time with RT-DETR and Data Augmentation
+Inconsistent Affective Reaction: Sentiment of Perception and Opinion in Urban Environments
+Label Semantics for Robust Hyperspectral Image Classification
+Maintaining Performance with Less Data
+Understanding In-context Learning of Addition via Activation Subspaces
+Rethinking Decoders for Transformer-based Semantic Segmentation: A Compression Perspective
+Entropy Regularizing Activation: Boosting Continuous Control, Large
+  Language Models, and Image Classification with Activation as Entropy
+  Constraints
