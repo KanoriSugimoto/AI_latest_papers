@@ -1153,3 +1153,6 @@ Rethinking Decoders for Transformer-based Semantic Segmentation: A Compression P
 Entropy Regularizing Activation: Boosting Continuous Control, Large
   Language Models, and Image Classification with Activation as Entropy
   Constraints
+Entropy Regularizing Activation: Boosting Continuous Control, Large
+  Language Models, and Image Classification with Activation as Entropy
+  Constraints
