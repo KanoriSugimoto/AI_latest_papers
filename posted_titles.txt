@@ -1159,3 +1159,8 @@ Entropy Regularizing Activation: Boosting Continuous Control, Large
 Entropy Regularizing Activation: Boosting Continuous Control, Large
   Language Models, and Image Classification with Activation as Entropy
   Constraints
+The Boundaries of Fair AI in Medical Image Prognosis: A Causal Perspective
+Pinpointing crucial steps: Attribution-based Credit Assignment for Verifiable Reinforcement Learning
+Out-of-Distribution Detection in LiDAR Semantic Segmentation Using Epistemic Uncertainty from Hierarchical GMMs
+Exploring Single Domain Generalization of LiDAR-based Semantic Segmentation under Imperfect Labels
+SilvaScenes: Tree Segmentation and Species Classification from Under-Canopy Images in Natural Forests
