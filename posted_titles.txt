@@ -1164,3 +1164,16 @@ Pinpointing crucial steps: Attribution-based Credit Assignment for Verifiable Re
 Out-of-Distribution Detection in LiDAR Semantic Segmentation Using Epistemic Uncertainty from Hierarchical GMMs
 Exploring Single Domain Generalization of LiDAR-based Semantic Segmentation under Imperfect Labels
 SilvaScenes: Tree Segmentation and Species Classification from Under-Canopy Images in Natural Forests
+An Unsupervised Time Series Anomaly Detection Approach for Efficient Online Process Monitoring of Additive Manufacturing
+Efficient Edge Test-Time Adaptation via Latent Feature Coordinate Correction
+YOLOv11-Litchi: Efficient Litchi Fruit Detection based on UAV-Captured Agricultural Imagery in Complex Orchard Environments
+MRI Brain Tumor Detection with Computer Vision
+DAGLFNet:Deep Attention-Guided Global-Local Feature Fusion for Pseudo-Image Point Cloud Segmentation
+When Does Supervised Training Pay Off? The Hidden Economics of Object Detection in the Era of Vision-Language Models
+A Framework for Low-Effort Training Data Generation for Urban Semantic Segmentation
+NV3D: Leveraging Spatial Shape Through Normal Vector-based 3D Object Detection
+An Effective Gram Matrix Characterizes Generalization in Deep Networks
+Tversky Neural Networks: Psychologically Plausible Deep Learning with Differentiable Tversky Similarity
+A Vision-Language Pre-training Model-Guided Approach for Mitigating Backdoor Attacks in Federated Learning
+Camouflaged Image Synthesis Is All You Need to Boost Camouflaged Detection
+MGPATH: Vision-Language Model with Multi-Granular Prompt Learning for Few-Shot WSI Classification
