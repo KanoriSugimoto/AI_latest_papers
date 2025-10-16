@@ -1177,3 +1177,7 @@ Tversky Neural Networks: Psychologically Plausible Deep Learning with Differenti
 A Vision-Language Pre-training Model-Guided Approach for Mitigating Backdoor Attacks in Federated Learning
 Camouflaged Image Synthesis Is All You Need to Boost Camouflaged Detection
 MGPATH: Vision-Language Model with Multi-Granular Prompt Learning for Few-Shot WSI Classification
+H4G: Unlocking Faithful Inference for Zero-Shot Graph Learning in Hyperbolic Space
+Graph Few-Shot Learning via Adaptive Spectrum Experts and Cross-Set Distribution Calibration
+A Function Centric Perspective On Flat and Sharp Minima
+BAAF: A benchmark attention adaptive framework for medical ultrasound image segmentation tasks
