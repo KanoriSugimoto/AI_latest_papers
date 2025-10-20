@@ -1190,3 +1190,8 @@ PoissonNet: A Local-Global Approach for Learning on Surfaces
 Beat Detection as Object Detection
 ELASTIC: Efficient Once For All Iterative Search for Object Detection on Microcontrollers
 Analysis of Hyperparameter Optimization Effects on Lightweight Deep Models for Real-Time Image Classification
+RankSEG-RMA: An Efficient Segmentation Algorithm via Reciprocal Moment Approximation
+TranSimHub:A Unified Air-Ground Simulation Platform for Multi-Modal Perception and Decision-Making
+Semantic4Safety: Causal Insights from Zero-shot Street View Imagery Segmentation for Urban Road Safety
+Semantic segmentation with coarse annotations
+Beat Tracking as Object Detection
