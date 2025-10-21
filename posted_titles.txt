@@ -1195,3 +1195,22 @@ TranSimHub:A Unified Air-Ground Simulation Platform for Multi-Modal Perception a
 Semantic4Safety: Causal Insights from Zero-shot Street View Imagery Segmentation for Urban Road Safety
 Semantic segmentation with coarse annotations
 Beat Tracking as Object Detection
+Layer-Aware Influence for Online Data Valuation Estimation
+FedPURIN: Programmed Update and Reduced INformation for Sparse Personalized Federated Learning
+An Efficient Semantic Segmentation Decoder for In-Car or Distributed Applications
+Needles in the Landscape: Semi-Supervised Pseudolabeling for Archaeological Site Discovery under Label Scarcity
+A Prototypical Network with an Attention-based Encoder for Drivers Identification Application
+Reliable Inference in Edge-Cloud Model Cascades via Conformal Alignment
+On-the-Fly OVD Adaptation with FLAME: Few-shot Localization via Active Marginal-Samples Exploration
+Data-Driven Analysis of Intersectional Bias in Image Classification: A Framework with Bias-Weighted Augmentation
+Differentiable, Bit-shifting, and Scalable Quantization without training neural network from scratch
+Cataract-LMM: Large-Scale, Multi-Source, Multi-Task Benchmark for Deep Learning in Surgical Video Analysis
+M2H: Multi-Task Learning with Efficient Window-Based Cross-Task Attention for Monocular Spatial Perception
+DETree: DEtecting Human-AI Collaborative Texts via Tree-Structured Hierarchical Representation Learning
+When majority rules, minority loses: bias amplification of gradient descent
+Packet Inspection Transformer: A Self-Supervised Journey to Unseen Malware Detection with Few Samples
+DitHub: A Modular Framework for Incremental Open-Vocabulary Object Detection
+SegDAC: Improving Visual Reinforcement Learning by Extracting Dynamic Objectc-Centric Representations from Pretrained Vision Models
+Balanced Multi-Task Attention for Satellite Image Classification: A
+  Systematic Approach to Achieving 97.23% Accuracy on EuroSAT Without
+  Pre-Training
