@@ -1214,3 +1214,8 @@ SegDAC: Improving Visual Reinforcement Learning by Extracting Dynamic Objectc-Ce
 Balanced Multi-Task Attention for Satellite Image Classification: A
   Systematic Approach to Achieving 97.23% Accuracy on EuroSAT Without
   Pre-Training
+Learning from N-Tuple Data with M Positive Instances: Unbiased Risk Estimation and Theoretical Guarantees
+MAT-Agent: Adaptive Multi-Agent Training Optimization
+{\epsilon}-Seg: Sparsely Supervised Semantic Segmentation of Microscopy Data
+VLLFL: A Vision-Language Model Based Lightweight Federated Learning Framework for Smart Agriculture
+gen2seg: Generative Models Enable Generalizable Instance Segmentation
