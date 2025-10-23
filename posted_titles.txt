@@ -1219,3 +1219,7 @@ MAT-Agent: Adaptive Multi-Agent Training Optimization
 {\epsilon}-Seg: Sparsely Supervised Semantic Segmentation of Microscopy Data
 VLLFL: A Vision-Language Model Based Lightweight Federated Learning Framework for Smart Agriculture
 gen2seg: Generative Models Enable Generalizable Instance Segmentation
+Neural Variational Dropout Processes
+Uncertainty evaluation of segmentation models for Earth observation
+LASeR: Learning to Adaptively Select Reward Models with Multi-Armed Bandits
+With Limited Data for Multimodal Alignment, Let the STRUCTURE Guide You
