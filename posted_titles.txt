@@ -1223,3 +1223,8 @@ Neural Variational Dropout Processes
 Uncertainty evaluation of segmentation models for Earth observation
 LASeR: Learning to Adaptively Select Reward Models with Multi-Armed Bandits
 With Limited Data for Multimodal Alignment, Let the STRUCTURE Guide You
+Synthetic Data for Robust Runway Detection
+H-SPLID: HSIC-based Saliency Preserving Latent Information Decomposition
+KOALA++: Efficient Kalman-Based Optimization of Neural Networks with Gradient-Covariance Products
+Tex-ViT: A Generalizable, Robust, Texture-based dual-branch cross-attention deepfake detector
+ARGenSeg: Image Segmentation with Autoregressive Image Generation Model
