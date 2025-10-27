@@ -1228,3 +1228,9 @@ H-SPLID: HSIC-based Saliency Preserving Latent Information Decomposition
 KOALA++: Efficient Kalman-Based Optimization of Neural Networks with Gradient-Covariance Products
 Tex-ViT: A Generalizable, Robust, Texture-based dual-branch cross-attention deepfake detector
 ARGenSeg: Image Segmentation with Autoregressive Image Generation Model
+WhaleVAD-BPN: Improving Baleen Whale Call Detection with Boundary Proposal Networks and Post-processing Optimisation
+VL-SAE: Interpreting and Enhancing Vision-Language Alignment with a Unified Concept Set
+Head Pursuit: Probing Attention Specialization in Multimodal Transformers
+Federated Unlearning Made Practical: Seamless Integration via Negated Pseudo-Gradients
+KOALA++: Efficient Kalman-Based Optimization with Gradient-Covariance Products
+Mixture of Experts in Image Classification: What's the Sweet Spot?
