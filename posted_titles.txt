@@ -1234,3 +1234,4 @@ Head Pursuit: Probing Attention Specialization in Multimodal Transformers
 Federated Unlearning Made Practical: Seamless Integration via Negated Pseudo-Gradients
 KOALA++: Efficient Kalman-Based Optimization with Gradient-Covariance Products
 Mixture of Experts in Image Classification: What's the Sweet Spot?
+Quantum Machine Learning for Image Classification: A Hybrid Model of Residual Network with Quantum Support Vector Machine
