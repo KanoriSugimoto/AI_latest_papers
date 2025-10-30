@@ -1235,3 +1235,5 @@ Federated Unlearning Made Practical: Seamless Integration via Negated Pseudo-Gra
 KOALA++: Efficient Kalman-Based Optimization with Gradient-Covariance Products
 Mixture of Experts in Image Classification: What's the Sweet Spot?
 Quantum Machine Learning for Image Classification: A Hybrid Model of Residual Network with Quantum Support Vector Machine
+CFL-SparseMed: Communication-Efficient Federated Learning for Medical Imaging with Top-k Sparse Updates
+Monitoring the calibration of probability forecasts with an application to concept drift detection involving image classification
