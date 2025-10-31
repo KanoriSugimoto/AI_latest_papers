@@ -1237,3 +1237,7 @@ Mixture of Experts in Image Classification: What's the Sweet Spot?
 Quantum Machine Learning for Image Classification: A Hybrid Model of Residual Network with Quantum Support Vector Machine
 CFL-SparseMed: Communication-Efficient Federated Learning for Medical Imaging with Top-k Sparse Updates
 Monitoring the calibration of probability forecasts with an application to concept drift detection involving image classification
+Do Students Debias Like Teachers? On the Distillability of Bias Mitigation Methods
+Non-Convex Over-the-Air Heterogeneous Federated Learning: A Bias-Variance Trade-off
+Surpassing state of the art on AMD area estimation from RGB fundus images through careful selection of U-Net architectures and loss functions for class imbalance
+Scaling Image Geo-Localization to Continent Level
