@@ -1243,3 +1243,13 @@ Surpassing state of the art on AMD area estimation from RGB fundus images throug
 Scaling Image Geo-Localization to Continent Level
 Graph Semi-Supervised Learning for Point Classification on Data Manifolds
 Conformal Object Detection by Sequential Risk Control
+ReLaX-Net: Reusing Layers for Parameter-Efficient Physical Neural Networks
+Real-time Continual Learning on Intel Loihi 2
+Bayesian Natural Gradient Fine-Tuning of CLIP Models via Kalman Filtering
+Game-theoretic distributed learning of generative models for heterogeneous data collections
+OSMGen: Highly Controllable Satellite Image Synthesis using OpenStreetMap Data
+REP: Resource-Efficient Prompting for Rehearsal-Free Continual Learning
+A Basic Evaluation of Neural Networks Trained with the Error Diffusion Learning Algorithm
+AI-Driven Detection and Analysis of Handwriting on Seized Ivory: A Tool to Uncover Criminal Networks in the Illicit Wildlife Trade
+Multi-Step Reasoning with Large Language Models, a Survey
+Context Tuning for In-Context Optimization
