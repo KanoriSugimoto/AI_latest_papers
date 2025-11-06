@@ -1257,3 +1257,7 @@ Can LLMs subtract numbers?
 The Coralscapes Dataset: Semantic Scene Understanding in Coral Reefs
 Large Language Models are Unreliable for Cyber Threat Intelligence
 Progressive Growing of Patch Size: Curriculum Learning for Accelerated and Improved Medical Image Segmentation
+Adaptive and Robust Data Poisoning Detection and Sanitization in Wearable IoT Systems using Large Language Models
+Hybrid Convolution and Vision Transformer NAS Search Space for TinyML Image Classification
+Decoupling Augmentation Bias in Prompt Learning for Vision-Language Models
+How does training shape the Riemannian geometry of neural network representations?
