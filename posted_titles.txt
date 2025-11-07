@@ -1261,3 +1261,5 @@ Adaptive and Robust Data Poisoning Detection and Sanitization in Wearable IoT Sy
 Hybrid Convolution and Vision Transformer NAS Search Space for TinyML Image Classification
 Decoupling Augmentation Bias in Prompt Learning for Vision-Language Models
 How does training shape the Riemannian geometry of neural network representations?
+Left Atrial Segmentation with nnU-Net Using MRI
+Desert Waste Detection and Classification Using Data-Based and Model-Based Enhanced YOLOv12 DL Model
