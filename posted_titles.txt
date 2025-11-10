@@ -1263,3 +1263,8 @@ Decoupling Augmentation Bias in Prompt Learning for Vision-Language Models
 How does training shape the Riemannian geometry of neural network representations?
 Left Atrial Segmentation with nnU-Net Using MRI
 Desert Waste Detection and Classification Using Data-Based and Model-Based Enhanced YOLOv12 DL Model
+Data Efficiency and Transfer Robustness in Biomedical Image Segmentation: A Study of Redundancy and Forgetting with Cellpose
+An Active Learning Pipeline for Biomedical Image Instance Segmentation with Minimal Human Intervention
+Early Alzheimer's Disease Detection from Retinal OCT Images: A UK Biobank Study
+How Many Tokens Do 3D Point Cloud Transformer Architectures Really Need?
+Neural Attention: A Novel Mechanism for Enhanced Expressive Power in Transformer Models
