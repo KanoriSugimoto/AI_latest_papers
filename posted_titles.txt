@@ -1275,3 +1275,9 @@ Automatic Extraction of Road Networks by using Teacher-Student Adaptive Structur
 TrueCity: Real and Simulated Urban Data for Cross-Domain 3D Scene Understanding
 Garbage Vulnerable Point Monitoring using IoT and Computer Vision
 Employing Sentence Space Embedding for Classification of Data Stream from Fake News Domain
+BIPPO: Budget-Aware Independent PPO for Energy-Efficient Federated Learning Services
+Automatic Grid Updates for Kolmogorov-Arnold Networks using Layer Histograms
+Data Descriptions from Large Language Models with Influence Estimation
+Mitigating Negative Flips via Margin Preserving Training
+Anatomy-VLM: A Fine-grained Vision-Language Model for Medical Interpretation
+Generalizable Blood Cell Detection via Unified Dataset and Faster R-CNN
