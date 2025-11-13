@@ -1281,3 +1281,8 @@ Data Descriptions from Large Language Models with Influence Estimation
 Mitigating Negative Flips via Margin Preserving Training
 Anatomy-VLM: A Fine-grained Vision-Language Model for Medical Interpretation
 Generalizable Blood Cell Detection via Unified Dataset and Faster R-CNN
+Selective Sinkhorn Routing for Improved Sparse Mixture of Experts
+Fairness-Aware Few-Shot Learning for Audio-Visual Stress Detection
+Iterated Population Based Training with Task-Agnostic Restarts
+Rethinking generative image pretraining: How far are we from scaling up next-pixel prediction?
+Large Language Models Are Unreliable for Cyber Threat Intelligence
