@@ -1286,3 +1286,7 @@ Fairness-Aware Few-Shot Learning for Audio-Visual Stress Detection
 Iterated Population Based Training with Task-Agnostic Restarts
 Rethinking generative image pretraining: How far are we from scaling up next-pixel prediction?
 Large Language Models Are Unreliable for Cyber Threat Intelligence
+TomoGraphView: 3D Medical Image Classification with Omnidirectional Slice Representations and Graph Neural Networks
+Revisiting Evaluation of Deep Neural Networks for Pedestrian Detection
+Continuum Dropout for Neural Differential Equations
+OODTE: A Differential Testing Engine for the ONNX Optimizer
