@@ -1290,3 +1290,12 @@ TomoGraphView: 3D Medical Image Classification with Omnidirectional Slice Repres
 Revisiting Evaluation of Deep Neural Networks for Pedestrian Detection
 Continuum Dropout for Neural Differential Equations
 OODTE: A Differential Testing Engine for the ONNX Optimizer
+EarthSight: A Distributed Framework for Low-Latency Satellite Intelligence
+Quantifying and Improving Adaptivity in Conformal Prediction through Input Transformations
+VoxTell: Free-Text Promptable Universal 3D Medical Image Segmentation
+An Empirical Study on Improving SimCLR's Nonlinear Projection Head using Pretrained Autoencoder Embeddings
+SGLP: A Similarity Guided Fast Layer Partition Pruning for Compressing Large Deep Models
+Strada-LLM: Graph LLM for traffic prediction
+Convergence Bound and Critical Batch Size of Muon Optimizer
+Quantifying the Limits of Segmentation Foundation Models: Modeling Challenges in Segmenting Tree-Like and Low-Contrast Objects
+YOLO-SAT: A Data-based and Model-based Enhanced YOLOv12 Model for Desert Waste Detection and Classification
