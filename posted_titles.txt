@@ -1299,3 +1299,23 @@ Strada-LLM: Graph LLM for traffic prediction
 Convergence Bound and Critical Batch Size of Muon Optimizer
 Quantifying the Limits of Segmentation Foundation Models: Modeling Challenges in Segmenting Tree-Like and Low-Contrast Objects
 YOLO-SAT: A Data-based and Model-based Enhanced YOLOv12 Model for Desert Waste Detection and Classification
+DAOpt: Modeling and Evaluation of Data-Driven Optimization under Uncertainty with LLMs
+Toward Better Generalization in Few-Shot Learning through the Meta-Component Combination
+Adaptive Stepsizing for Stochastic Gradient Langevin Dynamics in Bayesian Neural Networks
+MPCM-Net: Multi-scale network integrates partial attention convolution with Mamba for ground-based cloud image segmentation
+Enhancing Reinforcement Learning in 3D Environments through Semantic Segmentation: A Case Study in ViZDoom
+MPD-SGR: Robust Spiking Neural Networks with Membrane Potential Distribution-Driven Surrogate Gradient Regularization
+Catastrophic Forgetting in Kolmogorov-Arnold Networks
+Synthetic Forgetting without Access: A Few-shot Zero-glance Framework for Machine Unlearning
+Hardware optimization on Android for inference of AI models
+Cross-Learning from Scarce Data via Multi-Task Constrained Optimization
+Enhancing Road Safety Through Multi-Camera Image Segmentation with Post-Encroachment Time Analysis
+CLAReSNet: When Convolution Meets Latent Attention for Hyperspectral Image Classification
+AGGRNet: Selective Feature Extraction and Aggregation for Enhanced Medical Image Classification
+OPFormer: Object Pose Estimation leveraging foundation model with geometric encoding
+MCAQ-YOLO: Morphological Complexity-Aware Quantization for Efficient Object Detection with Curriculum Learning
+A comprehensive and easy-to-use multi-domain multi-task medical imaging meta-dataset
+A Framework for Real-Time Volcano-Seismic Event Recognition Based on Multi-Station Seismograms and Semantic Segmentation Models
+Quantum Neural Networks in Practice: A Comparative Study with Classical Models from Standard Data Sets to Industrial Images
+KernelDNA: Dynamic Kernel Sharing via Decoupled Naive Adapters
+Consistency-based Abductive Reasoning over Perceptual Errors of Multiple Pre-trained Models in Novel Environments
