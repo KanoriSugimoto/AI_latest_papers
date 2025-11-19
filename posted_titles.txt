@@ -1319,3 +1319,9 @@ A Framework for Real-Time Volcano-Seismic Event Recognition Based on Multi-Stati
 Quantum Neural Networks in Practice: A Comparative Study with Classical Models from Standard Data Sets to Industrial Images
 KernelDNA: Dynamic Kernel Sharing via Decoupled Naive Adapters
 Consistency-based Abductive Reasoning over Perceptual Errors of Multiple Pre-trained Models in Novel Environments
+Task Addition and Weight Disentanglement in Closed-Vocabulary Models
+LAUD: Integrating Large Language Models with Active Learning for Unlabeled Data
+Semantic Multiplexing
+Single Tensor Cell Segmentation using Scalar Field Representations
+Closed-Form Feedback-Free Learning with Forward Projection
+Cross-Domain Few-Shot Learning with Coalescent Projections and Latent Space Reservation
