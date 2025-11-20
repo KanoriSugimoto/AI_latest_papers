@@ -1325,3 +1325,10 @@ Semantic Multiplexing
 Single Tensor Cell Segmentation using Scalar Field Representations
 Closed-Form Feedback-Free Learning with Forward Projection
 Cross-Domain Few-Shot Learning with Coalescent Projections and Latent Space Reservation
+Logit-Based Losses Limit the Effectiveness of Feature Knowledge Distillation
+Graph Query Networks for Object Detection with Automotive Radar
+Fast Post-Hoc Confidence Fusion for 3-Class Open-Set Aerial Object Detection
+Controlling False Positives in Image Segmentation via Conformal Prediction
+Detecting Out-of-Distribution Objects through Class-Conditioned Inpainting
+Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Tensorflow Pretrained Models
+Class-Aware PillarMix: Can Mixed Sample Data Augmentation Enhance 3D Object Detection with Radar Point Clouds?
