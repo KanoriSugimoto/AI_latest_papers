@@ -1332,3 +1332,6 @@ Controlling False Positives in Image Segmentation via Conformal Prediction
 Detecting Out-of-Distribution Objects through Class-Conditioned Inpainting
 Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Tensorflow Pretrained Models
 Class-Aware PillarMix: Can Mixed Sample Data Augmentation Enhance 3D Object Detection with Radar Point Clouds?
+Mind the Gap: Bridging Prior Shift in Realistic Few-Shot Crop-Type Classification
+Generalized Gradient Norm Clipping & Non-Euclidean $(L_0,L_1)$-Smoothness
+Rep-GLS: Report-Guided Generalized Label Smoothing for Robust Disease Detection
