@@ -1335,3 +1335,4 @@ Class-Aware PillarMix: Can Mixed Sample Data Augmentation Enhance 3D Object Dete
 Mind the Gap: Bridging Prior Shift in Realistic Few-Shot Crop-Type Classification
 Generalized Gradient Norm Clipping & Non-Euclidean $(L_0,L_1)$-Smoothness
 Rep-GLS: Report-Guided Generalized Label Smoothing for Robust Disease Detection
+MOCHA: Multi-modal Objects-aware Cross-arcHitecture Alignment
