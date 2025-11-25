@@ -1336,3 +1336,11 @@ Mind the Gap: Bridging Prior Shift in Realistic Few-Shot Crop-Type Classificatio
 Generalized Gradient Norm Clipping & Non-Euclidean $(L_0,L_1)$-Smoothness
 Rep-GLS: Report-Guided Generalized Label Smoothing for Robust Disease Detection
 MOCHA: Multi-modal Objects-aware Cross-arcHitecture Alignment
+Curvature-Aware Safety Restoration In LLMs Fine-Tuning
+HSMix: Hard and Soft Mixing Data Augmentation for Medical Image Segmentation
+REXO: Indoor Multi-View Radar Object Detection via 3D Bounding Box Diffusion
+AdaPerceiver: Transformers with Adaptive Width, Depth, and Tokens
+Dendritic Convolution for Noise Image Recognition
+Uncertainty-Aware Dual-Student Knowledge Distillation for Efficient Image Classification
+In-Situ Tweedie Discrete Diffusion Models
+DAGLFNet: Deep Feature Attention Guided Global and Local Feature Fusion for Pseudo-Image Point Cloud Segmentation
