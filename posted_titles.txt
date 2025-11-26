@@ -1344,3 +1344,6 @@ Dendritic Convolution for Noise Image Recognition
 Uncertainty-Aware Dual-Student Knowledge Distillation for Efficient Image Classification
 In-Situ Tweedie Discrete Diffusion Models
 DAGLFNet: Deep Feature Attention Guided Global and Local Feature Fusion for Pseudo-Image Point Cloud Segmentation
+Think First, Assign Next (ThiFAN-VQA): A Two-stage Chain-of-Thought Framework for Post-Disaster Damage Assessment
+Automated Monitoring of Cultural Heritage Artifacts Using Semantic Segmentation
+FedPromo: Federated Lightweight Proxy Models at the Edge Bring New Domains to Foundation Models
