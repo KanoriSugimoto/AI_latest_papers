@@ -1347,3 +1347,11 @@ DAGLFNet: Deep Feature Attention Guided Global and Local Feature Fusion for Pseu
 Think First, Assign Next (ThiFAN-VQA): A Two-stage Chain-of-Thought Framework for Post-Disaster Damage Assessment
 Automated Monitoring of Cultural Heritage Artifacts Using Semantic Segmentation
 FedPromo: Federated Lightweight Proxy Models at the Edge Bring New Domains to Foundation Models
+CHiQPM: Calibrated Hierarchical Interpretable Image Classification
+Open Vocabulary Compositional Explanations for Neuron Alignment
+Wavefront-Constrained Passive Obscured Object Detection
+Continual Error Correction on Low-Resource Devices
+Asymmetric Duos: Sidekicks Improve Uncertainty
+LTD: Low Temperature Distillation for Gradient Masking-free Adversarial Training
+Adaptive Object Detection for Indoor Navigation Assistance: A Performance Evaluation of Real-Time Algorithms
+Hashed Watermark as a Filter: Defeating Forging and Overwriting Attacks in Weight-based Neural Network Watermarking
