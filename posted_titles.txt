@@ -1355,3 +1355,12 @@ Asymmetric Duos: Sidekicks Improve Uncertainty
 LTD: Low Temperature Distillation for Gradient Masking-free Adversarial Training
 Adaptive Object Detection for Indoor Navigation Assistance: A Performance Evaluation of Real-Time Algorithms
 Hashed Watermark as a Filter: Defeating Forging and Overwriting Attacks in Weight-based Neural Network Watermarking
+BanglaSentNet: An Explainable Hybrid Deep Learning Framework for Multi-Aspect Sentiment Analysis with Cross-Domain Transfer Learning
+DNNs, Dataset Statistics, and Correlation Functions
+DeepGI: Explainable Deep Learning for Gastrointestinal Image Classification
+Support Vector Machine Classifier with Rescaled Huberized Pinball Loss
+GazeTrack: High-Precision Eye Tracking Based on Regularization and Spatial Computing
+Manifold-Aware Diffusion-Augmented Contrastive Learning for Noise-Robust Biosignal Representation
+Targeted Deep Learning System Boundary Testing
+Unlabeled Data Improves Fine-Grained Image Zero-shot Classification with Multimodal LLMs
+YOLO Meets Mixture-of-Experts: Adaptive Expert Routing for Robust Object Detection
