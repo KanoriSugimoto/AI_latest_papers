@@ -1364,3 +1364,10 @@ Manifold-Aware Diffusion-Augmented Contrastive Learning for Noise-Robust Biosign
 Targeted Deep Learning System Boundary Testing
 Unlabeled Data Improves Fine-Grained Image Zero-shot Classification with Multimodal LLMs
 YOLO Meets Mixture-of-Experts: Adaptive Expert Routing for Robust Object Detection
+Projection-Free CNN Pruning via Frank-Wolfe with Momentum: Sparser Models with Less Pretraining
+A Fast and Efficient Modern BERT based Text-Conditioned Diffusion Model for Medical Image Segmentation
+Hybrid Synthetic Data Generation with Domain Randomization Enables Zero-Shot Vision-Based Part Inspection Under Extreme Class Imbalance
+MedCondDiff: Lightweight, Robust, Semantically Guided Diffusion for Medical Image Segmentation
+Doppler-Enhanced Deep Learning: Improving Thyroid Nodule Segmentation with YOLOv5 Instance Segmentation
+Semantic-aware Random Convolution and Source Matching for Domain Generalization in Medical Image Segmentation
+Contrastive Forward-Forward: A Training Algorithm of Vision Transformer
