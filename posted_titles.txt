@@ -1371,3 +1371,7 @@ MedCondDiff: Lightweight, Robust, Semantically Guided Diffusion for Medical Imag
 Doppler-Enhanced Deep Learning: Improving Thyroid Nodule Segmentation with YOLOv5 Instance Segmentation
 Semantic-aware Random Convolution and Source Matching for Domain Generalization in Medical Image Segmentation
 Contrastive Forward-Forward: A Training Algorithm of Vision Transformer
+Parallel Multi-Circuit Quantum Feature Fusion in Hybrid Quantum-Classical Convolutional Neural Networks for Breast Tumor Classification
+ALDI-ray: Adapting the ALDI Framework for Security X-ray Object Detection
+MaxSup: Overcoming Representation Collapse in Label Smoothing
+Convolution goes higher-order: a biologically inspired mechanism empowers image classification
