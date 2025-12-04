@@ -1375,3 +1375,6 @@ Parallel Multi-Circuit Quantum Feature Fusion in Hybrid Quantum-Classical Convol
 ALDI-ray: Adapting the ALDI Framework for Security X-ray Object Detection
 MaxSup: Overcoming Representation Collapse in Label Smoothing
 Convolution goes higher-order: a biologically inspired mechanism empowers image classification
+ALARM: Automated MLLM-Based Anomaly Detection in Complex-EnviRonment Monitoring with Uncertainty Quantification
+SELF: A Robust Singular Value and Eigenvalue Approach for LLM Fingerprinting
+Reversible Deep Equilibrium Models
