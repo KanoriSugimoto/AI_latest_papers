@@ -1379,3 +1379,8 @@ ALARM: Automated MLLM-Based Anomaly Detection in Complex-EnviRonment Monitoring 
 SELF: A Robust Singular Value and Eigenvalue Approach for LLM Fingerprinting
 Reversible Deep Equilibrium Models
 ImageNot: A contrast with ImageNet preserves model rankings
+TS-HINT: Enhancing Semiconductor Time Series Regression Using Attention Hints From Large Language Model Reasoning
+Spatiotemporal Satellite Image Downscaling with Transfer Encoders and Autoregressive Generative Models
+Moving object detection from multi-depth images with an attention-enhanced CNN
+Variational Supervised Contrastive Learning
+From Correlation to Causation: Max-Pooling-Based Multi-Instance Learning Leads to More Robust Whole Slide Image Classification
