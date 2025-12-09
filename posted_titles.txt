@@ -1384,3 +1384,16 @@ Spatiotemporal Satellite Image Downscaling with Transfer Encoders and Autoregres
 Moving object detection from multi-depth images with an attention-enhanced CNN
 Variational Supervised Contrastive Learning
 From Correlation to Causation: Max-Pooling-Based Multi-Instance Learning Leads to More Robust Whole Slide Image Classification
+Neural expressiveness for beyond importance model compression
+Arc Gradient Descent: A Mathematically Derived Reformulation of Gradient Descent with Phase-Aware, User-Controlled Step Dynamics
+Toward Reliable Machine Unlearning: Theory, Algorithms, and Evaluation
+Winning the Lottery by Preserving Network Training Dynamics with Concrete Ticket Search
+In-Context and Few-Shots Learning for Forecasting Time Series Data based on Large Language Models
+FedDSR: Federated Deep Supervision and Regularization Towards Autonomous Driving
+Selective Masking based Self-Supervised Learning for Image Semantic Segmentation
+DAUNet: A Lightweight UNet Variant with Deformable Convolutions and Parameter-Free Attention for Medical Image Segmentation
+DFIR-DETR: Frequency Domain Enhancement and Dynamic Feature Aggregation for Cross-Scene Small Object Detection
+A graph generation pipeline for critical infrastructures based on heuristics, images and depth data
+Bi-ICE: An Inner Interpretable Framework for Image Classification via Bi-directional Interactions between Concept and Input Embeddings
+Iwin Transformer: Hierarchical Vision Transformer using Interleaved Windows
+MetaChest: Generalized few-shot learning of pathologies from chest X-rays
