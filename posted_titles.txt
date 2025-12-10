@@ -1397,3 +1397,8 @@ A graph generation pipeline for critical infrastructures based on heuristics, im
 Bi-ICE: An Inner Interpretable Framework for Image Classification via Bi-directional Interactions between Concept and Input Embeddings
 Iwin Transformer: Hierarchical Vision Transformer using Interleaved Windows
 MetaChest: Generalized few-shot learning of pathologies from chest X-rays
+Semi-Supervised Contrastive Learning with Orthonormal Prototypes
+GSPN-2: Efficient Parallel Sequence Modeling
+Low Rank Support Quaternion Matrix Machine
+The Missing Point in Vision Transformers for Universal Image Segmentation
+Automated Construction of Artificial Lattice Structures with Designer Electronic States
