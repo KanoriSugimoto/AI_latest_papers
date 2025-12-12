@@ -1407,3 +1407,6 @@ GS-KAN: Parameter-Efficient Kolmogorov-Arnold Networks via Sprecher-Type Shared 
 SIP: Site in Pieces- A Dataset of Disaggregated Construction-Phase 3D Scans for Semantic Segmentation and Scene Understanding
 Causal Attribution of Model Performance Gaps in Medical Imaging Under Distribution Shifts
 PathCo-LatticE: Pathology-Constrained Lattice-Of Experts Framework for Fully-supervised Few-Shot Cardiac MRI Segmentation
+Uncertainty-Preserving QBNNs: Multi-Level Quantization of SVI-Based Bayesian Neural Networks for Image Classification
+Solving Semi-Supervised Few-Shot Learning from an Auto-Annotation Perspective
+Deferred Poisoning: Making the Model More Vulnerable via Hessian Singularization
