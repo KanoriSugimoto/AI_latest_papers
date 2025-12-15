@@ -1410,3 +1410,6 @@ PathCo-LatticE: Pathology-Constrained Lattice-Of Experts Framework for Fully-sup
 Uncertainty-Preserving QBNNs: Multi-Level Quantization of SVI-Based Bayesian Neural Networks for Image Classification
 Solving Semi-Supervised Few-Shot Learning from an Auto-Annotation Perspective
 Deferred Poisoning: Making the Model More Vulnerable via Hessian Singularization
+VFMF: World Modeling by Forecasting Vision Foundation Model Features
+DOS: Distilling Observable Softmaps of Zipfian Prototypes for Self-Supervised Point Representation
+FRQI Pairs method for image classification using Quantum Recurrent Neural Network
