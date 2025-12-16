@@ -1413,3 +1413,10 @@ Deferred Poisoning: Making the Model More Vulnerable via Hessian Singularization
 VFMF: World Modeling by Forecasting Vision Foundation Model Features
 DOS: Distilling Observable Softmaps of Zipfian Prototypes for Self-Supervised Point Representation
 FRQI Pairs method for image classification using Quantum Recurrent Neural Network
+Improving Long-Tailed Object Detection with Balanced Group Softmax and Metric Learning
+AI-Augmented Pollen Recognition in Optical and Holographic Microscopy for Veterinary Imaging
+Harmonizing Generalization and Specialization: Uncertainty-Informed Collaborative Learning for Semi-supervised Medical Image Segmentation
+Pancakes: Consistent Multi-Protocol Image Segmentation Across Biomedical Domains
+Explainable Quantum Machine Learning for Multispectral Images Segmentation: Case Study
+How PARTs assemble into wholes: Learning the relative composition of images
+U-NetMN and SegNetMN: Modified U-Net and SegNet models for bimodal SAR image segmentation
