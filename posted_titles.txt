@@ -1420,3 +1420,8 @@ Pancakes: Consistent Multi-Protocol Image Segmentation Across Biomedical Domains
 Explainable Quantum Machine Learning for Multispectral Images Segmentation: Case Study
 How PARTs assemble into wholes: Learning the relative composition of images
 U-NetMN and SegNetMN: Modified U-Net and SegNet models for bimodal SAR image segmentation
+Federated Few-Shot Learning for Epileptic Seizure Detection Under Privacy Constraints
+EEG-D3: A Solution to the Hidden Overfitting Problem of Deep Learning Models
+A Single Architecture for Representing Invariance Under Any Space Group
+Automated Pollen Recognition in Optical and Holographic Microscopy Images
+S2D: Sparse-To-Dense Keymask Distillation for Unsupervised Video Instance Segmentation
