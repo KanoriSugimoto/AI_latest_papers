@@ -1425,3 +1425,7 @@ EEG-D3: A Solution to the Hidden Overfitting Problem of Deep Learning Models
 A Single Architecture for Representing Invariance Under Any Space Group
 Automated Pollen Recognition in Optical and Holographic Microscopy Images
 S2D: Sparse-To-Dense Keymask Distillation for Unsupervised Video Instance Segmentation
+A Critical Perspective on Finite Sample Conformal Prediction Theory in Medical Applications
+TrajSyn: Privacy-Preserving Dataset Distillation from Federated Model Trajectories for Server-Side Adversarial Training
+IMKD: Intensity-Aware Multi-Level Knowledge Distillation for Camera-Radar Fusion
+Stylized Synthetic Augmentation further improves Corruption Robustness
