@@ -1429,3 +1429,5 @@ A Critical Perspective on Finite Sample Conformal Prediction Theory in Medical A
 TrajSyn: Privacy-Preserving Dataset Distillation from Federated Model Trajectories for Server-Side Adversarial Training
 IMKD: Intensity-Aware Multi-Level Knowledge Distillation for Camera-Radar Fusion
 Stylized Synthetic Augmentation further improves Corruption Robustness
+D3G: Diverse Demographic Data Generation Increases Zero-Shot Image Classification Accuracy within Multimodal Models
+Surely Large Multimodal Models (Don't) Excel in Visual Species Recognition?
