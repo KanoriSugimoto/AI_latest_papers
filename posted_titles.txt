@@ -1431,3 +1431,7 @@ IMKD: Intensity-Aware Multi-Level Knowledge Distillation for Camera-Radar Fusion
 Stylized Synthetic Augmentation further improves Corruption Robustness
 D3G: Diverse Demographic Data Generation Increases Zero-Shot Image Classification Accuracy within Multimodal Models
 Surely Large Multimodal Models (Don't) Excel in Visual Species Recognition?
+MULTIAQUA: A multimodal maritime dataset and robust training strategies for multimodal semantic segmentation
+Resource-efficient medical image classification for edge devices
+MedNeXt-v2: Scaling 3D ConvNeXts for Large-Scale Supervised Representation Learning in Medical Image Segmentation
+Domain-Aware Quantum Circuit for QML
