@@ -1435,3 +1435,7 @@ MULTIAQUA: A multimodal maritime dataset and robust training strategies for mult
 Resource-efficient medical image classification for edge devices
 MedNeXt-v2: Scaling 3D ConvNeXts for Large-Scale Supervised Representation Learning in Medical Image Segmentation
 Domain-Aware Quantum Circuit for QML
+Convolutional-neural-operator-based transfer learning for solving PDEs
+SCS-SupCon: Sigmoid-based Common and Style Supervised Contrastive Learning with Adaptive Decision Boundaries
+Automated Mosaic Tesserae Segmentation via Deep Learning Techniques
+Efficient Deep Learning Infrastructures for Embedded Computing Systems: A Comprehensive Survey and Future Envision
