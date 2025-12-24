@@ -1439,3 +1439,5 @@ Convolutional-neural-operator-based transfer learning for solving PDEs
 SCS-SupCon: Sigmoid-based Common and Style Supervised Contrastive Learning with Adaptive Decision Boundaries
 Automated Mosaic Tesserae Segmentation via Deep Learning Techniques
 Efficient Deep Learning Infrastructures for Embedded Computing Systems: A Comprehensive Survey and Future Envision
+FedDPC : Handling Data Heterogeneity and Partial Client Participation in Federated Learning
+Gaussian Process Assisted Meta-learning for Image Classification and Object Detection Models
