@@ -1442,3 +1442,5 @@ Efficient Deep Learning Infrastructures for Embedded Computing Systems: A Compre
 FedDPC : Handling Data Heterogeneity and Partial Client Participation in Federated Learning
 Gaussian Process Assisted Meta-learning for Image Classification and Object Detection Models
 Real-World Adversarial Attacks on RF-Based Drone Detectors
+Comparative Analysis of Deep Learning Models for Perception in Autonomous Vehicles
+Enhancing TCR-Peptide Interaction Prediction with Pretrained Language Models and Molecular Representations
