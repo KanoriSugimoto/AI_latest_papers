@@ -1444,3 +1444,12 @@ Gaussian Process Assisted Meta-learning for Image Classification and Object Dete
 Real-World Adversarial Attacks on RF-Based Drone Detectors
 Comparative Analysis of Deep Learning Models for Perception in Autonomous Vehicles
 Enhancing TCR-Peptide Interaction Prediction with Pretrained Language Models and Molecular Representations
+Decomposing Task Vectors for Refined Model Editing
+Adapting, Fast and Slow: Transportable Circuits for Few-Shot Learning
+Le Cam Distortion: A Decision-Theoretic Framework for Robust Transfer Learning
+Neural ocean forecasting from sparse satellite-derived observations: a case-study for SSH dynamics and altimetry data
+Human-like visual computing advances explainability and few-shot learning in deep neural networks for complex physiological data
+NLCG-Net: A Model-Based Zero-Shot Learning Framework for Undersampled Quantitative MRI Reconstruction
+Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection
+Text-Driven Weakly Supervised OCT Lesion Segmentation with Structural Guidance
+ClassWise-CRF: Category-Specific Fusion for Enhanced Semantic Segmentation of Remote Sensing Imagery
