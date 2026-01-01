@@ -1453,3 +1453,8 @@ NLCG-Net: A Model-Based Zero-Shot Learning Framework for Undersampled Quantitati
 Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection
 Text-Driven Weakly Supervised OCT Lesion Segmentation with Structural Guidance
 ClassWise-CRF: Category-Specific Fusion for Enhanced Semantic Segmentation of Remote Sensing Imagery
+Enhancing LLM Planning Capabilities through Intrinsic Self-Critique
+Medical Image Classification on Imbalanced Data Using ProGAN and SMA-Optimized ResNet: Application to COVID-19
+3D Semantic Segmentation for Post-Disaster Assessment
+Machine learning for option pricing: an empirical investigation of network architectures
+Dynamical Learning in Deep Asymmetric Recurrent Neural Networks
