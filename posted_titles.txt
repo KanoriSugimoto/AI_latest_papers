@@ -1458,3 +1458,9 @@ Medical Image Classification on Imbalanced Data Using ProGAN and SMA-Optimized R
 3D Semantic Segmentation for Post-Disaster Assessment
 Machine learning for option pricing: an empirical investigation of network architectures
 Dynamical Learning in Deep Asymmetric Recurrent Neural Networks
+Learning to be Reproducible: Custom Loss Design for Robust Neural Networks
+Automated electrostatic characterization of quantum dot devices in single- and bilayer heterostructures
+Brain network science modelling of sparse neural networks enables Transformers and LLMs to perform as fully connected
+Real-Time Forecasting of Pathological Gait via IMU Navigation: A Few-Shot and Generative Learning Framework for Wearable Devices
+Beyond Accuracy: What Matters in Designing Well-Behaved Image Classification Models?
+Towards Streaming LiDAR Object Detection with Point Clouds as Egocentric Sequences
