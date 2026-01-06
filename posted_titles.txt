@@ -1464,3 +1464,12 @@ Brain network science modelling of sparse neural networks enables Transformers a
 Real-Time Forecasting of Pathological Gait via IMU Navigation: A Few-Shot and Generative Learning Framework for Wearable Devices
 Beyond Accuracy: What Matters in Designing Well-Behaved Image Classification Models?
 Towards Streaming LiDAR Object Detection with Point Clouds as Egocentric Sequences
+Rethinking Multimodal Few-Shot 3D Point Cloud Segmentation: From Fused Refinement to Decoupled Arbitration
+A Novel Deep Learning Method for Segmenting the Left Ventricle in Cardiac Cine MRI
+Hidden costs for inference with deep network on embedded system devices
+Subimage Overlap Prediction: Task-Aligned Self-Supervised Pretraining For Semantic Segmentation In Remote Sensing Imagery
+Enhancing Object Detection with Privileged Information: A Model-Agnostic Teacher-Student Approach
+A Comparative Study of Custom CNNs, Pre-trained Models, and Transfer Learning Across Multiple Visual Datasets
+TopoLoRA-SAM: Topology-Aware Parameter-Efficient Adaptation of Foundation Segmenters for Thin-Structure and Cross-Domain Binary Semantic Segmentation
+ULTra: Unveiling Latent Token Interpretability in Transformer-Based Understanding and Segmentation
+Quantifying task-relevant representational similarity using decision variable correlation
