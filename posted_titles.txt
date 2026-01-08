@@ -1473,3 +1473,4 @@ A Comparative Study of Custom CNNs, Pre-trained Models, and Transfer Learning Ac
 TopoLoRA-SAM: Topology-Aware Parameter-Efficient Adaptation of Foundation Segmenters for Thin-Structure and Cross-Domain Binary Semantic Segmentation
 ULTra: Unveiling Latent Token Interpretability in Transformer-Based Understanding and Segmentation
 Quantifying task-relevant representational similarity using decision variable correlation
+Systematic Evaluation of Depth Backbones and Semantic Cues for Monocular Pseudo-LiDAR 3D Detection
