@@ -1474,3 +1474,7 @@ TopoLoRA-SAM: Topology-Aware Parameter-Efficient Adaptation of Foundation Segmen
 ULTra: Unveiling Latent Token Interpretability in Transformer-Based Understanding and Segmentation
 Quantifying task-relevant representational similarity using decision variable correlation
 Systematic Evaluation of Depth Backbones and Semantic Cues for Monocular Pseudo-LiDAR 3D Detection
+Aligned explanations in neural networks
+Sequential Subspace Noise Injection Prevents Accuracy Collapse in Certified Unlearning
+Comparative Analysis of Custom CNN Architectures versus Pre-trained Models and Transfer Learning: A Study on Five Bangladesh Datasets
+Integrating Distribution Matching into Semi-Supervised Contrastive Learning for Labeled and Unlabeled Data
