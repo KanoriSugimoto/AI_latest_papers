@@ -1478,3 +1478,6 @@ Aligned explanations in neural networks
 Sequential Subspace Noise Injection Prevents Accuracy Collapse in Certified Unlearning
 Comparative Analysis of Custom CNN Architectures versus Pre-trained Models and Transfer Learning: A Study on Five Bangladesh Datasets
 Integrating Distribution Matching into Semi-Supervised Contrastive Learning for Labeled and Unlabeled Data
+Studying Illustrations in Manuscripts: An Efficient Deep-Learning Approach
+Variance Reduction Methods Do Not Need to Compute Full Gradients: Improved Efficiency through Shuffling
+seq-JEPA: Autoregressive Predictive Learning of Invariant-Equivariant World Models
