@@ -1483,3 +1483,5 @@ Variance Reduction Methods Do Not Need to Compute Full Gradients: Improved Effic
 seq-JEPA: Autoregressive Predictive Learning of Invariant-Equivariant World Models
 Practical Continual Forgetting for Pre-trained Vision Models
 SegDAC: Improving Visual Reinforcement Learning by Extracting Dynamic Object-Centric Representations from Pretrained Vision Models
+Noise-Adaptive Regularization for Robust Multi-Label Remote Sensing Image Classification
+Supervised Spike Agreement Dependent Plasticity for Fast Local Learning in Spiking Neural Networks
