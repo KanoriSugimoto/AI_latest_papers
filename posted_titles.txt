@@ -1485,3 +1485,9 @@ Practical Continual Forgetting for Pre-trained Vision Models
 SegDAC: Improving Visual Reinforcement Learning by Extracting Dynamic Object-Centric Representations from Pretrained Vision Models
 Noise-Adaptive Regularization for Robust Multi-Label Remote Sensing Image Classification
 Supervised Spike Agreement Dependent Plasticity for Fast Local Learning in Spiking Neural Networks
+Attention Consistency Regularization for Interpretable Early-Exit Neural Networks
+Adaptive few-shot learning for robust part quality classification in two-photon lithography
+Towards Robust Cross-Dataset Object Detection Generalization under Domain Specificity
+LLM for Large-Scale Optimization Model Auto-Formulation: A Lightweight Few-Shot Learning Approach
+Human-in-the-Loop Segmentation of Multi-species Coral Imagery
+QuFeX: Quantum feature extraction module for hybrid quantum-classical deep neural networks
