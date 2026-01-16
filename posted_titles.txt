@@ -1491,3 +1491,7 @@ Towards Robust Cross-Dataset Object Detection Generalization under Domain Specif
 LLM for Large-Scale Optimization Model Auto-Formulation: A Lightweight Few-Shot Learning Approach
 Human-in-the-Loop Segmentation of Multi-species Coral Imagery
 QuFeX: Quantum feature extraction module for hybrid quantum-classical deep neural networks
+Multi-Agent Cooperative Learning for Robust Vision-Language Alignment under OOD Concepts
+VibrantSR: Sub-Meter Canopy Height Models from Sentinel-2 Using Generative Flow Matching
+Instance-level quantitative saliency in multiple sclerosis lesion segmentation
+VQ-Seg: Vector-Quantized Token Perturbation for Semi-Supervised Medical Image Segmentation
