@@ -1498,3 +1498,14 @@ VQ-Seg: Vector-Quantized Token Perturbation for Semi-Supervised Medical Image Se
 AI-Guided Human-In-the-Loop Inverse Design of High Performance Engineering Structures
 Meta-Learning Guided Pruning for Few-Shot Plant Pathology on Edge Devices
 Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation
+IPEC: Test-Time Incremental Prototype Enhancement Classifier for Few-Shot Learning
+A Confidence-Variance Theory for Pseudo-Label Selection in Semi-Supervised Learning
+IceWatch: Forecasting Glacial Lake Outburst Floods (GLOFs) using Multimodal Deep Learning
+Fisher-Informed Parameterwise Aggregation for Federated Learning with Heterogeneous Data
+Zeros can be Informative: Masked Binary U-Net for Image Segmentation on Tensor Cores
+Adaptive Multi-Scale Correlation Meta-Network for Few-Shot Remote Sensing Image Classification
+SDCoNet: Saliency-Driven Multi-Task Collaborative Network for Remote Sensing Object Detection
+BlocksecRT-DETR: Decentralized Privacy-Preserving and Token-Efficient Federated Transformer Learning for Secure Real-Time Object Detection in ITS
+MOSLD-Bench: Multilingual Open-Set Learning and Discovery Benchmark for Text Categorization
+Insight: Interpretable Semantic Hierarchies in Vision-Language Encoders
+Matrix-Free Two-to-Infinity and One-to-Two Norms Estimation
