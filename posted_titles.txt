@@ -1513,3 +1513,5 @@ Mixture-of-Experts Models in Vision: Routing, Optimization, and Generalization
 ZENITH: Automated Gradient Norm Informed Stochastic Optimization
 U-Harmony: Enhancing Joint Training for Segmentation Models with Universal Harmonization
 Benchmarking the Influence of Pre-training on Explanation Performance in MR Image Classification
+Performance-guided Reinforced Active Learning for Object Detection
+Clustering-Guided Spatial-Spectral Mamba for Hyperspectral Image Classification
