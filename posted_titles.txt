@@ -1515,3 +1515,6 @@ U-Harmony: Enhancing Joint Training for Segmentation Models with Universal Harmo
 Benchmarking the Influence of Pre-training on Explanation Performance in MR Image Classification
 Performance-guided Reinforced Active Learning for Object Detection
 Clustering-Guided Spatial-Spectral Mamba for Hyperspectral Image Classification
+Rethinking Large Language Models For Irregular Time Series Classification In Critical Care
+Test-Time Adaptation for Speech Emotion Recognition
+A Lightweight Medical Image Classification Framework via Self-Supervised Contrastive Learning and Quantum-Enhanced Feature Modeling
