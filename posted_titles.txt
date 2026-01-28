@@ -1527,3 +1527,4 @@ FARM: Few-shot Adaptive Malware Family Classification under Concept Drift
 From Cold Start to Active Learning: Embedding-Based Scan Selection for Medical Image Segmentation
 Generative Diffusion Augmentation with Quantum-Enhanced Discrimination for Medical Image Diagnosis
 Offline Reinforcement Learning using Human-Aligned Reward Labeling for Autonomous Emergency Braking in Occluded Pedestrian Crossing
+Anatomically-aware conformal prediction for medical image segmentation with random walks
