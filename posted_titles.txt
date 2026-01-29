@@ -1528,3 +1528,4 @@ From Cold Start to Active Learning: Embedding-Based Scan Selection for Medical I
 Generative Diffusion Augmentation with Quantum-Enhanced Discrimination for Medical Image Diagnosis
 Offline Reinforcement Learning using Human-Aligned Reward Labeling for Autonomous Emergency Braking in Occluded Pedestrian Crossing
 Anatomically-aware conformal prediction for medical image segmentation with random walks
+Causal-Driven Feature Evaluation for Cross-Domain Image Classification
