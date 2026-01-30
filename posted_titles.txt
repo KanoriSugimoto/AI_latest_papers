@@ -1529,3 +1529,7 @@ Generative Diffusion Augmentation with Quantum-Enhanced Discrimination for Medic
 Offline Reinforcement Learning using Human-Aligned Reward Labeling for Autonomous Emergency Braking in Occluded Pedestrian Crossing
 Anatomically-aware conformal prediction for medical image segmentation with random walks
 Causal-Driven Feature Evaluation for Cross-Domain Image Classification
+Adversarial Vulnerability Transcends Computational Paradigms: Feature Engineering Provides No Defense Against Neural Adversarial Transfer
+FISMO: Fisher-Structured Momentum-Orthogonalized Optimizer
+NetMamba+: A Framework of Pre-trained Models for Efficient and Accurate Network Traffic Classification
+Investigating Batch Inference in a Sequential Monte Carlo Framework for Neural Networks
