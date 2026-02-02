@@ -1533,3 +1533,11 @@ Adversarial Vulnerability Transcends Computational Paradigms: Feature Engineerin
 FISMO: Fisher-Structured Momentum-Orthogonalized Optimizer
 NetMamba+: A Framework of Pre-trained Models for Efficient and Accurate Network Traffic Classification
 Investigating Batch Inference in a Sequential Monte Carlo Framework for Neural Networks
+ZK-HybridFL: Zero-Knowledge Proof-Enhanced Hybrid Ledger for Federated Learning
+A Unified Study of LoRA Variants: Taxonomy, Review, Codebase, and Empirical Evaluation
+Environment-Conditioned Tail Reweighting for Total Variation Invariant Risk Minimization
+Do Open-Vocabulary Detectors Transfer to Aerial Imagery? A Comparative Evaluation
+Predicting Intermittent Job Failure Categories for Diagnosis Using Few-Shot Fine-Tuned Language Models
+Cross-Domain Few-Shot Learning for Hyperspectral Image Classification Based on Mixup Foundation Model
+Can Distillation Mitigate Backdoor Attacks in Pre-trained Encoders?
+From Label Error Detection to Correction: A Modular Framework and Benchmark for Object Detection Datasets
