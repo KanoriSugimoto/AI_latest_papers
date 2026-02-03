@@ -1541,3 +1541,18 @@ Predicting Intermittent Job Failure Categories for Diagnosis Using Few-Shot Fine
 Cross-Domain Few-Shot Learning for Hyperspectral Image Classification Based on Mixup Foundation Model
 Can Distillation Mitigate Backdoor Attacks in Pre-trained Encoders?
 From Label Error Detection to Correction: A Modular Framework and Benchmark for Object Detection Datasets
+Lightweight Edge Learning via Dataset Pruning
+Sporadic Gradient Tracking over Directed Graphs: A Theoretical Perspective on Decentralized Federated Learning
+Rectified LpJEPA: Joint-Embedding Predictive Architectures with Sparse and Maximum-Entropy Representations
+PIMCST: Physics-Informed Multi-Phase Consensus and Spatio-Temporal Few-Shot Learning for Traffic Flow Forecasting
+Observing Health Outcomes Using Remote Sensing Imagery and Geo-Context Guided Visual Transformer
+1S-DAug: One-Shot Data Augmentation for Robust Few-Shot Generalization
+PDE-Constrained Optimization for Neural Image Segmentation with Physics Priors
+Robust Generalization with Adaptive Optimal Transport Priors for Decision-Focused Learning
+Spatio-Temporal Transformers for Long-Term NDVI Forecasting
+Real-Time 2D LiDAR Object Detection Using Three-Frame RGB Scan Encoding
+Instance Temperature Knowledge Distillation
+Bubble2Heat: Optical to Thermal Inference in Pool Boiling Using Physics-encoded Generative AI
+DiTOX: Fault Detection and Localization in the ONNX Optimizer
+Efficient Transformer Encoders for Mask2Former-style models
+Transferring Visual Explainability of Self-Explaining Models to Prediction-Only Models without Additional Training
