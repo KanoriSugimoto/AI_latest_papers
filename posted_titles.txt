@@ -1556,3 +1556,9 @@ Bubble2Heat: Optical to Thermal Inference in Pool Boiling Using Physics-encoded 
 DiTOX: Fault Detection and Localization in the ONNX Optimizer
 Efficient Transformer Encoders for Mask2Former-style models
 Transferring Visual Explainability of Self-Explaining Models to Prediction-Only Models without Additional Training
+EEO-TFV: Escape-Explore Optimizer for Web-Scale Time-Series Forecasting and Vision Analysis
+Controlled disagreement improves generalization in decentralized training
+Robust Representation Learning in Masked Autoencoders
+Fully Kolmogorov-Arnold Deep Model in Medical Image Segmentation
+Sensitivity analysis of image classification models using generalized polynomial chaos
+Admissibility of Stein Shrinkage for Batch Normalization in the Presence of Adversarial Attacks
