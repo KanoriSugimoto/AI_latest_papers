@@ -1562,3 +1562,5 @@ Robust Representation Learning in Masked Autoencoders
 Fully Kolmogorov-Arnold Deep Model in Medical Image Segmentation
 Sensitivity analysis of image classification models using generalized polynomial chaos
 Admissibility of Stein Shrinkage for Batch Normalization in the Presence of Adversarial Attacks
+Probabilistic Label Spreading: Efficient and Consistent Estimation of Soft Labels with Epistemic Uncertainty on Graphs
+Revisiting the Evaluation of Deep Neural Networks for Pedestrian Detection
