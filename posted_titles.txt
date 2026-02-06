@@ -1564,3 +1564,5 @@ Sensitivity analysis of image classification models using generalized polynomial
 Admissibility of Stein Shrinkage for Batch Normalization in the Presence of Adversarial Attacks
 Probabilistic Label Spreading: Efficient and Consistent Estimation of Soft Labels with Epistemic Uncertainty on Graphs
 Revisiting the Evaluation of Deep Neural Networks for Pedestrian Detection
+Feature Engineering is Not Dead: Reviving Classical Machine Learning with Entropy, HOG, and LBP Feature Fusion for Image Classification
+YOLO-based Bearing Fault Diagnosis With Continuous Wavelet Transform
