@@ -1566,3 +1566,7 @@ Probabilistic Label Spreading: Efficient and Consistent Estimation of Soft Label
 Revisiting the Evaluation of Deep Neural Networks for Pedestrian Detection
 Feature Engineering is Not Dead: Reviving Classical Machine Learning with Entropy, HOG, and LBP Feature Fusion for Image Classification
 YOLO-based Bearing Fault Diagnosis With Continuous Wavelet Transform
+Decoupling Variance and Scale-Invariant Updates in Adaptive Gradient Descent for Unified Vector and Matrix Optimization
+Inheritance Between Feedforward and Convolutional Networks via Model Projection
+CytoCrowd: A Multi-Annotator Benchmark Dataset for Cytology Image Analysis
+STAG: Structural Test-time Alignment of Gradients for Online Adaptation
