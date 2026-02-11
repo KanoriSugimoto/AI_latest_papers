@@ -1578,3 +1578,12 @@ Vision and language: Novel Representations and Artificial intelligence for Drivi
 A High Resolution Urban and Rural Settlement Map of Africa Using Deep Learning and Satellite Imagery
 Topological Signatures vs. Gradient Histograms: A Comparative Study for Medical Image Classification
 Practical Feasibility of Gradient Inversion Attacks in Federated Learning
+Gradient Residual Connections
+Feature salience -- not task-informativeness -- drives machine learning model explanations
+Vendi Novelty Scores for Out-of-Distribution Detection
+SVD-Preconditioned Gradient Descent Method for Solving Nonlinear Least Squares Problems
+Conformal Prediction Sets for Instance Segmentation
+BiSSL: Enhancing the Alignment Between Self-Supervised Pretraining and Downstream Fine-Tuning via Bilevel Optimization
+TabNSA: Native Sparse Attention for Efficient Tabular Data Learning
+A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning across Broad Atlases and Disorders
+Understanding Image2Video Domain Shift in Food Segmentation: An Instance-level Analysis on Apples
