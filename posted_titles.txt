@@ -1587,3 +1587,6 @@ BiSSL: Enhancing the Alignment Between Self-Supervised Pretraining and Downstrea
 TabNSA: Native Sparse Attention for Efficient Tabular Data Learning
 A Brain Graph Foundation Model: Pre-Training and Prompt-Tuning across Broad Atlases and Disorders
 Understanding Image2Video Domain Shift in Food Segmentation: An Instance-level Analysis on Apples
+Adaptive Optimization via Momentum on Variance-Normalized Gradients
+Spectral-Spatial Contrastive Learning Framework for Regression on Hyperspectral Data
+Airway Tree Modeling Using Dual-channel 3D UNet 3+ with Vesselness Prior
