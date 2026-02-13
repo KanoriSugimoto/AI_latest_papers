@@ -1590,3 +1590,7 @@ Understanding Image2Video Domain Shift in Food Segmentation: An Instance-level A
 Adaptive Optimization via Momentum on Variance-Normalized Gradients
 Spectral-Spatial Contrastive Learning Framework for Regression on Hyperspectral Data
 Airway Tree Modeling Using Dual-channel 3D UNet 3+ with Vesselness Prior
+Hierarchical Concept Embedding & Pursuit for Interpretable Image Classification
+HyperDet: 3D Object Detection with Hyper 4D Radar Point Clouds
+PLESS: Pseudo-Label Enhancement with Spreading Scribbles for Weakly Supervised Segmentation
+On Fairness of Task Arithmetic: The Role of Task Vectors
