@@ -1594,3 +1594,5 @@ Hierarchical Concept Embedding & Pursuit for Interpretable Image Classification
 HyperDet: 3D Object Detection with Hyper 4D Radar Point Clouds
 PLESS: Pseudo-Label Enhancement with Spreading Scribbles for Weakly Supervised Segmentation
 On Fairness of Task Arithmetic: The Role of Task Vectors
+Synthetic Craquelure Generation for Unsupervised Painting Restoration
+Robustness of Object Detection of Autonomous Vehicles in Adverse Weather Conditions
