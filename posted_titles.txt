@@ -1596,3 +1596,9 @@ PLESS: Pseudo-Label Enhancement with Spreading Scribbles for Weakly Supervised S
 On Fairness of Task Arithmetic: The Role of Task Vectors
 Synthetic Craquelure Generation for Unsupervised Painting Restoration
 Robustness of Object Detection of Autonomous Vehicles in Adverse Weather Conditions
+Optimized Certainty Equivalent Risk-Controlling Prediction Sets
+LAF-YOLOv10 with Partial Convolution Backbone, Attention-Guided Feature Pyramid, Auxiliary P2 Head, and Wise-IoU Loss for Small Object Detection in Drone Aerial Imagery
+Fine-tuned Vision Language Model for Localization of Parasitic Eggs in Microscopic Images
+DenseMLLM: Standard Multimodal LLMs are Intrinsic Dense Predictors
+Kernel-based optimization of measurement operators for quantum reservoir computers
+Curriculum Multi-Task Self-Supervision Improves Lightweight Architectures for Onboard Satellite Hyperspectral Image Segmentation
