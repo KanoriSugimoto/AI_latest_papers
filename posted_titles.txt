@@ -1602,3 +1602,4 @@ Fine-tuned Vision Language Model for Localization of Parasitic Eggs in Microscop
 DenseMLLM: Standard Multimodal LLMs are Intrinsic Dense Predictors
 Kernel-based optimization of measurement operators for quantum reservoir computers
 Curriculum Multi-Task Self-Supervision Improves Lightweight Architectures for Onboard Satellite Hyperspectral Image Segmentation
+Joint Enhancement and Classification using Coupled Diffusion Models of Signals and Logits
