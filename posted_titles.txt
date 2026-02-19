@@ -1603,3 +1603,9 @@ DenseMLLM: Standard Multimodal LLMs are Intrinsic Dense Predictors
 Kernel-based optimization of measurement operators for quantum reservoir computers
 Curriculum Multi-Task Self-Supervision Improves Lightweight Architectures for Onboard Satellite Hyperspectral Image Segmentation
 Joint Enhancement and Classification using Coupled Diffusion Models of Signals and Logits
+A Study on Real-time Object Detection using Deep Learning
+RefineFormer3D: Efficient 3D Medical Image Segmentation via Adaptive Multi-Scale Transformer with Cross Attention Fusion
+A Contrastive Learning Framework Empowered by Attention-based Feature Adaptation for Street-View Image Classification
+Explainable AI: Context-Aware Layer-Wise Integrated Gradients for Explaining Transformer Models
+LMSeg: Unleashing the Power of Large-Scale Models for Open-Vocabulary Semantic Segmentation
+Vision and Language: Novel Representations and Artificial intelligence for Driving Scene Safety Assessment and Autonomous Vehicle Planning
