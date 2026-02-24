@@ -1614,3 +1614,8 @@ Understanding the Generalization of Bilevel Programming in Hyperparameter Optimi
 Understanding the Fine-Grained Knowledge Capabilities of Vision-Language Models
 Quantum-enhanced satellite image classification
 Theory and interpretability of Quantum Extreme Learning Machines: a Pauli-transfer matrix approach
+The Power of Decaying Steps: Enhancing Attack Stability and Transferability for Sign-based Optimizers
+Active perception and disentangled representations allow continual, episodic zero and few-shot learning
+Multiclass Calibration Assessment and Recalibration of Probability Predictions via the Linear Log Odds Calibration Function
+Why Agent Caching Fails and How to Fix It: Structured Intent Canonicalization with Few-Shot Learning
+Explainability Methods for Hardware Trojan Detection: A Systematic Comparison
