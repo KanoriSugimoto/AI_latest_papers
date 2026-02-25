@@ -1619,3 +1619,9 @@ Active perception and disentangled representations allow continual, episodic zer
 Multiclass Calibration Assessment and Recalibration of Probability Predictions via the Linear Log Odds Calibration Function
 Why Agent Caching Fails and How to Fix It: Structured Intent Canonicalization with Few-Shot Learning
 Explainability Methods for Hardware Trojan Detection: A Systematic Comparison
+Extending $\mu$P: Spectral Conditions for Feature Learning Across Optimizers
+Knowing the Unknown: Interpretable Open-World Object Detection via Concept Decomposition Model
+Motivation is Something You Need
+Knee or ROC
+Using the Path of Least Resistance to Explain Deep Networks
+Is Exchangeability better than I.I.D to handle Data Distribution Shifts while Pooling Data for Data-scarce Medical image segmentation?
