@@ -1625,3 +1625,6 @@ Motivation is Something You Need
 Knee or ROC
 Using the Path of Least Resistance to Explain Deep Networks
 Is Exchangeability better than I.I.D to handle Data Distribution Shifts while Pooling Data for Data-scarce Medical image segmentation?
+The Mean is the Mirage: Entropy-Adaptive Model Merging under Heterogeneous Domain Shifts in Medical Imaging
+Robustness in sparse artificial neural networks trained with adaptive topology
+Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks
