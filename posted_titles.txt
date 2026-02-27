@@ -1628,3 +1628,4 @@ Is Exchangeability better than I.I.D to handle Data Distribution Shifts while Po
 The Mean is the Mirage: Entropy-Adaptive Model Merging under Heterogeneous Domain Shifts in Medical Imaging
 Robustness in sparse artificial neural networks trained with adaptive topology
 Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks
+FairQuant: Fairness-Aware Mixed-Precision Quantization for Medical Image Classification
