@@ -1629,3 +1629,4 @@ The Mean is the Mirage: Entropy-Adaptive Model Merging under Heterogeneous Domai
 Robustness in sparse artificial neural networks trained with adaptive topology
 Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks
 FairQuant: Fairness-Aware Mixed-Precision Quantization for Medical Image Classification
+MedCLIPSeg: Probabilistic Vision-Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation
