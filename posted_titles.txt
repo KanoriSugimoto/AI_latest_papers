@@ -1630,3 +1630,7 @@ Robustness in sparse artificial neural networks trained with adaptive topology
 Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks
 FairQuant: Fairness-Aware Mixed-Precision Quantization for Medical Image Classification
 MedCLIPSeg: Probabilistic Vision-Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation
+SegMate: Asymmetric Attention-Based Lightweight Architecture for Efficient Multi-Organ Segmentation
+RAViT: Resolution-Adaptive Vision Transformer
+A multimodal slice discovery framework for systematic failure detection and explanation in medical image classification
+Less is More: AMBER-AFNO -- a New Benchmark for Lightweight 3D Medical Image Segmentation
