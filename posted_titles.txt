@@ -1634,3 +1634,11 @@ SegMate: Asymmetric Attention-Based Lightweight Architecture for Efficient Multi
 RAViT: Resolution-Adaptive Vision Transformer
 A multimodal slice discovery framework for systematic failure detection and explanation in medical image classification
 Less is More: AMBER-AFNO -- a New Benchmark for Lightweight 3D Medical Image Segmentation
+MAML-KT: Addressing Cold Start Problem in Knowledge Tracing for New Students via Few-Shot Model-Agnostic Meta Learning
+Monocular 3D Object Position Estimation with VLMs for Human-Robot Interaction
+Is Bigger Always Better? Efficiency Analysis in Resource-Constrained Small Object Detection
+From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories
+Beyond DAGs: A Latent Partial Causal Model for Multimodal Learning
+Polynomial, trigonometric, and tropical activations
+GradPCA: Leveraging NTK Alignment for Reliable Out-of-Distribution Detection
+VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection
