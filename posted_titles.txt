@@ -1642,3 +1642,7 @@ Beyond DAGs: A Latent Partial Causal Model for Multimodal Learning
 Polynomial, trigonometric, and tropical activations
 GradPCA: Leveraging NTK Alignment for Reliable Out-of-Distribution Detection
 VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection
+IoUCert: Robustness Verification for Anchor-based Object Detectors
+Guiding Sparse Neural Networks with Neurobiological Principles to Elicit Biologically Plausible Representations
+From Fewer Samples to Fewer Bits: Reframing Dataset Distillation as Joint Optimization of Precision and Compactness
+SGDC: Structurally-Guided Dynamic Convolution for Medical Image Segmentation
