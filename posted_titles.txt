@@ -1646,3 +1646,7 @@ IoUCert: Robustness Verification for Anchor-based Object Detectors
 Guiding Sparse Neural Networks with Neurobiological Principles to Elicit Biologically Plausible Representations
 From Fewer Samples to Fewer Bits: Reframing Dataset Distillation as Joint Optimization of Precision and Compactness
 SGDC: Structurally-Guided Dynamic Convolution for Medical Image Segmentation
+GeoTop: Advancing Image Classification with Geometric-Topological Analysis
+Implicit U-KAN2.0: Dynamic, Efficient and Interpretable Medical Image Segmentation
+Do We Need All the Synthetic Data? Targeted Image Augmentation via Diffusion Models
+GroupEnsemble: Efficient Uncertainty Estimation for DETR-based Object Detection
