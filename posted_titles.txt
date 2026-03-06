@@ -1650,3 +1650,6 @@ GeoTop: Advancing Image Classification with Geometric-Topological Analysis
 Implicit U-KAN2.0: Dynamic, Efficient and Interpretable Medical Image Segmentation
 Do We Need All the Synthetic Data? Targeted Image Augmentation via Diffusion Models
 GroupEnsemble: Efficient Uncertainty Estimation for DETR-based Object Detection
+A Benchmark Study of Neural Network Compression Methods for Hyperspectral Image Classification
+SRasP: Self-Reorientation Adversarial Style Perturbation for Cross-Domain Few-Shot Learning
+Layer by layer, module by module: Choose both for optimal OOD probing of ViT
