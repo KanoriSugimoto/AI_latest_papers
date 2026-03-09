@@ -1653,3 +1653,7 @@ GroupEnsemble: Efficient Uncertainty Estimation for DETR-based Object Detection
 A Benchmark Study of Neural Network Compression Methods for Hyperspectral Image Classification
 SRasP: Self-Reorientation Adversarial Style Perturbation for Cross-Domain Few-Shot Learning
 Layer by layer, module by module: Choose both for optimal OOD probing of ViT
+Self-Auditing Parameter-Efficient Fine-Tuning for Few-Shot 3D Medical Image Segmentation
+Margin and Consistency Supervision for Calibrated and Robust Vision Models
+Mitigating Bias in Concept Bottleneck Models for Fair and Interpretable Image Classification
+DFIR-DETR: Frequency-Domain Iterative Refinement and Dynamic Feature Aggregation for Small Object Detection
