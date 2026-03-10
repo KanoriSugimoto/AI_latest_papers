@@ -1657,3 +1657,13 @@ Self-Auditing Parameter-Efficient Fine-Tuning for Few-Shot 3D Medical Image Segm
 Margin and Consistency Supervision for Calibrated and Robust Vision Models
 Mitigating Bias in Concept Bottleneck Models for Fair and Interpretable Image Classification
 DFIR-DETR: Frequency-Domain Iterative Refinement and Dynamic Feature Aggregation for Small Object Detection
+Combining Adam and its Inverse Counterpart to Enhance Generalization of Deep Learning Optimizers
+LightMedSeg: Lightweight 3D Medical Image Segmentation with Learned Spatial Anchors
+Geometrically Constrained Outlier Synthesis
+RECAP: Local Hebbian Prototype Learning as a Self-Organizing Readout for Reservoir Dynamics
+XAI and Few-shot-based Hybrid Classification Model for Plant Leaf Disease Prognosis
+A Systematic Comparison of Training Objectives for Out-of-Distribution Detection in Image Classification
+ALOOD: Exploiting Language Representations for LiDAR-based Out-of-Distribution Object Detection
+Puppet-CNN: Continuous Parameter Dynamics for Input-Adaptive Convolutional Networks
+From Semantic To Instance: A Semi-Self-Supervised Learning Approach
+Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation
