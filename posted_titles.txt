@@ -1667,3 +1667,7 @@ ALOOD: Exploiting Language Representations for LiDAR-based Out-of-Distribution O
 Puppet-CNN: Continuous Parameter Dynamics for Input-Adaptive Convolutional Networks
 From Semantic To Instance: A Semi-Self-Supervised Learning Approach
 Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation
+Routing without Forgetting
+CarbonBench: A Global Benchmark for Upscaling of Carbon Fluxes Using Zero-Shot Learning
+CLoE: Expert Consistency Learning for Missing Modality Segmentation
+EsoLang-Bench: Evaluating Genuine Reasoning in Large Language Models via Esoteric Programming Languages
