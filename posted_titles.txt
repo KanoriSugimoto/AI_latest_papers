@@ -1671,3 +1671,6 @@ Routing without Forgetting
 CarbonBench: A Global Benchmark for Upscaling of Carbon Fluxes Using Zero-Shot Learning
 CLoE: Expert Consistency Learning for Missing Modality Segmentation
 EsoLang-Bench: Evaluating Genuine Reasoning in Large Language Models via Esoteric Programming Languages
+HTMuon: Improving Muon via Heavy-Tailed Spectral Correction
+What do near-optimal learning rate schedules look like?
+Why Does It Look There? Structured Explanations for Image Classification
