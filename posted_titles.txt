@@ -1674,3 +1674,8 @@ EsoLang-Bench: Evaluating Genuine Reasoning in Large Language Models via Esoteri
 HTMuon: Improving Muon via Heavy-Tailed Spectral Correction
 What do near-optimal learning rate schedules look like?
 Why Does It Look There? Structured Explanations for Image Classification
+Beyond Barren Plateaus: A Scalable Quantum Convolutional Architecture for High-Fidelity Image Classification
+Resource-Efficient Iterative LLM-Based NAS with Feedback Memory
+OSM-based Domain Adaptation for Remote Sensing VLMs
+Interpreting Contrastive Embeddings in Specific Domains with Fuzzy Rules
+FedSKD: Aggregation-free Model-heterogeneous Federated Learning via Multi-dimensional Similarity Knowledge Distillation for Medical Image Classification
