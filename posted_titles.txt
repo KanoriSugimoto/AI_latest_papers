@@ -1679,3 +1679,7 @@ Resource-Efficient Iterative LLM-Based NAS with Feedback Memory
 OSM-based Domain Adaptation for Remote Sensing VLMs
 Interpreting Contrastive Embeddings in Specific Domains with Fuzzy Rules
 FedSKD: Aggregation-free Model-heterogeneous Federated Learning via Multi-dimensional Similarity Knowledge Distillation for Medical Image Classification
+DirPA: Addressing Prior Shift in Imbalanced Few-shot Crop-type Classification
+Addressing Data Scarcity in 3D Trauma Detection through Self-Supervised and Semi-Supervised Learning with Vertex Relative Position Encoding
+Federated Few-Shot Learning on Neuromorphic Hardware: An Empirical Study Across Physical Edge Nodes
+Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection
