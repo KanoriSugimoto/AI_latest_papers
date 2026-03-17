@@ -1683,3 +1683,8 @@ DirPA: Addressing Prior Shift in Imbalanced Few-shot Crop-type Classification
 Addressing Data Scarcity in 3D Trauma Detection through Self-Supervised and Semi-Supervised Learning with Vertex Relative Position Encoding
 Federated Few-Shot Learning on Neuromorphic Hardware: An Empirical Study Across Physical Edge Nodes
 Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection
+Bi-CamoDiffusion: A Boundary-informed Diffusion Approach for Camouflaged Object Detection
+Efficient Semi-Automated Material Microstructure Analysis Using Deep Learning: A Case Study in Additive Manufacturing
+Medical Image Spatial Grounding with Semantic Sampling
+Seeing Beyond: Extrapolative Domain Adaptive Panoramic Segmentation
+Self-Distillation of Hidden Layers for Self-Supervised Representation Learning
