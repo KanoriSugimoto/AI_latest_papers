@@ -1688,3 +1688,6 @@ Efficient Semi-Automated Material Microstructure Analysis Using Deep Learning: A
 Medical Image Spatial Grounding with Semantic Sampling
 Seeing Beyond: Extrapolative Domain Adaptive Panoramic Segmentation
 Self-Distillation of Hidden Layers for Self-Supervised Representation Learning
+Discovering the Hidden Role of Gini Index In Prompt-based Classification
+MASS: MoErging through Adaptive Subspace Selection
+CFM: Language-aligned Concept Foundation Model for Vision
