@@ -1691,3 +1691,10 @@ Self-Distillation of Hidden Layers for Self-Supervised Representation Learning
 Discovering the Hidden Role of Gini Index In Prompt-based Classification
 MASS: MoErging through Adaptive Subspace Selection
 CFM: Language-aligned Concept Foundation Model for Vision
+Personalized Fall Detection by Balancing Data with Selective Feedback Using Contrastive Learning
+AdaMuS: Adaptive Multi-view Sparsity Learning for Dimensionally Unbalanced Data
+DesertFormer: Transformer-Based Semantic Segmentation for Off-Road Desert Terrain Classification in Autonomous Navigation Systems
+Pixel-level Counterfactual Contrastive Learning for Medical Image Segmentation
+Mutually Causal Semantic Distillation Network for Zero-Shot Learning
+rSDNet: Unified Robust Neural Learning against Label Noise and Adversarial Attacks
+Soft Dice Confidence: A Near-Optimal Confidence Estimator for Selective Prediction in Semantic Segmentation
