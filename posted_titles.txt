@@ -1698,3 +1698,6 @@ Pixel-level Counterfactual Contrastive Learning for Medical Image Segmentation
 Mutually Causal Semantic Distillation Network for Zero-Shot Learning
 rSDNet: Unified Robust Neural Learning against Label Noise and Adversarial Attacks
 Soft Dice Confidence: A Near-Optimal Confidence Estimator for Selective Prediction in Semantic Segmentation
+A Novel Framework using Intuitionistic Fuzzy Logic with U-Net and U-Net++ Architecture: A case Study of MRI Bain Image Segmentation
+Training-Only Heterogeneous Image-Patch-Text Graph Supervision for Advancing Few-Shot Learning Adapters
+Exploring AI in Fashion: A Review of Aesthetics, Personalization, Virtual Try-On, and Forecasting
