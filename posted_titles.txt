@@ -1702,3 +1702,7 @@ A Novel Framework using Intuitionistic Fuzzy Logic with U-Net and U-Net++ Archit
 Training-Only Heterogeneous Image-Patch-Text Graph Supervision for Advancing Few-Shot Learning Adapters
 Exploring AI in Fashion: A Review of Aesthetics, Personalization, Virtual Try-On, and Forecasting
 Growing Networks with Autonomous Pruning
+OmniPatch: A Universal Adversarial Patch for ViT-CNN Cross-Architecture Transfer in Semantic Segmentation
+Natural Gradient Descent for Online Continual Learning
+CataractSAM-2: A Domain-Adapted Model for Anterior Segment Surgery Segmentation and Scalable Ground-Truth Annotation
+Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection
