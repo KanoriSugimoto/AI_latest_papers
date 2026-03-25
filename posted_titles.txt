@@ -1706,3 +1706,6 @@ OmniPatch: A Universal Adversarial Patch for ViT-CNN Cross-Architecture Transfer
 Natural Gradient Descent for Online Continual Learning
 CataractSAM-2: A Domain-Adapted Model for Anterior Segment Surgery Segmentation and Scalable Ground-Truth Annotation
 Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection
+TorR: Towards Brain-Inspired Task-Oriented Reasoning via Cache-Oriented Algorithm-Architecture Co-design
+YOLOv10 with Kolmogorov-Arnold networks and vision-language foundation models for interpretable object detection and trustworthy multimodal AI in computer vision perception
+Arc Gradient Descent: A Geometrically Motivated Gradient Descent-based Optimiser with Phase-Aware, User-Controlled Step Dynamics (proof-of-concept)
