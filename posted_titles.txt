@@ -1714,3 +1714,5 @@ Kirchhoff-Inspired Neural Networks for Evolving High-Order Perception
 Can we generate portable representations for clinical time series data using LLMs?
 Machine vision with small numbers of detected photons per inference
 OSMDA: OpenStreetMap-based Domain Adaptation for Remote Sensing VLMs
+CD-Buffer: Complementary Dual-Buffer Framework for Test-Time Adaptation in Adverse Weather Object Detection
+Dual-Stage Invariant Continual Learning under Extreme Visual Sparsity
