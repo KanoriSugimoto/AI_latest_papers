@@ -1716,3 +1716,9 @@ Machine vision with small numbers of detected photons per inference
 OSMDA: OpenStreetMap-based Domain Adaptation for Remote Sensing VLMs
 CD-Buffer: Complementary Dual-Buffer Framework for Test-Time Adaptation in Adverse Weather Object Detection
 Dual-Stage Invariant Continual Learning under Extreme Visual Sparsity
+Mixture of Experts with Soft Nearest Neighbor Loss: Resolving Expert Collapse via Representation Disentanglement
+Efficient Encrypted Computation in Convolutional Spiking Neural Networks with TFHE
+PRUE: A Practical Recipe for Field Boundary Segmentation at Scale
+LDDMM stochastic interpolants: an application to domain uncertainty quantification in hemodynamics
+Less is More: Rethinking Few-Shot Learning and Recurrent Neural Nets
+Understanding SAM's Robustness to Noisy Labels through Gradient Down-weighting
