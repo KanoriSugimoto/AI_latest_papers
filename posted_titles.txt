@@ -1722,3 +1722,10 @@ PRUE: A Practical Recipe for Field Boundary Segmentation at Scale
 LDDMM stochastic interpolants: an application to domain uncertainty quantification in hemodynamics
 Less is More: Rethinking Few-Shot Learning and Recurrent Neural Nets
 Understanding SAM's Robustness to Noisy Labels through Gradient Down-weighting
+Deep Learning-Based Anomaly Detection in Spacecraft Telemetry on Edge Devices
+Big2Small: A Unifying Neural Network Framework for Model Compression
+Segmentation of Gray Matters and White Matters from Brain MRI data
+Toward Generalizable Whole Brain Representations with High-Resolution Light-Sheet Data
+Uncertainty Gating for Cost-Aware Explainable Artificial Intelligence
+Image-Specific Adaptation of Transformer Encoders for Compute-Efficient Segmentation
+Image Segmentation via Divisive Normalization: dealing with environmental diversity
