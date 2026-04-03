@@ -1731,3 +1731,4 @@ Image-Specific Adaptation of Transformer Encoders for Compute-Efficient Segmenta
 Image Segmentation via Divisive Normalization: dealing with environmental diversity
 Hierarchical Pre-Training of Vision Encoders with Large Language Models
 Automated Detection of Multiple Sclerosis Lesions on 7-tesla MRI Using U-net and Transformer-based Segmentation
+Non-monotonicity in Conformal Risk Control
