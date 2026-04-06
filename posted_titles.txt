@@ -1732,3 +1732,6 @@ Image Segmentation via Divisive Normalization: dealing with environmental divers
 Hierarchical Pre-Training of Vision Encoders with Large Language Models
 Automated Detection of Multiple Sclerosis Lesions on 7-tesla MRI Using U-net and Transformer-based Segmentation
 Non-monotonicity in Conformal Risk Control
+Photonic convolutional neural network with pre-trained in-situ training
+Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models
+PR3DICTR: A modular AI framework for medical 3D image-based detection and outcome prediction
