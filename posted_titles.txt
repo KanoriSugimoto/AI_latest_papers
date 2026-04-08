@@ -1735,3 +1735,9 @@ Non-monotonicity in Conformal Risk Control
 Photonic convolutional neural network with pre-trained in-situ training
 Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models
 PR3DICTR: A modular AI framework for medical 3D image-based detection and outcome prediction
+Earth Embeddings Reveal Diverse Urban Signals from Space
+HI-MoE: Hierarchical Instance-Conditioned Mixture-of-Experts for Object Detection
+XAttnRes: Cross-Stage Attention Residuals for Medical Image Segmentation
+Multimodal Structure Learning: Disentangling Shared and Specific Topology via Cross-Modal Graphical Lasso
+Intelligent Traffic Monitoring with YOLOv11: A Case Study in Real-Time Vehicle Detection
+Multi-Modal Sensor Fusion using Hybrid Attention for Autonomous Driving
