@@ -1741,3 +1741,5 @@ XAttnRes: Cross-Stage Attention Residuals for Medical Image Segmentation
 Multimodal Structure Learning: Disentangling Shared and Specific Topology via Cross-Modal Graphical Lasso
 Intelligent Traffic Monitoring with YOLOv11: A Case Study in Real-Time Vehicle Detection
 Multi-Modal Sensor Fusion using Hybrid Attention for Autonomous Driving
+Telescope: Learnable Hyperbolic Foveation for Ultra-Long-Range Object Detection
+DINO-QPM: Adapting Visual Foundation Models for Globally Interpretable Image Classification
