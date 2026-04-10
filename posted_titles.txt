@@ -1743,3 +1743,8 @@ Intelligent Traffic Monitoring with YOLOv11: A Case Study in Real-Time Vehicle D
 Multi-Modal Sensor Fusion using Hybrid Attention for Autonomous Driving
 Telescope: Learnable Hyperbolic Foveation for Ultra-Long-Range Object Detection
 DINO-QPM: Adapting Visual Foundation Models for Globally Interpretable Image Classification
+Sinkhorn doubly stochastic attention rank decay analysis
+Persistence-Augmented Neural Networks
+OV-Stitcher: A Global Context-Aware Framework for Training-Free Open-Vocabulary Semantic Segmentation
+Lost in the Hype: Revealing and Dissecting the Performance Degradation of Medical Multimodal Large Language Models in Image Classification
+RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection
