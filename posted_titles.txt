@@ -1748,3 +1748,8 @@ Persistence-Augmented Neural Networks
 OV-Stitcher: A Global Context-Aware Framework for Training-Free Open-Vocabulary Semantic Segmentation
 Lost in the Hype: Revealing and Dissecting the Performance Degradation of Medical Multimodal Large Language Models in Image Classification
 RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection
+Evidential Transformation Network: Turning Pretrained Models into Evidential Models for Post-hoc Uncertainty Estimation
+Deep Learning-Based Tracking and Lineage Reconstruction of Ligament Breakup
+SenBen: Sensitive Scene Graphs for Explainable Content Moderation
+MedFormer-UR: Uncertainty-Routed Transformer for Medical Image Classification
+Gen-n-Val: Agentic Image Data Generation and Validation
