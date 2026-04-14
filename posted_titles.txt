@@ -1753,3 +1753,7 @@ Deep Learning-Based Tracking and Lineage Reconstruction of Ligament Breakup
 SenBen: Sensitive Scene Graphs for Explainable Content Moderation
 MedFormer-UR: Uncertainty-Routed Transformer for Medical Image Classification
 Gen-n-Val: Agentic Image Data Generation and Validation
+LoDAdaC: a unified local training-based decentralized framework with adaptive gradients and compressed communication
+Legal2LogicICL: Improving Generalization in Transforming Legal Cases to Logical Formulas via Diverse Few-Shot Learning
+The Wasserstein transform
+Zero-Shot Quantization via Weight-Space Arithmetic
