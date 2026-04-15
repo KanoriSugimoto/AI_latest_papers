@@ -1757,3 +1757,7 @@ LoDAdaC: a unified local training-based decentralized framework with adaptive gr
 Legal2LogicICL: Improving Generalization in Transforming Legal Cases to Logical Formulas via Diverse Few-Shot Learning
 The Wasserstein transform
 Zero-Shot Quantization via Weight-Space Arithmetic
+Labeled TrustSet Guided: Batch Active Learning with Reinforcement Learning
+Monte Carlo Stochastic Depth for Uncertainty Estimation in Deep Learning
+Adaptive Data Dropout: Towards Self-Regulated Learning in Deep Neural Networks
+Deep Learning using Rectified Linear Units (ReLU)
