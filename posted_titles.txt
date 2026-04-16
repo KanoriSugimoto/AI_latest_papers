@@ -1761,3 +1761,8 @@ Labeled TrustSet Guided: Batch Active Learning with Reinforcement Learning
 Monte Carlo Stochastic Depth for Uncertainty Estimation in Deep Learning
 Adaptive Data Dropout: Towards Self-Regulated Learning in Deep Neural Networks
 Deep Learning using Rectified Linear Units (ReLU)
+Generalization Guarantees on Data-Driven Tuning of Gradient Descent with Langevin Updates
+DroneScan-YOLO: Redundancy-Aware Lightweight Detection for Tiny Objects in UAV Imagery
+Design and Behavior of Sparse Mixture-of-Experts Layers in CNN-based Semantic Segmentation
+A Function-Centric Perspective on Flat and Sharp Minima
+Visual Sparse Steering (VS2): Unsupervised Adaptation for Image Classification using Sparsity-Guided Steering Vectors
