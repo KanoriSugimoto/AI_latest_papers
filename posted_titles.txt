@@ -1766,3 +1766,9 @@ DroneScan-YOLO: Redundancy-Aware Lightweight Detection for Tiny Objects in UAV I
 Design and Behavior of Sparse Mixture-of-Experts Layers in CNN-based Semantic Segmentation
 A Function-Centric Perspective on Flat and Sharp Minima
 Visual Sparse Steering (VS2): Unsupervised Adaptation for Image Classification using Sparsity-Guided Steering Vectors
+Assessing the Performance-Efficiency Trade-off of Foundation Models in Probabilistic Electricity Price Forecasting
+Physically-Induced Atmospheric Adversarial Perturbations: Enhancing Transferability and Robustness in Remote Sensing Image Classification
+An Intelligent Robotic and Bio-Digestor Framework for Smart Waste Management
+A Nonlinear Separation Principle: Applications to Neural Networks, Control and Learning
+SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation
+Maximal Brain Damage Without Data or Optimization: Disrupting Neural Networks via Sign-Bit Flips
