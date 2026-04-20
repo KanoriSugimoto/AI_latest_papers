@@ -1772,3 +1772,8 @@ An Intelligent Robotic and Bio-Digestor Framework for Smart Waste Management
 A Nonlinear Separation Principle: Applications to Neural Networks, Control and Learning
 SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation
 Maximal Brain Damage Without Data or Optimization: Disrupting Neural Networks via Sign-Bit Flips
+TwinTrack: Post-hoc Multi-Rater Calibration for Medical Image Segmentation
+Photonic AI: A Hybrid Diffractive Holographic Neural System for Passive Optical Real-Time Image Classification
+Prompt-Driven Code Summarization: A Systematic Literature Review
+UA-Net: Uncertainty-Aware Network for TRISO Image Semantic Segmentation
+Automatic Combination of Sample Selection Strategies for Few-Shot Learning
