@@ -1777,3 +1777,11 @@ Photonic AI: A Hybrid Diffractive Holographic Neural System for Passive Optical 
 Prompt-Driven Code Summarization: A Systematic Literature Review
 UA-Net: Uncertainty-Aware Network for TRISO Image Semantic Segmentation
 Automatic Combination of Sample Selection Strategies for Few-Shot Learning
+An Uncertainty-Aware Loss Function Incorporating Fuzzy Logic: Application to MRI Brain Image Segmentation
+Lorentz Framework for Semantic Segmentation
+Hybrid Quantum Neural Networks for Enhanced Breast Cancer Thermographic Classification: A Novel Quantum-Classical Integration Approach
+DGSSM: Diffusion guided state-space models for multimodal salient object detection
+Prompting Foundation Models for Zero-Shot Ship Instance Segmentation in SAR Imagery
+Domain-Specialized Object Detection via Model-Level Mixtures of Experts
+Automatic Dataset Construction (ADC): Sample Collection, Data Curation, and Beyond
+Conformal Risk Control under Non-Monotone Losses: Theory and Finite-Sample Guarantees
