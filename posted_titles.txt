@@ -1787,3 +1787,5 @@ Automatic Dataset Construction (ADC): Sample Collection, Data Curation, and Beyo
 Conformal Risk Control under Non-Monotone Losses: Theory and Finite-Sample Guarantees
 RESFL: An Uncertainty-Aware Framework for Responsible Federated Learning by Balancing Privacy, Fairness and Utility
 Centralized Copy-Paste: Enhanced Data Augmentation Strategy for Wildland Fire Semantic Segmentation
+Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series
+Learn2Synth: Learning Optimal Data Synthesis Using Hypergradients for Brain Image Segmentation
