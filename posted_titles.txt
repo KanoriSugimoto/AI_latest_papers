@@ -1789,3 +1789,5 @@ RESFL: An Uncertainty-Aware Framework for Responsible Federated Learning by Bala
 Centralized Copy-Paste: Enhanced Data Augmentation Strategy for Wildland Fire Semantic Segmentation
 Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series
 Learn2Synth: Learning Optimal Data Synthesis Using Hypergradients for Brain Image Segmentation
+Do Not Imitate, Reinforce: Iterative Classification via Belief Refinement
+On the Properties of Feature Attribution for Supervised Contrastive Learning
