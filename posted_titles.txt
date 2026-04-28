@@ -1791,3 +1791,8 @@ Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from De
 Learn2Synth: Learning Optimal Data Synthesis Using Hypergradients for Brain Image Segmentation
 Do Not Imitate, Reinforce: Iterative Classification via Belief Refinement
 On the Properties of Feature Attribution for Supervised Contrastive Learning
+On-Device Vision Training, Deployment, and Inference on a Thumb-Sized Microcontroller
+Understanding Representation Gaps Across Scales in Tropical Tree Species Classification from Drone Imagery
+From Edges to Depth: Probing the Spatial Hierarchy in Vision Transformers
+FedRef: Bayesian Fine-Tuning using a Reference Model to Mitigate Catastrophic Forgetting for Heterogeneous Federated Learning
+Cataract-LMM Large-Scale Multi-Source Multi-Task Benchmark for Deep Learning in Surgical Video Analysis
