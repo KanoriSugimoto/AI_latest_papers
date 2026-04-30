@@ -1798,3 +1798,7 @@ FedRef: Bayesian Fine-Tuning using a Reference Model to Mitigate Catastrophic Fo
 Cataract-LMM Large-Scale Multi-Source Multi-Task Benchmark for Deep Learning in Surgical Video Analysis
 Towards interpretable AI with quantum annealing feature selection
 JEPAMatch: Geometric Representation Shaping for Semi-Supervised Learning
+NeuroPlastic: A Plasticity-Modulated Optimizer for Biologically Inspired Learning Dynamics
+Why Domain Matters: A Preliminary Study of Domain Effects in Underwater Object Detection
+Edge AI for Automotive Vulnerable Road User Safety: Deployable Detection via Knowledge Distillation
+A Nonlinear Separation Principle via Contraction Theory: Applications to Neural Networks, Control, and Learning
