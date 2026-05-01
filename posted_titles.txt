@@ -1802,3 +1802,9 @@ NeuroPlastic: A Plasticity-Modulated Optimizer for Biologically Inspired Learnin
 Why Domain Matters: A Preliminary Study of Domain Effects in Underwater Object Detection
 Edge AI for Automotive Vulnerable Road User Safety: Deployable Detection via Knowledge Distillation
 A Nonlinear Separation Principle via Contraction Theory: Applications to Neural Networks, Control, and Learning
+Improving Graph Few-shot Learning with Hyperbolic Space and Denoising Diffusion
+Optimized Deferral for Imbalanced Settings
+Benchmarking Deep Learning Models for Object Detection on Edge Computing Devices
+Defending Quantum Classifiers against Adversarial Perturbations through Quantum Autoencoders
+Mixed Precision Training of Neural ODEs
+AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models
