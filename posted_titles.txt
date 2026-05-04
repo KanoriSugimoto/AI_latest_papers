@@ -1808,3 +1808,5 @@ Benchmarking Deep Learning Models for Object Detection on Edge Computing Devices
 Defending Quantum Classifiers against Adversarial Perturbations through Quantum Autoencoders
 Mixed Precision Training of Neural ODEs
 AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models
+Hyperspherical Forward-Forward with Prototypical Representations
+Graph Concept Bottleneck Models
