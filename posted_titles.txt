@@ -1810,3 +1810,5 @@ Mixed Precision Training of Neural ODEs
 AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models
 Hyperspherical Forward-Forward with Prototypical Representations
 Graph Concept Bottleneck Models
+Think2SQL: Reinforce LLM Reasoning Capabilities for Text2SQL
+GD-FPS: Growth-Driven Feedforward Parameter Selection for Efficient Fine-Tuning
