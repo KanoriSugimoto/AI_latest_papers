@@ -1812,3 +1812,10 @@ Hyperspherical Forward-Forward with Prototypical Representations
 Graph Concept Bottleneck Models
 Think2SQL: Reinforce LLM Reasoning Capabilities for Text2SQL
 GD-FPS: Growth-Driven Feedforward Parameter Selection for Efficient Fine-Tuning
+From Code to Prediction: Fine-Tuning LLMs for Neural Network Performance Classification in NNGPT
+GEM-FI: Gated Evidential Mixtures with Fisher Modulation
+TsallisPGD: Adaptive Gradient Weighting for Adversarial Attacks on Semantic Segmentation
+Label-Efficient School Detection from Aerial Imagery via Weakly Supervised Pretraining and Fine-Tuning
+A Comprehensive Evaluation of Deep Learning Object Detection Models on Heterogeneous Edge Devices
+Quaternion Wavelet-Conditioned Diffusion Models for Image Super-Resolution
+Metadata, Wavelet, and Time Aware Diffusion Models for Satellite Image Super Resolution
