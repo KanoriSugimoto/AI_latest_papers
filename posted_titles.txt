@@ -1819,3 +1819,7 @@ Label-Efficient School Detection from Aerial Imagery via Weakly Supervised Pretr
 A Comprehensive Evaluation of Deep Learning Object Detection Models on Heterogeneous Edge Devices
 Quaternion Wavelet-Conditioned Diffusion Models for Image Super-Resolution
 Metadata, Wavelet, and Time Aware Diffusion Models for Satellite Image Super Resolution
+A Self-Attentive Meta-Optimizer with Group-Adaptive Learning Rates and Weight Decay
+FAAST: Forward-Only Associative Learning via Closed-Form Fast Weights for Test-Time Supervised Adaptation
+Adaptive Learning Strategies for AoA-Based Outdoor Localization: A Comprehensive Framework
+Order Matters: Improving Domain Adaptation by Reordering Data
