@@ -1823,3 +1823,9 @@ A Self-Attentive Meta-Optimizer with Group-Adaptive Learning Rates and Weight De
 FAAST: Forward-Only Associative Learning via Closed-Form Fast Weights for Test-Time Supervised Adaptation
 Adaptive Learning Strategies for AoA-Based Outdoor Localization: A Comprehensive Framework
 Order Matters: Improving Domain Adaptation by Reordering Data
+Evolutionary fine tuning of quantized convolution-based deep learning models
+Enabling Federated Inference via Unsupervised Consensus Embedding
+Can Attribution Predict Risk? From Multi-View Attribution to Planning Risk Signals in End-to-End Autonomous Driving
+When Labels Have Structure: Improving Image Classification with Hierarchy-Aware Cross-Entropy
+Leveraging Image Generators to Address Training Data Scarcity: The Gen4Regen Dataset for Forest Regeneration Mapping
+TinyBayes: Closed-Form Bayesian Inference via Jacobi Prior for Real-Time Image Classification on Edge Devices
