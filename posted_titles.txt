@@ -1829,3 +1829,8 @@ Can Attribution Predict Risk? From Multi-View Attribution to Planning Risk Signa
 When Labels Have Structure: Improving Image Classification with Hierarchy-Aware Cross-Entropy
 Leveraging Image Generators to Address Training Data Scarcity: The Gen4Regen Dataset for Forest Regeneration Mapping
 TinyBayes: Closed-Form Bayesian Inference via Jacobi Prior for Real-Time Image Classification on Edge Devices
+bispectrum: Selective $G$-Bispectra Made Practical
+Towards Fairness under Label Bias in Image Segmentation: Impact, Measurement and Mitigation
+Probabilistic Object Detection with Conformal Prediction
+Characterizing and Correcting Effective Target Shift in Online Learning
+Theory of Optimal Learning Rate Schedules and Scaling Laws for a Random Feature Model
