@@ -1834,3 +1834,15 @@ Towards Fairness under Label Bias in Image Segmentation: Impact, Measurement and
 Probabilistic Object Detection with Conformal Prediction
 Characterizing and Correcting Effective Target Shift in Online Learning
 Theory of Optimal Learning Rate Schedules and Scaling Laws for a Random Feature Model
+A Simulated Federated Analysis of MS-Induced Brain Lesions
+SeBA: Semi-supervised few-shot learning via Separated-at-Birth Alignment for tabular data
+Muon Does Not Converge on Convex Lipschitz Functions
+Evaluating Federated Learning approaches for mammography under breast density heterogeneity
+Geometric Flood Depth Estimation: Fusing Transformer-Based Segmentation with Digital Elevation Models
+CrossVL: Complexity-Aware Feature Routing and Paired Curriculum for Cross-View Vision-Language Detection
+DA-SegFormer: Damage-Aware Semantic Segmentation for Fine-Grained Disaster Assessment
+Urban-ImageNet: A Large-Scale Multi-Modal Dataset and Evaluation Framework for Urban Space Perception
+Portable Active Learning for Object Detection
+Rethinking the Global Knowledge of CLIP in Training-Free Open-Vocabulary Semantic Segmentation
+Supervised Dimensionality Reduction Revisited: Why LDA on Frozen CNN Features Deserves a Second Look
+Attention-Mamba: A Mamba-Enhanced Multi-Scale Parallel Inference Network for Medical Image Segmentation
