@@ -1846,3 +1846,6 @@ Portable Active Learning for Object Detection
 Rethinking the Global Knowledge of CLIP in Training-Free Open-Vocabulary Semantic Segmentation
 Supervised Dimensionality Reduction Revisited: Why LDA on Frozen CNN Features Deserves a Second Look
 Attention-Mamba: A Mamba-Enhanced Multi-Scale Parallel Inference Network for Medical Image Segmentation
+A Comparative Study of Federated Learning Aggregation Strategies under Homogeneous and Heterogeneous Data Distributions
+Unlocking Compositional Generalization in Continual Few-Shot Learning
+Tackling Fake Forgetting through Uncertainty Quantification
