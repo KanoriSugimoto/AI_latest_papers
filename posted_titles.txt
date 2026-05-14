@@ -1849,3 +1849,10 @@ Attention-Mamba: A Mamba-Enhanced Multi-Scale Parallel Inference Network for Med
 A Comparative Study of Federated Learning Aggregation Strategies under Homogeneous and Heterogeneous Data Distributions
 Unlocking Compositional Generalization in Continual Few-Shot Learning
 Tackling Fake Forgetting through Uncertainty Quantification
+ERPPO: Entropy Regularization-based Proximal Policy Optimization
+Teaching and Learning under Deductive Errors
+QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling
+Adaptive Conformal Prediction for Reliable and Explainable Medical Image Classification
+EvObj: Learning Evolving Object-centric Representations for 3D Instance Segmentation without Scene Supervision
+A$_3$B$_2$: Adaptive Asymmetric Adapter for Alleviating Branch Bias in Vision-Language Image Classification with Few-Shot Learning
+Backdoor Channels Hidden in Latent Space: Cryptographic Undetectability in Modern Neural Networks
