@@ -1856,3 +1856,8 @@ Adaptive Conformal Prediction for Reliable and Explainable Medical Image Classif
 EvObj: Learning Evolving Object-centric Representations for 3D Instance Segmentation without Scene Supervision
 A$_3$B$_2$: Adaptive Asymmetric Adapter for Alleviating Branch Bias in Vision-Language Image Classification with Few-Shot Learning
 Backdoor Channels Hidden in Latent Space: Cryptographic Undetectability in Modern Neural Networks
+Dywave: Event-Aligned Dynamic Tokenization for Heterogeneous IoT Sensing Signal
+Towards Real-Time Autonomous Navigation: Transformer-Based Catheter Tip Tracking in Fluoroscopy
+Semantic Feature Segmentation for Interpretable Predictive Maintenance in Complex Systems
+Deep Image Segmentation via Discriminant Feature Learning
+Sat3DGen: Comprehensive Street-Level 3D Scene Generation from Single Satellite Image
