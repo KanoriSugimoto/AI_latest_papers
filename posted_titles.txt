@@ -1861,3 +1861,10 @@ Towards Real-Time Autonomous Navigation: Transformer-Based Catheter Tip Tracking
 Semantic Feature Segmentation for Interpretable Predictive Maintenance in Complex Systems
 Deep Image Segmentation via Discriminant Feature Learning
 Sat3DGen: Comprehensive Street-Level 3D Scene Generation from Single Satellite Image
+SEED: Targeted Data Selection by Weighted Independent Set
+Bidirectional Fusion Guided by Cardiac Patterns for Semi-Supervised ECG Segmentation
+Quantum Feature Pyramid Gating for Seismic Image Segmentation
+Highly Detailed and Generalizable Broadleaf Tree Crown Instance Segmentation from UAV Imagery
+Semi-MedRef: Semi-Supervised Medical Referring Image Segmentation with Cross-Modal Alignment
+RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition
+FedOptima: Optimizing Resource Utilization in Federated Learning
