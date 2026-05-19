@@ -1868,3 +1868,9 @@ Highly Detailed and Generalizable Broadleaf Tree Crown Instance Segmentation fro
 Semi-MedRef: Semi-Supervised Medical Referring Image Segmentation with Cross-Modal Alignment
 RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition
 FedOptima: Optimizing Resource Utilization in Federated Learning
+OPTNet: Ordering Point Transformer Network for Post-disaster 3D Semantic Segmentation
+CADS: Conformal Adaptive Decision System for Cost-Efficient Image Classification
+A Fourier perspective on the learning dynamics of neural networks: from sample complexities to mechanistic insights
+Multi-task learning on partially labeled datasets via invariant/equivariant semi-supervised learning
+Preparation of Fractal-Inspired Computational Architectures for Advanced Large Language Model Analysis
+Rethinking Generative Image Pretraining: How Far Are We From Scaling Up Next-Pixel Prediction?
