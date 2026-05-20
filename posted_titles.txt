@@ -1874,3 +1874,10 @@ A Fourier perspective on the learning dynamics of neural networks: from sample c
 Multi-task learning on partially labeled datasets via invariant/equivariant semi-supervised learning
 Preparation of Fractal-Inspired Computational Architectures for Advanced Large Language Model Analysis
 Rethinking Generative Image Pretraining: How Far Are We From Scaling Up Next-Pixel Prediction?
+From Llama to Cria: Scaling Down Neural Networks via Neuron-Level Spectral Structural Importance Evaluation
+Distance-Aware Muon: Adaptive Step Scaling for Normalized Optimization
+Worst-Group Equalized Odds Regularization for Multi-Attribute Fair Medical Image Classification
+Robust Mitigation of Age-Dependent Confounding Effects via Sample-Difficulty Decorrelation
+Neuron Incidence Redistribution for Fairness in Medical Image Classification
+Spectral Integrated Gradients for Coarse-to-Fine Feature Attribution
+Dywave: Event-Aligned Dynamic Tokenization for Heterogeneous IoT Sensing Signals
