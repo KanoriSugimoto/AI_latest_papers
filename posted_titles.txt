@@ -1884,3 +1884,7 @@ Dywave: Event-Aligned Dynamic Tokenization for Heterogeneous IoT Sensing Signals
 MedCRP-CL: Continual Medical Image Segmentation via Bayesian Nonparametric Semantic Modality Discovery
 Sample Complexity of Transfer Learning: An Optimal Transport Approach
 Maxitive Donsker-Varadhan Formulation for Possibilistic Variational Inference
+TONIC: Token-Centric Semantic Communication for Task-Oriented Wireless Systems
+Q-PhotoNAS: Hybrid Quantum Neural Architecture Search Framework on Photonic Devices
+TextTeacher: What Can Language Teach About Images?
+Making the Discrete Continuous: Synthetic RAW Augmentations for Fine-Grained Evaluation of Person Detection Performance in Low Light
