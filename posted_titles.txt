@@ -1889,3 +1889,7 @@ Q-PhotoNAS: Hybrid Quantum Neural Architecture Search Framework on Photonic Devi
 TextTeacher: What Can Language Teach About Images?
 Making the Discrete Continuous: Synthetic RAW Augmentations for Fine-Grained Evaluation of Person Detection Performance in Low Light
 RADAR: Relative Angular Divergence Across Representations
+Muon in Vision Transformers: Optimizer-Recipe Interactions and Gradient Spectra
+Gaussian Rank-Based Neighborhood Degree for Graph Neural Networks in Image Classification
+Transformer-based few-shot learning for modeling Electricity Consumption Profiles with minimal data across thousands of domains
+Pixel-Level Pavement Distress Assessment Using Instance Segmentation
