@@ -1893,3 +1893,7 @@ Muon in Vision Transformers: Optimizer-Recipe Interactions and Gradient Spectra
 Gaussian Rank-Based Neighborhood Degree for Graph Neural Networks in Image Classification
 Transformer-based few-shot learning for modeling Electricity Consumption Profiles with minimal data across thousands of domains
 Pixel-Level Pavement Distress Assessment Using Instance Segmentation
+Model Merging on Loss Landscape: A Geometry Perspective
+Nonlinear Data Integration via Kernel Methods for Data Collaboration Analysis
+PILOT: A Data-Free Continual Learning Approach for Real-Time Semantic Segmentation via Boundary Guidance
+Is an Image Also Worth 16x16=256 Superpixels? A Framework for Attentional Image Classification
