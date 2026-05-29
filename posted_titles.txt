@@ -1898,3 +1898,5 @@ Nonlinear Data Integration via Kernel Methods for Data Collaboration Analysis
 PILOT: A Data-Free Continual Learning Approach for Real-Time Semantic Segmentation via Boundary Guidance
 Is an Image Also Worth 16x16=256 Superpixels? A Framework for Attentional Image Classification
 Trinity: Unifying Class-Agnostic Terrain and Semantic Segmentation for Unstructured Outdoor Environments by Leveraging Synthetic Data
+The Impact of Semantic Pairs on Self-Supervised Representation Learning
+Collaborative Threshold Watermarking
