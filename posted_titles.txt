@@ -1907,3 +1907,7 @@ Remembering by Reconstructing: Domain Incremental Learning With Test-Time Traini
 Detect in Any Scene: An Agentic Framework for Object Detection with Experience-Aware Reasoning
 Graph Machine Learning in the Era of Large Language Models (LLMs)
 One Click per Cell Type Suffices: Training-free Group Interaction for Cell Instance Segmentation
+MoEIoU: Rethinking Bounding-Box Regression as a Mixture of Experts
+Domain Adaptation with a Single Vision-Language Embedding
+Embedding-Space Diffusion for Zero-Shot Environmental Sound Classification
+DenseMLLM: Standard Multimodal LLMs for Dense Prediction
