@@ -1911,3 +1911,7 @@ MoEIoU: Rethinking Bounding-Box Regression as a Mixture of Experts
 Domain Adaptation with a Single Vision-Language Embedding
 Embedding-Space Diffusion for Zero-Shot Environmental Sound Classification
 DenseMLLM: Standard Multimodal LLMs for Dense Prediction
+RRISE: Robust Radius Inference via a Surrogate Estimator
+Re-Evaluating Continual Learning with Few-Shot Adaptation
+COD10K-C: Benchmarking Robustness of Camouflaged Object Detection Under Natural Image Corruptions
+Learned Non-Maximum Suppression for 3D Object Detection
