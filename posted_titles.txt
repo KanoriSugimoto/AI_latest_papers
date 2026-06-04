@@ -1915,3 +1915,6 @@ RRISE: Robust Radius Inference via a Surrogate Estimator
 Re-Evaluating Continual Learning with Few-Shot Adaptation
 COD10K-C: Benchmarking Robustness of Camouflaged Object Detection Under Natural Image Corruptions
 Learned Non-Maximum Suppression for 3D Object Detection
+Long-Term and Short-Term Transistor Aging in Deep Neural Networks: Impact and Mitigation
+HYolo: An Intelligent IoT-Based Object Detection System Using Hypergraph Learning
+An Open-Source Two-Stage Computer Vision Pipeline for Fine-Grained Vehicle Classification using Vision Transformers
