@@ -1921,3 +1921,5 @@ An Open-Source Two-Stage Computer Vision Pipeline for Fine-Grained Vehicle Class
 HDST-GNN: Heterogeneous Dynamic Spatiotemporal Graph Neural Networks for Multi-Object Tracking in UAV Aerial Imagery
 GridPE: A Grid Cell-Inspired Unified Position Embedding for Arbitrary-Dimensional Spaces
 Quality-Guided Semi-Supervised Learning for Medical Image Segmentation
+LRMIL: Efficient Low-Resolution Multiple Instance Learning via High-Resolution Knowledge Distillation for Whole Slide Image Classification
+Lighting-Aware Representation Learning under Controllable Lighting Variation
