@@ -1923,3 +1923,10 @@ GridPE: A Grid Cell-Inspired Unified Position Embedding for Arbitrary-Dimensiona
 Quality-Guided Semi-Supervised Learning for Medical Image Segmentation
 LRMIL: Efficient Low-Resolution Multiple Instance Learning via High-Resolution Knowledge Distillation for Whole Slide Image Classification
 Lighting-Aware Representation Learning under Controllable Lighting Variation
+MedicalRec: Medical recommender system for image classification without retraining
+Have I Solved This Before? Retrieving Similar Segmentation Problems for Evolutionary Learning
+Frequency-Domain Latent Attention Gating for Cross-Domain Token Aggregation
+SegmentAnyTreeV2: Scaling Transformer-Based Tree Instance Segmentation Across Sensors, Platforms, and Forests
+Are Classification Robustness and Explanation Robustness Really Strongly Correlated? An Analysis Through Input Loss Landscape
+The Sample Complexity of Parameter-Free Stochastic Convex Optimization
+Vision Hopfield Memory Networks for Image Recognition
