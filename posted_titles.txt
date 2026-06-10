@@ -1930,3 +1930,6 @@ SegmentAnyTreeV2: Scaling Transformer-Based Tree Instance Segmentation Across Se
 Are Classification Robustness and Explanation Robustness Really Strongly Correlated? An Analysis Through Input Loss Landscape
 The Sample Complexity of Parameter-Free Stochastic Convex Optimization
 Vision Hopfield Memory Networks for Image Recognition
+Closing the Modality Gap in Zero-Shot HAR: Contrastive Training and Separability-Optimized Prototypes on IMU Data
+Democratising Camera Trap AI: An Open-Source Model for Detecting UK Mammals
+Visual-TCAV: Concept-based Attribution and Saliency Maps for Post-hoc Explainability in Image Classification
