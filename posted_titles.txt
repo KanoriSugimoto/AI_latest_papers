@@ -1933,3 +1933,5 @@ Vision Hopfield Memory Networks for Image Recognition
 Closing the Modality Gap in Zero-Shot HAR: Contrastive Training and Separability-Optimized Prototypes on IMU Data
 Democratising Camera Trap AI: An Open-Source Model for Detecting UK Mammals
 Visual-TCAV: Concept-based Attribution and Saliency Maps for Post-hoc Explainability in Image Classification
+A2SG:Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks
+Time-multiplexed layer reuse for physical neural networks
