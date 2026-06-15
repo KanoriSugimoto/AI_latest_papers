@@ -1935,3 +1935,5 @@ Democratising Camera Trap AI: An Open-Source Model for Detecting UK Mammals
 Visual-TCAV: Concept-based Attribution and Saliency Maps for Post-hoc Explainability in Image Classification
 A2SG:Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks
 Time-multiplexed layer reuse for physical neural networks
+NEST3D: A High-Resolution Multimodal Dataset of Sociable Weaver Tree Nests
+Learning What to Predict: Downstream-Guided Task Design for Continued Pretraining
