@@ -1937,3 +1937,11 @@ A2SG:Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neura
 Time-multiplexed layer reuse for physical neural networks
 NEST3D: A High-Resolution Multimodal Dataset of Sociable Weaver Tree Nests
 Learning What to Predict: Downstream-Guided Task Design for Continued Pretraining
+Post-Launch Capability Expansion of Vision-Language Models via Prompting for On-Orbit Spacecraft Inspection
+CIWI-CKT: Chaos-Informed Wave Interference Feature Fusion and Cross-City Knowledge Transfer for Traffic Flow Forecasting
+HiRo: A Compact Four-Directional Hierarchical Reservoir Token-Mixer for Efficient Image Classification
+MNet++: Extended 2D/3D Networks for Anisotropic Medical Image Segmentation
+Acoustic Prompting via Stage-wise Modulation for Few-Shot Learning in Audio Language Models
+To forget is to preserve: Machine Unlearning for 3D medical image segmentation
+ActiveSAM: Image-Conditional Class Pruning for Fast and Accurate Open-Vocabulary Segmentation
+PURe: A Plug-and-Play Product-Unit Residual Module for Vision Networks
