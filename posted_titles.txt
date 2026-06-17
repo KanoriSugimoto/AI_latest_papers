@@ -1945,3 +1945,6 @@ Acoustic Prompting via Stage-wise Modulation for Few-Shot Learning in Audio Lang
 To forget is to preserve: Machine Unlearning for 3D medical image segmentation
 ActiveSAM: Image-Conditional Class Pruning for Fast and Accurate Open-Vocabulary Segmentation
 PURe: A Plug-and-Play Product-Unit Residual Module for Vision Networks
+ReRAM-aware Model Finetuning addressing I-V Non-linearity and Retention Errors
+Beyond Visual Cues: CoT-Enhanced Reasoning for Semi-supervised Medical Image Segmentation
+When LLMs Analyze Scars: From Images to Clinically-Meaningful Features
