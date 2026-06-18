@@ -1948,3 +1948,6 @@ PURe: A Plug-and-Play Product-Unit Residual Module for Vision Networks
 ReRAM-aware Model Finetuning addressing I-V Non-linearity and Retention Errors
 Beyond Visual Cues: CoT-Enhanced Reasoning for Semi-supervised Medical Image Segmentation
 When LLMs Analyze Scars: From Images to Clinically-Meaningful Features
+A Controlled Benchmark of Quantum-Latent GAN Augmentation for Brain MRI
+Quantification of Uncertainty with Adversarial Models in Medical Image Segmentation
+Investigation of Neural Network Methods for Reconstruction and Classification of Texture Images Under Conditions of Incomplete Information
