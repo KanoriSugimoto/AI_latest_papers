@@ -1951,3 +1951,4 @@ When LLMs Analyze Scars: From Images to Clinically-Meaningful Features
 A Controlled Benchmark of Quantum-Latent GAN Augmentation for Brain MRI
 Quantification of Uncertainty with Adversarial Models in Medical Image Segmentation
 Investigation of Neural Network Methods for Reconstruction and Classification of Texture Images Under Conditions of Incomplete Information
+PU-UNet: Stable Multiplicative Interactions for Medical Image Segmentation
