@@ -1952,3 +1952,6 @@ A Controlled Benchmark of Quantum-Latent GAN Augmentation for Brain MRI
 Quantification of Uncertainty with Adversarial Models in Medical Image Segmentation
 Investigation of Neural Network Methods for Reconstruction and Classification of Texture Images Under Conditions of Incomplete Information
 PU-UNet: Stable Multiplicative Interactions for Medical Image Segmentation
+Machine Learning Modeling for Real-Time Melt Pool Monitoring in Laser Powder Bed Fusion Additive Manufacturing: A Hybrid Approach
+Constrained Variable Projection for Structured Problems
+Decentralized SGD with Controlled Disagreement Finds Flatter Minima
