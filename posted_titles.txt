@@ -1955,3 +1955,6 @@ PU-UNet: Stable Multiplicative Interactions for Medical Image Segmentation
 Machine Learning Modeling for Real-Time Melt Pool Monitoring in Laser Powder Bed Fusion Additive Manufacturing: A Hybrid Approach
 Constrained Variable Projection for Structured Problems
 Decentralized SGD with Controlled Disagreement Finds Flatter Minima
+Benchmarking the Alignment of Data-Quality Metrics, Human Judgment and Land-Cover Segmentation Performance for Earth Observation
+REViT: Roto-reflection Equivariant Convolutional Vision Transformer
+Adaptive Cumulative Mass Calibration with Conformal Prediction
