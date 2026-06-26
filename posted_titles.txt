@@ -1958,3 +1958,4 @@ Decentralized SGD with Controlled Disagreement Finds Flatter Minima
 Benchmarking the Alignment of Data-Quality Metrics, Human Judgment and Land-Cover Segmentation Performance for Earth Observation
 REViT: Roto-reflection Equivariant Convolutional Vision Transformer
 Adaptive Cumulative Mass Calibration with Conformal Prediction
+Byzantine-Robust Aggregation for Securing Decentralized Federated Learning
