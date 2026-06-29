@@ -1959,3 +1959,5 @@ Benchmarking the Alignment of Data-Quality Metrics, Human Judgment and Land-Cove
 REViT: Roto-reflection Equivariant Convolutional Vision Transformer
 Adaptive Cumulative Mass Calibration with Conformal Prediction
 Byzantine-Robust Aggregation for Securing Decentralized Federated Learning
+Parameter-Efficient Continuous-Variable Photonic Quantum Neural Networks for Edge Quantum AI: Demonstration in Oral Cancer Detection
+Effects of relational graph modularity and depth on the learning performance of neural networks
