@@ -1961,3 +1961,13 @@ Adaptive Cumulative Mass Calibration with Conformal Prediction
 Byzantine-Robust Aggregation for Securing Decentralized Federated Learning
 Parameter-Efficient Continuous-Variable Photonic Quantum Neural Networks for Edge Quantum AI: Demonstration in Oral Cancer Detection
 Effects of relational graph modularity and depth on the learning performance of neural networks
+A Novel Latent-Class Attack and its Detection by Class Subspace Orthogonalization
+GLACIER: Rethinking Mass Spectrum Prediction as an Object Detection Problem
+Vision-driven Preference Synthesis for Mitigating Hallucinations in VLMs
+Conformal Prediction with Macro-Coverage Guarantees
+Fractional Stochastic Neural Networks
+Bridging the Gap Between Image Restoration and Navigational Safety in Hazy Conditions: A New Visibility Estimation Metric for Maritime Surveillance
+DRESS: Disentangled Representation-based Self-Supervised Meta-Learning for Diverse Tasks
+MGDFIS: Multi-scale Global-detail Feature Integration Strategy for Small Object Detection
+Contrastive vision-language learning with paraphrasing and negation
+CoLR-Det: Collaborative Latent Restoration for Small Object Detection in Low-Resolution Remote Sensing Images
