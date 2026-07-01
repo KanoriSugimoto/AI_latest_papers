@@ -1971,3 +1971,11 @@ DRESS: Disentangled Representation-based Self-Supervised Meta-Learning for Diver
 MGDFIS: Multi-scale Global-detail Feature Integration Strategy for Small Object Detection
 Contrastive vision-language learning with paraphrasing and negation
 CoLR-Det: Collaborative Latent Restoration for Small Object Detection in Low-Resolution Remote Sensing Images
+Gradient Smoothing: Coupling Layer-wise Updates for Improved Optimization
+Zero-Shot Quantization for Object Detectors using Off-the-Shelf Generative Models
+The Label Imitation Game: Turing Test Network for Zero-Shot Pseudo-Label Pruning
+Localized Conformal Prediction for Image Classification with Vision-Language Models
+Preserve the Hard, Regenerate the Rest: Uncertainty-Guided Synthetic Training Data Augmentation with Diffusion Models
+Automated Background Swapping for Robustness against Spurious Backgrounds
+Collaborative Knowledge Distillation via a Learning-by-Education Node Community
+TerraDiT-Ω: Unified Spatial Control for Satellite Image Synthesis with Any Geospatial Primitive
