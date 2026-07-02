@@ -1979,3 +1979,6 @@ Preserve the Hard, Regenerate the Rest: Uncertainty-Guided Synthetic Training Da
 Automated Background Swapping for Robustness against Spurious Backgrounds
 Collaborative Knowledge Distillation via a Learning-by-Education Node Community
 TerraDiT-Ω: Unified Spatial Control for Satellite Image Synthesis with Any Geospatial Primitive
+Scaling Up Thermodynamic AI Models
+LUMA: Benchmarking Segmentation via a Lightweight Universal Mask Adapter
+ForAug: Mitigating Biases in Image Classification via Controlled Image Compositions
