@@ -1982,3 +1982,5 @@ TerraDiT-Ω: Unified Spatial Control for Satellite Image Synthesis with Any Geos
 Scaling Up Thermodynamic AI Models
 LUMA: Benchmarking Segmentation via a Lightweight Universal Mask Adapter
 ForAug: Mitigating Biases in Image Classification via Controlled Image Compositions
+Neuron-Aware Active Few-Shot Learning for LLMs
+Rethinking Post-Hoc Calibration in Semantic Segmentation
