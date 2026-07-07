@@ -1984,3 +1984,10 @@ LUMA: Benchmarking Segmentation via a Lightweight Universal Mask Adapter
 ForAug: Mitigating Biases in Image Classification via Controlled Image Compositions
 Neuron-Aware Active Few-Shot Learning for LLMs
 Rethinking Post-Hoc Calibration in Semantic Segmentation
+Federated Learning for Object Detection: Enabling Collaborative Drone Learning Without Centralizing Data
+On Preserving Geometrical Invariance for Superpixel Image Classification using Graph Transformer
+Open-Weather Robust 3D Detection via Dual-Critic Diffusion Alignment
+Fusion: A Framework for Unified Sequential Token AdaptatIon in VisiOn TraNsformers
+PixCon: Clean-Positive Contrastive Learning for Foundation-Model Semi-Supervised Segmentation
+Scalable Differentially Private Data Compression via Diffusion and Stochastic Codes
+SilvaScenes: Tree Detection and Species Classification from Under-Canopy Images in Natural Forests
