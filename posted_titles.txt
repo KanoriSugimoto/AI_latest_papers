@@ -1991,3 +1991,6 @@ Fusion: A Framework for Unified Sequential Token AdaptatIon in VisiOn TraNsforme
 PixCon: Clean-Positive Contrastive Learning for Foundation-Model Semi-Supervised Segmentation
 Scalable Differentially Private Data Compression via Diffusion and Stochastic Codes
 SilvaScenes: Tree Detection and Species Classification from Under-Canopy Images in Natural Forests
+To Retain or to Adapt? Generalizing Continual Learning
+Few-Medoids: An Embarrassingly Simple Coreset Selection Method for Few-Shot Knowledge Distillation
+Enhanced Seam Segmentation for Automated Welding Robot in Construction Through Transfer Learning: Addressing Limitations of Bilateral Segmentation Network
