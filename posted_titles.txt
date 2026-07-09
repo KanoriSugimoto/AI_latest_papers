@@ -1994,3 +1994,7 @@ SilvaScenes: Tree Detection and Species Classification from Under-Canopy Images 
 To Retain or to Adapt? Generalizing Continual Learning
 Few-Medoids: An Embarrassingly Simple Coreset Selection Method for Few-Shot Knowledge Distillation
 Enhanced Seam Segmentation for Automated Welding Robot in Construction Through Transfer Learning: Addressing Limitations of Bilateral Segmentation Network
+Efficient Long-Horizon Learning for Learned Optimization
+Pixel-Precise Explainable Stress Indexing: A Semantic Segmentation Framework for Disease Severity Quantification in Field Crops
+EdgeCompress: Coupling Multidimensional Model Compression and Dynamic Inference for EdgeAI
+Comparative Study of Domain-adapted VLMs for General Document Visual Question Answering
