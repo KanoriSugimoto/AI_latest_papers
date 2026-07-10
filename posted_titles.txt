@@ -1998,3 +1998,5 @@ Efficient Long-Horizon Learning for Learned Optimization
 Pixel-Precise Explainable Stress Indexing: A Semantic Segmentation Framework for Disease Severity Quantification in Field Crops
 EdgeCompress: Coupling Multidimensional Model Compression and Dynamic Inference for EdgeAI
 Comparative Study of Domain-adapted VLMs for General Document Visual Question Answering
+Beyond Backpropagation: Monte Carlo Method Can Train Deep Neural Networks
+On Exploring Input Resolution Scaling For Anytime LiDAR Object Detection
