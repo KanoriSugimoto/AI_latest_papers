@@ -2000,3 +2000,4 @@ EdgeCompress: Coupling Multidimensional Model Compression and Dynamic Inference 
 Comparative Study of Domain-adapted VLMs for General Document Visual Question Answering
 Beyond Backpropagation: Monte Carlo Method Can Train Deep Neural Networks
 On Exploring Input Resolution Scaling For Anytime LiDAR Object Detection
+Secure-by-Disguise: A Systematic Evaluation of Image Disguising for Confidential Medical Image Modeling
