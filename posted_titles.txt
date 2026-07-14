@@ -2001,3 +2001,9 @@ Comparative Study of Domain-adapted VLMs for General Document Visual Question An
 Beyond Backpropagation: Monte Carlo Method Can Train Deep Neural Networks
 On Exploring Input Resolution Scaling For Anytime LiDAR Object Detection
 Secure-by-Disguise: A Systematic Evaluation of Image Disguising for Confidential Medical Image Modeling
+SMETA-ZSL:Semantic Meta-Alignment for Zero-Shot Threat Classification
+Adversarially Guided Diffusion for LiDAR Range Image Synthesis
+CHM-Net: Center Heatmap-driven Macro-Micro Modeling Network for MRI-based Microbial Density Stratification
+DynaFilter: Cloud-driven Dynamic Filtering for Satellite Edge Intelligence
+TVT-PAPD: Pathology-Aware Prototype Distillation for Self-Supervised Whole Slide Image Classification
+Toward Efficient Weakly Supervised Semantic Segmentation Using Only Low-Magnification Histopathological Images
