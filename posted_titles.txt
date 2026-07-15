@@ -2007,3 +2007,4 @@ CHM-Net: Center Heatmap-driven Macro-Micro Modeling Network for MRI-based Microb
 DynaFilter: Cloud-driven Dynamic Filtering for Satellite Edge Intelligence
 TVT-PAPD: Pathology-Aware Prototype Distillation for Self-Supervised Whole Slide Image Classification
 Toward Efficient Weakly Supervised Semantic Segmentation Using Only Low-Magnification Histopathological Images
+Visual Species Recognition with Large Multimodal Models as Post-Hoc Correctors
