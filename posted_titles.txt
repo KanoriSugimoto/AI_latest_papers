@@ -2008,3 +2008,7 @@ DynaFilter: Cloud-driven Dynamic Filtering for Satellite Edge Intelligence
 TVT-PAPD: Pathology-Aware Prototype Distillation for Self-Supervised Whole Slide Image Classification
 Toward Efficient Weakly Supervised Semantic Segmentation Using Only Low-Magnification Histopathological Images
 Visual Species Recognition with Large Multimodal Models as Post-Hoc Correctors
+Beyond Backbone Backpropagation: A Decoupled Strategy for Efficient Transfer Learning
+What Your Model Threw Away and Why You'll Want It Back: Masking, Fingerprinting, and Privacy from Discarded Geometry
+Local Redundancy: An Information-Theoretic Measure of Plasticity from Synthetic Memorization
+HIVE-3D: Hierarchical Voxel Enhancement for High-Quality 3D Scene Generation
