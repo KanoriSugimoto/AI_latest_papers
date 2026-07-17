@@ -2012,3 +2012,6 @@ Beyond Backbone Backpropagation: A Decoupled Strategy for Efficient Transfer Lea
 What Your Model Threw Away and Why You'll Want It Back: Masking, Fingerprinting, and Privacy from Discarded Geometry
 Local Redundancy: An Information-Theoretic Measure of Plasticity from Synthetic Memorization
 HIVE-3D: Hierarchical Voxel Enhancement for High-Quality 3D Scene Generation
+CARPRT: Class-Aware Zero-Shot Prompt Reweighting for Black-Box Vision-Language Models
+QFireNet: A Quantum-Enhanced U-Net for Wildfire Segmentation from Sentinel-2 Imagery
+Photonic convolutional neural network with pre-trained in situ training
