@@ -2015,3 +2015,4 @@ HIVE-3D: Hierarchical Voxel Enhancement for High-Quality 3D Scene Generation
 CARPRT: Class-Aware Zero-Shot Prompt Reweighting for Black-Box Vision-Language Models
 QFireNet: A Quantum-Enhanced U-Net for Wildfire Segmentation from Sentinel-2 Imagery
 Photonic convolutional neural network with pre-trained in situ training
+Toward Federated Multimodal Graph Foundation Models: A Topology-Aware Multimodal Alignment Framework
