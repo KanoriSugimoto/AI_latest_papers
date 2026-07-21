@@ -2016,3 +2016,9 @@ CARPRT: Class-Aware Zero-Shot Prompt Reweighting for Black-Box Vision-Language M
 QFireNet: A Quantum-Enhanced U-Net for Wildfire Segmentation from Sentinel-2 Imagery
 Photonic convolutional neural network with pre-trained in situ training
 Toward Federated Multimodal Graph Foundation Models: A Topology-Aware Multimodal Alignment Framework
+Reducing Per-Sample Harm in Stochastic Optimization
+SLT: Robust Quantum Neural Networks for Noisy-Label Medical Image Classification via Supermartingale-based Label Transition
+Pediatric Bone Age Prediction Using Deep Learning
+Online-Score-Aided Federated Learning for Resource-Constrained Wireless Clients with Continual Data Arrival
+A Benchmark of Generative Methods for Zero-Shot Environmental Sound Classification
+Chameleon: A Multiplier-Free Temporal Convolutional Network Accelerator for End-to-End Few-Shot and Continual Learning from Sequential Data
