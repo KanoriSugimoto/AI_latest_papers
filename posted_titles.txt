@@ -2022,3 +2022,5 @@ Pediatric Bone Age Prediction Using Deep Learning
 Online-Score-Aided Federated Learning for Resource-Constrained Wireless Clients with Continual Data Arrival
 A Benchmark of Generative Methods for Zero-Shot Environmental Sound Classification
 Chameleon: A Multiplier-Free Temporal Convolutional Network Accelerator for End-to-End Few-Shot and Continual Learning from Sequential Data
+SechKAN: Kolmogorov-Arnold Networks with Hyperbolic Secant Functions
+Decoupled Pipeline with Proposal Reranking and Score Fusion for Positive-Unlabeled Marine Species Detection
