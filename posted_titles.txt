@@ -2026,3 +2026,5 @@ SechKAN: Kolmogorov-Arnold Networks with Hyperbolic Secant Functions
 Decoupled Pipeline with Proposal Reranking and Score Fusion for Positive-Unlabeled Marine Species Detection
 When Does Consensus Beat Voting? A Critical Analysis of Statistical Label Fusion in Medical Image Segmentation
 G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection
+One Round Is All You Need: Analytic Federated Learning for Task-Heterogeneous Multi-Label Medical Image Classification
+Safety-oriented sidewalk and road segmentation for smartphone-based assistive navigation
