@@ -2028,3 +2028,6 @@ When Does Consensus Beat Voting? A Critical Analysis of Statistical Label Fusion
 G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection
 One Round Is All You Need: Analytic Federated Learning for Task-Heterogeneous Multi-Label Medical Image Classification
 Safety-oriented sidewalk and road segmentation for smartphone-based assistive navigation
+Neural Feature Governance: Extending Atom Prevalence
+Beyond Binary Rooftop Mapping: A Four-Class Deep Learning Framework for Green Roof Potential Assessment from Open Swiss Geospatial Data
+Do emulated quantum circuits change what CNNs look at? Performance and explainability comparison in medical image classification
