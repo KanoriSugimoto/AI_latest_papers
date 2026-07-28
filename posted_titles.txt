@@ -2031,3 +2031,5 @@ Safety-oriented sidewalk and road segmentation for smartphone-based assistive na
 Neural Feature Governance: Extending Atom Prevalence
 Beyond Binary Rooftop Mapping: A Four-Class Deep Learning Framework for Green Roof Potential Assessment from Open Swiss Geospatial Data
 Do emulated quantum circuits change what CNNs look at? Performance and explainability comparison in medical image classification
+Trustworthy Medical Segmentation: Uncertainty-Aware U-Net Evaluation Under Clinical Image Degradation
+Long-Tailed Medical Image Classification
