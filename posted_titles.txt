@@ -2033,3 +2033,5 @@ Beyond Binary Rooftop Mapping: A Four-Class Deep Learning Framework for Green Ro
 Do emulated quantum circuits change what CNNs look at? Performance and explainability comparison in medical image classification
 Trustworthy Medical Segmentation: Uncertainty-Aware U-Net Evaluation Under Clinical Image Degradation
 Long-Tailed Medical Image Classification
+Lightweight Image Classification of Raptor Species for Edge Devices: Rare-Species Dataset Expansion via Video Frame Extraction, Knowledge Distillation, and TensorRT Deployment
+BATS: Resource-Efficient Volumetric Segmentation with Boundary-Aware Mixed-Resolution Tokens
