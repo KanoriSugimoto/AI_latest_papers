@@ -2035,3 +2035,8 @@ Trustworthy Medical Segmentation: Uncertainty-Aware U-Net Evaluation Under Clini
 Long-Tailed Medical Image Classification
 Lightweight Image Classification of Raptor Species for Edge Devices: Rare-Species Dataset Expansion via Video Frame Extraction, Knowledge Distillation, and TensorRT Deployment
 BATS: Resource-Efficient Volumetric Segmentation with Boundary-Aware Mixed-Resolution Tokens
+Kohn-Sham Spectral Embedding on Sparse Graphs at the Nishimori Temperature for Image Classification
+LLM-Guided Initialization for Accelerated Hybrid Quantum-Classical Medical Image Classification
+What Makes Deep Learning Work for Traditional Chinese Medicine Tongue Diagnosis? A Comprehensive Ablation Study
+ScaFE: Data-Efficient Scar Classification with LLM-Generated Clinical Feature Programs
+MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers
