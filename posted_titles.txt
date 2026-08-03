@@ -2040,3 +2040,8 @@ LLM-Guided Initialization for Accelerated Hybrid Quantum-Classical Medical Image
 What Makes Deep Learning Work for Traditional Chinese Medicine Tongue Diagnosis? A Comprehensive Ablation Study
 ScaFE: Data-Efficient Scar Classification with LLM-Generated Clinical Feature Programs
 MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers
+Versatile On-device Adaptation at the Edge by Unifying Few-shot, Zero-shot, Continual, and In-context Learning
+MoPET: Parameter-Efficient Mixture-of-Experts for Unified Medical Image Classification
+Moment kernels: a simple and scalable approach for equivariance to rotations and reflections in deep convolutional networks
+Leveraging Image Generators to Address Data Scarcity: The Gen4Regen Dataset for Forest Regeneration Mapping
+SULAND v2: A Refined RGB Dataset and Deep Learning Object Detection Benchmark for UAV/UGV-Based SUrface LANDmine Detection Under Domain Shift
