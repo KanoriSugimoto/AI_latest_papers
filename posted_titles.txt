@@ -2045,3 +2045,9 @@ MoPET: Parameter-Efficient Mixture-of-Experts for Unified Medical Image Classifi
 Moment kernels: a simple and scalable approach for equivariance to rotations and reflections in deep convolutional networks
 Leveraging Image Generators to Address Data Scarcity: The Gen4Regen Dataset for Forest Regeneration Mapping
 SULAND v2: A Refined RGB Dataset and Deep Learning Object Detection Benchmark for UAV/UGV-Based SUrface LANDmine Detection Under Domain Shift
+Statistical Mechanics of Learning on Product Wasserstein Manifolds
+RadYOLO: Computationally Efficient 3D Object Detection and Segmentation in CT and MRI
+PhenoStitch: Training-Free Panoptic Crop Mapping from Satellite Image Time Series
+Fruit-HSNet: A Machine Learning Approach for Hyperspectral Image-Based Fruit Ripeness Prediction
+LAYA: Layer-wise Attention Aggregation for Interpretable Depth-Aware Neural Networks
+Hierarchical Pre-Training of Vision Encoders with Large Language Model
