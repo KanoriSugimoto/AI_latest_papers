@@ -2051,3 +2051,5 @@ PhenoStitch: Training-Free Panoptic Crop Mapping from Satellite Image Time Serie
 Fruit-HSNet: A Machine Learning Approach for Hyperspectral Image-Based Fruit Ripeness Prediction
 LAYA: Layer-wise Attention Aggregation for Interpretable Depth-Aware Neural Networks
 Hierarchical Pre-Training of Vision Encoders with Large Language Model
+How Many Labels Are Enough? ALDA: Active Learning Deployment Advisor for Medical Image Classification
+Test-Time Augmentation for Tabular-to-Image Classifiers under Distribution Shifts
