@@ -2053,3 +2053,5 @@ LAYA: Layer-wise Attention Aggregation for Interpretable Depth-Aware Neural Netw
 Hierarchical Pre-Training of Vision Encoders with Large Language Model
 How Many Labels Are Enough? ALDA: Active Learning Deployment Advisor for Medical Image Classification
 Test-Time Augmentation for Tabular-to-Image Classifiers under Distribution Shifts
+ELMZip: Onboard Satellite Image Compression via Extreme Learning Machines for Efficient Downlink
+Optimization as a Dynamical System: Generative Schedules from Latent ODEs
