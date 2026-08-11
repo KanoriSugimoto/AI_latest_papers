@@ -2055,3 +2055,6 @@ How Many Labels Are Enough? ALDA: Active Learning Deployment Advisor for Medical
 Test-Time Augmentation for Tabular-to-Image Classifiers under Distribution Shifts
 ELMZip: Onboard Satellite Image Compression via Extreme Learning Machines for Efficient Downlink
 Optimization as a Dynamical System: Generative Schedules from Latent ODEs
+Label Granularity Skew in Federated Learning with Hierarchical Image Classification
+Contrastive Mask Fidelity: Reference-Free Auditing of Ground-Truth Masks in Remote Sensing Semantic Segmentation
+Deep Learning based Detection of Fishing Vessels and Fishing Monitoring using Nightlight Images
