@@ -2058,3 +2058,6 @@ Optimization as a Dynamical System: Generative Schedules from Latent ODEs
 Label Granularity Skew in Federated Learning with Hierarchical Image Classification
 Contrastive Mask Fidelity: Reference-Free Auditing of Ground-Truth Masks in Remote Sensing Semantic Segmentation
 Deep Learning based Detection of Fishing Vessels and Fishing Monitoring using Nightlight Images
+Invertible Logits Transformation for Accuracy-Preserving Post-Hoc Uncertainty Calibration
+Retrieval-Augmented Vision Foundation Models for Robust Leukemia Cell Classification across Multiple Microscopy Datasets
+FARCLUSS: Fuzzy Adaptive Rebalancing and Contrastive Uncertainty Learning for Semi-Supervised Semantic Segmentation
