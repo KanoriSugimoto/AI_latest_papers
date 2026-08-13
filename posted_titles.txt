@@ -2061,3 +2061,7 @@ Deep Learning based Detection of Fishing Vessels and Fishing Monitoring using Ni
 Invertible Logits Transformation for Accuracy-Preserving Post-Hoc Uncertainty Calibration
 Retrieval-Augmented Vision Foundation Models for Robust Leukemia Cell Classification across Multiple Microscopy Datasets
 FARCLUSS: Fuzzy Adaptive Rebalancing and Contrastive Uncertainty Learning for Semi-Supervised Semantic Segmentation
+SegPAR: Class-Centric Decision-Based Sparse Attack for Semantic Segmentation
+Generative Semantic Segmentation via an Observable Semantic-Image Interface and Hierarchical Generator Evidence Alignment
+Patch-based Memory Gate Model in Time Series Foundation Model
+Reducing Per-Sample Interference in Stochastic Optimization
