@@ -2065,3 +2065,5 @@ SegPAR: Class-Centric Decision-Based Sparse Attack for Semantic Segmentation
 Generative Semantic Segmentation via an Observable Semantic-Image Interface and Hierarchical Generator Evidence Alignment
 Patch-based Memory Gate Model in Time Series Foundation Model
 Reducing Per-Sample Interference in Stochastic Optimization
+CW-BASS v2: Saturation-Aware Pseudo-Label Selection for Semi-Supervised Segmentation under Foundation-Model Teachers
+MLLM-Routed Heterogeneous Ensembles for Robust Cross-Dataset Image Classification
