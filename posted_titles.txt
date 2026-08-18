@@ -2068,3 +2068,6 @@ Reducing Per-Sample Interference in Stochastic Optimization
 CW-BASS v2: Saturation-Aware Pseudo-Label Selection for Semi-Supervised Segmentation under Foundation-Model Teachers
 MLLM-Routed Heterogeneous Ensembles for Robust Cross-Dataset Image Classification
 What to Preserve, Where to Adapt: A Depth-Wise Analysis of Forgetting in Continual Gynecological Image Segmentation
+AdROD: HyperNetwork-based Adversarially Robust Object Detection for Autonomous Driving
+Convolution-Free Holistic Multivariance Decomposition Layer for Efficient Hyperspectral Image Classification Tensor Networks
+Unsupervised Learning of Cell Instances with Generative Routing Pyramids
