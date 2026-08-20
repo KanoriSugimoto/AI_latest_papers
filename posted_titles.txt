@@ -2074,3 +2074,7 @@ Unsupervised Learning of Cell Instances with Generative Routing Pyramids
 MagViT: Interpretable Multi-Magnification Transformers with Patient-Level Model Selection for Breast Histopathology
 Leveraging existing sparse point annotations for benthic imagery dense segmentation
 Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket
+From Inference to Adaptation: A Unified Optimal Transport View of Vision Language Model
+A Critical Synthesis of Uncertainty Quantification and Foundation Models for Semantic Segmentation
+The Impact of CutMix on Reliability and Robustness in Semantic Segmentation
+SPK: Eliciting Structured Prior Knowledge for Interpretable Out-of-Distribution Detection in Real-Time Object Detection
