@@ -2078,3 +2078,4 @@ From Inference to Adaptation: A Unified Optimal Transport View of Vision Languag
 A Critical Synthesis of Uncertainty Quantification and Foundation Models for Semantic Segmentation
 The Impact of CutMix on Reliability and Robustness in Semantic Segmentation
 SPK: Eliciting Structured Prior Knowledge for Interpretable Out-of-Distribution Detection in Real-Time Object Detection
+ReAugment: Model Zoo-Guided RL for Few-Shot Time Series Augmentation and Forecasting
