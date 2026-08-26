@@ -2080,3 +2080,6 @@ The Impact of CutMix on Reliability and Robustness in Semantic Segmentation
 SPK: Eliciting Structured Prior Knowledge for Interpretable Out-of-Distribution Detection in Real-Time Object Detection
 ReAugment: Model Zoo-Guided RL for Few-Shot Time Series Augmentation and Forecasting
 On the Transferability of Agricultural Weed Detection Under Cross-Field Distribution Shift
+It depends: Incorporating correlations for joint aleatoric and epistemic uncertainties of high-dimensional output spaces
+DiD It in 87 Minutes: A Label-Free Softmax-to-Linear Adaptation of Vision Transformers for Object Detection
+Weakly Supervised Seafloor Segmentation for Seagrass Habitat Mapping in Side-Scan Sonar Imagery
