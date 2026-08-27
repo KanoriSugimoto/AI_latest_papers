@@ -2083,3 +2083,7 @@ On the Transferability of Agricultural Weed Detection Under Cross-Field Distribu
 It depends: Incorporating correlations for joint aleatoric and epistemic uncertainties of high-dimensional output spaces
 DiD It in 87 Minutes: A Label-Free Softmax-to-Linear Adaptation of Vision Transformers for Object Detection
 Weakly Supervised Seafloor Segmentation for Seagrass Habitat Mapping in Side-Scan Sonar Imagery
+Learning from waste: Machine Learning for health risk prediction and computer vision-based sorting in Ghana
+Unsupervised Anatomical Feature Learning via Diffusion Models: Enhanced Medical Image Segmentation with Denoising Diffusion Probabilistic Models
+BRIDLE: Generalized Self-supervised Learning with Quantization
+Advancements in Content-Based Image Retrieval: A Comprehensive Survey of Relevance Feedback Techniques
