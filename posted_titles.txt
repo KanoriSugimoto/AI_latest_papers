@@ -2087,3 +2087,4 @@ Learning from waste: Machine Learning for health risk prediction and computer vi
 Unsupervised Anatomical Feature Learning via Diffusion Models: Enhanced Medical Image Segmentation with Denoising Diffusion Probabilistic Models
 BRIDLE: Generalized Self-supervised Learning with Quantization
 Advancements in Content-Based Image Retrieval: A Comprehensive Survey of Relevance Feedback Techniques
+QuantumBoostNet: A Hybrid Classical-Quantum Architecture for Enhanced Accuracy in Cardiac Ultrasound View Identification
