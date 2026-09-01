@@ -2088,3 +2088,14 @@ Unsupervised Anatomical Feature Learning via Diffusion Models: Enhanced Medical 
 BRIDLE: Generalized Self-supervised Learning with Quantization
 Advancements in Content-Based Image Retrieval: A Comprehensive Survey of Relevance Feedback Techniques
 QuantumBoostNet: A Hybrid Classical-Quantum Architecture for Enhanced Accuracy in Cardiac Ultrasound View Identification
+Temperature-Adaptive Transformed Teacher Matching
+On the Plasticity Collapse in Continual Machine Unlearning
+A Lightweight Phenology-Aware YOLOv5 Framework for Tomato Growth Stage Detection in Resource-Constrained Bhutanese Greenhouse Environments
+Distributed Semantic Segmentation With Improved Rate-Distortion Trade-Off
+QCell: Recombining and Aligning Cell Queries for Overlapping Instance Segmentation
+ARMOR: Manifold-Oriented Training for Adversarially Robust Aerial Object Detection under Data Scarcity
+Towards Continual Test-Time Adaptation of Vision-Language Models in Open-Vocabulary Semantic Segmentation
+A Hybrid State-Space Approach for Census-Tract Population Estimation
+Quantum-Grassmann-Plucker Token Mixing for Deep Learning-Based Post-Disaster Damage Assessment
+Segmentation of Bovid Dentition Under Imperfect Annotations: A Comparative Study of Convolutional and Attention Models
+Classification Drives Geographic Bias in Street Scene Segmentation
