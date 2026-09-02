@@ -2099,3 +2099,5 @@ A Hybrid State-Space Approach for Census-Tract Population Estimation
 Quantum-Grassmann-Plucker Token Mixing for Deep Learning-Based Post-Disaster Damage Assessment
 Segmentation of Bovid Dentition Under Imperfect Annotations: A Comparative Study of Convolutional and Attention Models
 Classification Drives Geographic Bias in Street Scene Segmentation
+Vision-Language-Guided Pseudo-Labels for Unsupervised Domain Adaptation in Semantic Segmentation for Waste Sorting
+GazeRefine: Expert Gaze as a Test-Time Prompt for Training-Free Medical Image Segmentation
