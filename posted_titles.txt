@@ -2101,3 +2101,6 @@ Segmentation of Bovid Dentition Under Imperfect Annotations: A Comparative Study
 Classification Drives Geographic Bias in Street Scene Segmentation
 Vision-Language-Guided Pseudo-Labels for Unsupervised Domain Adaptation in Semantic Segmentation for Waste Sorting
 GazeRefine: Expert Gaze as a Test-Time Prompt for Training-Free Medical Image Segmentation
+Ten Architectures, One Error: Shared Failure Modes in Hyperspectral Classification under Spatially Disjoint Evaluation
+Hardware-Accelerated Instance Segmentation for Resource-Constrained Space Robotics with Criticality Analysis
+Emotional regulation improves deep learning-based image classification
