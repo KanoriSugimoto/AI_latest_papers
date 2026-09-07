@@ -2106,3 +2106,5 @@ Hardware-Accelerated Instance Segmentation for Resource-Constrained Space Roboti
 Emotional regulation improves deep learning-based image classification
 An Adversarial Zero-Shot Learning Approach for Anomaly Detection in Multivariate IoT Traffic Data
 Pushing the (Decision) Boundaries: Dynamically Calibrating Differentially Private Noise to Explainability in Federated Learning
+MetaCaster: Meta-Harness-Optimized Agent for End-to-End Few-Shot Learning of Lightweight Time Series Forecasters
+YOLO with Kolmogorov-Arnold networks and vision-language foundation models for interpretable object detection with trustworthy multimodal AI in computer vision perception
