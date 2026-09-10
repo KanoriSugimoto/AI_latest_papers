@@ -2108,3 +2108,9 @@ An Adversarial Zero-Shot Learning Approach for Anomaly Detection in Multivariate
 Pushing the (Decision) Boundaries: Dynamically Calibrating Differentially Private Noise to Explainability in Federated Learning
 MetaCaster: Meta-Harness-Optimized Agent for End-to-End Few-Shot Learning of Lightweight Time Series Forecasters
 YOLO with Kolmogorov-Arnold networks and vision-language foundation models for interpretable object detection with trustworthy multimodal AI in computer vision perception
+AGSA-Net: Abundance-Guided Self-Attention Network for Spectral Unmixing-Aware Hyperspectral Remote Sensing Image Classification
+Detect Anything in Graphic Design: Element-Level Rewards for Autoregressive Detection
+Latent-to-Latent Flow for Volumetric Stochastic Segmentation
+JEDI: JEPA-to-Edge Distillation for Efficient Cropland Segmentation from Satellite Imagery
+Hyperspectral Trajectory Image for Multi-Month Trajectory Anomaly Detection
+Backdoor Channels Hidden in Latent Space: Extending Cryptographic Undetectability to Modern Neural Networks
