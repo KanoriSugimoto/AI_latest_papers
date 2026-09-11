@@ -2114,3 +2114,6 @@ Latent-to-Latent Flow for Volumetric Stochastic Segmentation
 JEDI: JEPA-to-Edge Distillation for Efficient Cropland Segmentation from Satellite Imagery
 Hyperspectral Trajectory Image for Multi-Month Trajectory Anomaly Detection
 Backdoor Channels Hidden in Latent Space: Extending Cryptographic Undetectability to Modern Neural Networks
+Are We Really Doing Few-Shot Learning? A Critical Examination of Pre-Training Assumptions
+Improving Faint Object Detection for Space Situational Awareness with Variational Autoencoders
+Your Model Already Knows Don't Teach It, Learn to Ask It: Soft Prompting for Few-Shot Adaptation of Vision-Language Models
