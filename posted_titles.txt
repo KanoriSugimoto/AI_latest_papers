@@ -2117,3 +2117,5 @@ Backdoor Channels Hidden in Latent Space: Extending Cryptographic Undetectabilit
 Are We Really Doing Few-Shot Learning? A Critical Examination of Pre-Training Assumptions
 Improving Faint Object Detection for Space Situational Awareness with Variational Autoencoders
 Your Model Already Knows Don't Teach It, Learn to Ask It: Soft Prompting for Few-Shot Adaptation of Vision-Language Models
+Robust Prototypical Networks for Few-Shot Sensor Fault Diagnosis
+Beyond Accuracy: Uncertainty-Guided Boundary Refinement for Reliable Biomedical Image Segmentation
