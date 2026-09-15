@@ -2119,3 +2119,7 @@ Improving Faint Object Detection for Space Situational Awareness with Variationa
 Your Model Already Knows Don't Teach It, Learn to Ask It: Soft Prompting for Few-Shot Adaptation of Vision-Language Models
 Robust Prototypical Networks for Few-Shot Sensor Fault Diagnosis
 Beyond Accuracy: Uncertainty-Guided Boundary Refinement for Reliable Biomedical Image Segmentation
+CANAL: Channel-Aware Noise Allocation for Differentially Private Feature Distillation in Medical Image Segmentation
+Large-scale bioacoustic detection using semantic segmentation: a deep learning framework applied to fin whale calls in ocean-bottom seismometer recordings
+Adaptive Conformal Redistribution for Inter-class Transitional Uncertainty in Medical Image Classification
+Data Efficient Any Transformer-to-Mamba Distillation via Attention Bridge
