@@ -2125,3 +2125,8 @@ Adaptive Conformal Redistribution for Inter-class Transitional Uncertainty in Me
 Data Efficient Any Transformer-to-Mamba Distillation via Attention Bridge
 Decentralized Gossip Learning and Federated Averaging for Histopathology Image Classification
 NeuroTS-Net: Multi-Class Semantic Segmentation of Pediatric Brain Tumors in Multi-Modal MRI
+FedPGT: Progressive Gradient Transmission for Vehicular Federated Learning over Time-Varying Channels
+Tabular Deep Learning vs Classical Machine Learning for Urban Land Cover Classification
+BLADE: ReliaBle Dynamic Hardware-Aware SNN-ANN Boundary SeLection for Event-BAseD Object DEtection
+Learning from Distributed Eyes: Leveraging Collaborative Perception for Automated Model Adaptation
+Visual Perception Engine: Fast and Flexible Multi-Head Inference for Robotic Vision Tasks
