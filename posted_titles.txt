@@ -2130,3 +2130,5 @@ Tabular Deep Learning vs Classical Machine Learning for Urban Land Cover Classif
 BLADE: ReliaBle Dynamic Hardware-Aware SNN-ANN Boundary SeLection for Event-BAseD Object DEtection
 Learning from Distributed Eyes: Leveraging Collaborative Perception for Automated Model Adaptation
 Visual Perception Engine: Fast and Flexible Multi-Head Inference for Robotic Vision Tasks
+Federated Learning Framework for Privacy-Preserving Kidney Stone Detection
+Task-Oriented Semantic Feature Transmission for Multi-Task Satellite Remote Sensing over Low-SNR Channels
