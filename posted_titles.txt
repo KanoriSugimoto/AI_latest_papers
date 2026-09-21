@@ -2132,3 +2132,7 @@ Learning from Distributed Eyes: Leveraging Collaborative Perception for Automate
 Visual Perception Engine: Fast and Flexible Multi-Head Inference for Robotic Vision Tasks
 Federated Learning Framework for Privacy-Preserving Kidney Stone Detection
 Task-Oriented Semantic Feature Transmission for Multi-Task Satellite Remote Sensing over Low-SNR Channels
+Signal-Centric Remote Sensing via Alternative Preprocessing and Acoustic Processing for ML-Driven Applications
+IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts
+Multiclass Semantic Segmentation of Wildland Fire Images Using Context-Aware Centralized Copy-Paste Data Augmentation
+Purification and Regulation: Comorbidity-Aware Multi-Label Few-Shot Learning for Medical Image Classification
