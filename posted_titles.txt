@@ -2136,3 +2136,6 @@ Signal-Centric Remote Sensing via Alternative Preprocessing and Acoustic Process
 IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts
 Multiclass Semantic Segmentation of Wildland Fire Images Using Context-Aware Centralized Copy-Paste Data Augmentation
 Purification and Regulation: Comorbidity-Aware Multi-Label Few-Shot Learning for Medical Image Classification
+ALPINE: Adaptive Localization for Parameter- and Sample-Efficient Few-Shot Learning
+Learning-Based 3D Reconstruction of Power Networks from Aerial Point Clouds
+MECAIL: Communication-Aware Incremental Learning for Object Detection with 14.6 KB Spatiotemporal Experts
