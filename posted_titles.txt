@@ -2142,3 +2142,5 @@ MECAIL: Communication-Aware Incremental Learning for Object Detection with 14.6 
 SPARC: SuperPixel-Aware Region Contrastive Learning for Self-Supervised Dense Prediction
 SAM-V: Geometry-Aware Segment Anything for Multi-View Instance Segmentation
 Optimizing Canaries for Privacy Auditing with Metagradient Descent
+M3D-Net: Hierarchical Coordination of Spatial Context, Feature Reuse, and Differential Attention for Mammography Classification
+FFM-CP: Cross-Backbone Fusion of Vision-Language Foundation Models for Few-Shot Computational Pathology
