@@ -2144,3 +2144,6 @@ SAM-V: Geometry-Aware Segment Anything for Multi-View Instance Segmentation
 Optimizing Canaries for Privacy Auditing with Metagradient Descent
 M3D-Net: Hierarchical Coordination of Spatial Context, Feature Reuse, and Differential Attention for Mammography Classification
 FFM-CP: Cross-Backbone Fusion of Vision-Language Foundation Models for Few-Shot Computational Pathology
+Let Training Guide Selection: Online Synthetic Data Filtering via Real-Anchored Utility
+Multimodal Routing and Region Refinement for Language-Guided Medical Image Segmentation
+Albireo: Adaptive, Energy-Efficient Inference Framework for Video Object Detection on the Edge
