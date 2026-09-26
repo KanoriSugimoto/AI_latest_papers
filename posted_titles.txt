@@ -2147,3 +2147,4 @@ FFM-CP: Cross-Backbone Fusion of Vision-Language Foundation Models for Few-Shot 
 Let Training Guide Selection: Online Synthetic Data Filtering via Real-Anchored Utility
 Multimodal Routing and Region Refinement for Language-Guided Medical Image Segmentation
 Albireo: Adaptive, Energy-Efficient Inference Framework for Video Object Detection on the Edge
+RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation
