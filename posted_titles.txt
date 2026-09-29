@@ -2149,3 +2149,4 @@ Multimodal Routing and Region Refinement for Language-Guided Medical Image Segme
 Albireo: Adaptive, Energy-Efficient Inference Framework for Video Object Detection on the Edge
 RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation
 LightMIS: Ultra-Lightweight Medical Image Segmentation Without a Stage-Wise Decoder
+Query-Conditioned Prototype Adaptation for Cross-Domain Few-Shot Learning: Single-Query Inference, Controlled Comparisons, and Failure Modes
