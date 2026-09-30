@@ -2150,3 +2150,9 @@ Albireo: Adaptive, Energy-Efficient Inference Framework for Video Object Detecti
 RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation
 LightMIS: Ultra-Lightweight Medical Image Segmentation Without a Stage-Wise Decoder
 Query-Conditioned Prototype Adaptation for Cross-Domain Few-Shot Learning: Single-Query Inference, Controlled Comparisons, and Failure Modes
+Scaling Full Conformal Image Classifiers
+Calibrating One-Round Membership Inference with Neighbors
+End-to-End Optical Semantic Communication over a Nonlinear WDM Fiber Link
+Are In-Context Images Worth 10 Dimensions?
+ActiveSAM: Fast and Accurate Open-Vocabulary Semantic Segmentation with Frozen SAM 3
+Preference-Guided Adaptation for Open-Vocabulary Semantic Segmentation via Prompt Disagreement
