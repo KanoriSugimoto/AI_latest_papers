@@ -2156,3 +2156,6 @@ End-to-End Optical Semantic Communication over a Nonlinear WDM Fiber Link
 Are In-Context Images Worth 10 Dimensions?
 ActiveSAM: Fast and Accurate Open-Vocabulary Semantic Segmentation with Frozen SAM 3
 Preference-Guided Adaptation for Open-Vocabulary Semantic Segmentation via Prompt Disagreement
+On the Relaxation of Conditional Independence Assumption for Image Segmentation
+From Dataset Spectral Geometry to Network Weights: A Geometry-Aware Initialization for Sigmoidal MLPs in Image Classification
+Steal the Knowledge, Inherit the Mark: TwinMark for Distillation Watermarking via Second Moments and Class Multiplexing
