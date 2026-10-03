@@ -2159,3 +2159,12 @@ Preference-Guided Adaptation for Open-Vocabulary Semantic Segmentation via Promp
 On the Relaxation of Conditional Independence Assumption for Image Segmentation
 From Dataset Spectral Geometry to Network Weights: A Geometry-Aware Initialization for Sigmoidal MLPs in Image Classification
 Steal the Knowledge, Inherit the Mark: TwinMark for Distillation Watermarking via Second Moments and Class Multiplexing
+SW-KAN: Kolmogorov-Arnold Networks with Stieltjes-Wigert q-Orthogonal Polynomials
+Neural scaling laws and evolution of learnable activation functions of Kolmogorov-Arnold networks
+Robust Evidential Learning Through Latent Consistency
+CrossGMN: Graph Metanetworks for Cross-Architecture Weight-Space Transformations
+Evasion Attacks: How Adversarial Noise Bypasses ML Classifiers
+Multi-Resolution Feature Fusion U-Net for Magnetic Resonance Imaging Segmentation
+FedMAD: Modulation-Aware Directional Aggregation for Federated Learning in Remote Sensing Image Classification
+Open Vocabulary Word Recognition From Transcribed Bangla Texts
+Do Vision Transformers Need All-to-All Attention? Global Communication Through Elastic Learned Cores
