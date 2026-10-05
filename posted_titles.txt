@@ -2168,3 +2168,4 @@ Multi-Resolution Feature Fusion U-Net for Magnetic Resonance Imaging Segmentatio
 FedMAD: Modulation-Aware Directional Aggregation for Federated Learning in Remote Sensing Image Classification
 Open Vocabulary Word Recognition From Transcribed Bangla Texts
 Do Vision Transformers Need All-to-All Attention? Global Communication Through Elastic Learned Cores
+Evolving Hybrid Quantum-Classical Architectures for Image Classification
