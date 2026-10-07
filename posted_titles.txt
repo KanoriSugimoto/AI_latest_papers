@@ -2169,3 +2169,8 @@ FedMAD: Modulation-Aware Directional Aggregation for Federated Learning in Remot
 Open Vocabulary Word Recognition From Transcribed Bangla Texts
 Do Vision Transformers Need All-to-All Attention? Global Communication Through Elastic Learned Cores
 Evolving Hybrid Quantum-Classical Architectures for Image Classification
+Less Is More: A Leakage-Controlled Study of Dermoscopic Preprocessing for Joint Skin Lesion Classification and Segmentation with YOLO26
+How Many Independent Samples Does a Satellite Image Contain? Generalization Bounds for Spatially Dependent Data
+FedDermaSeg: Federated Learning for Dermatological Image Segmentation
+KO: Kinetics-inspired Neural Optimizer with PDE Simulation Approaches
+Improving Mixup Calibration with Wasserstein Distributionally Robust Optimization
