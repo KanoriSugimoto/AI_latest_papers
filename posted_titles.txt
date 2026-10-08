@@ -2174,3 +2174,5 @@ How Many Independent Samples Does a Satellite Image Contain? Generalization Boun
 FedDermaSeg: Federated Learning for Dermatological Image Segmentation
 KO: Kinetics-inspired Neural Optimizer with PDE Simulation Approaches
 Improving Mixup Calibration with Wasserstein Distributionally Robust Optimization
+From Prompts to Trees: Effective LLM-Guided Tree Generation for Few-Shot Tabular Classification
+Estimating Model-Level Membership Inference Vulnerability Without Reference Models
