@@ -2176,3 +2176,6 @@ KO: Kinetics-inspired Neural Optimizer with PDE Simulation Approaches
 Improving Mixup Calibration with Wasserstein Distributionally Robust Optimization
 From Prompts to Trees: Effective LLM-Guided Tree Generation for Few-Shot Tabular Classification
 Estimating Model-Level Membership Inference Vulnerability Without Reference Models
+HAND: A Biologically-Inspired Activation Function that Improves Generalisation and Sample Efficiency in Image Classification
+DVLA-RL++: Dual-Level Vision-Language Alignment with Reinforcement Learning Gating for Few-Shot Learning
+A samplewise backpropagation method for neural networks driven by fractional Brownian motion
