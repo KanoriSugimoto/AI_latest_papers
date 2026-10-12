@@ -2179,3 +2179,5 @@ Estimating Model-Level Membership Inference Vulnerability Without Reference Mode
 HAND: A Biologically-Inspired Activation Function that Improves Generalisation and Sample Efficiency in Image Classification
 DVLA-RL++: Dual-Level Vision-Language Alignment with Reinforcement Learning Gating for Few-Shot Learning
 A samplewise backpropagation method for neural networks driven by fractional Brownian motion
+Hide and Seek: HIDE Concepts to SEEK explanations for black box models
+Optimizable Model Averaging for Ensembling Heterogeneous Model Outputs
