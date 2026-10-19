@@ -2185,3 +2185,4 @@ Riding the Fixed-Point Curve: Image Classification in the Continuous Thought Mac
 MvFFN: Multi-view Floor plan Feed-forward Network for Unposed Wide-Baseline Panorama Layout Reconstruction
 Pixels to Tokens: Token Space Efficient Active Learning for Low-Budget Semantic Segmentation
 LightMedSeg-ISLES: Stroke Lesion Segmentation with 81x Fewer Parameters than nnU-Net
+Bridging Compressed Communication and Local Steps via Spectral Method in Federated Learning
