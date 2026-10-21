@@ -2186,3 +2186,6 @@ MvFFN: Multi-view Floor plan Feed-forward Network for Unposed Wide-Baseline Pano
 Pixels to Tokens: Token Space Efficient Active Learning for Low-Budget Semantic Segmentation
 LightMedSeg-ISLES: Stroke Lesion Segmentation with 81x Fewer Parameters than nnU-Net
 Bridging Compressed Communication and Local Steps via Spectral Method in Federated Learning
+EGiME: Entropy-Guided Model Evaluation in Few-Shot Learning
+Jacobian Descent for Multi-Objective Optimization
+Optimized Weight Initialization on the Stiefel Manifold for Deep ReLU Neural Networks
