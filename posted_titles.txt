@@ -2189,3 +2189,6 @@ Bridging Compressed Communication and Local Steps via Spectral Method in Federat
 EGiME: Entropy-Guided Model Evaluation in Few-Shot Learning
 Jacobian Descent for Multi-Objective Optimization
 Optimized Weight Initialization on the Stiefel Manifold for Deep ReLU Neural Networks
+Region-Aware Multi-View Inspection Using Deep Learning and Domain-Informed Decision Fusion
+No Frames, Just Frequencies: Bandwidth-Efficient Deployment-Time Adaptation for Smart Glasses
+UniPrompt-CL: Efficient Single-Inference Continual Learning for Medical Image Classification
