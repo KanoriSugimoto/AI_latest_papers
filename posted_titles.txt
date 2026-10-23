@@ -2192,3 +2192,5 @@ Optimized Weight Initialization on the Stiefel Manifold for Deep ReLU Neural Net
 Region-Aware Multi-View Inspection Using Deep Learning and Domain-Informed Decision Fusion
 No Frames, Just Frequencies: Bandwidth-Efficient Deployment-Time Adaptation for Smart Glasses
 UniPrompt-CL: Efficient Single-Inference Continual Learning for Medical Image Classification
+RaSFNet: Ray-aligned and Scan-aware Fusion Network for LiDAR Semantic Segmentation
+Few-shot Classification as Multi-instance Verification: Effective Backbone-agnostic Transfer across Domains
