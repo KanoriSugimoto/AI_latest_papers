@@ -2194,3 +2194,6 @@ No Frames, Just Frequencies: Bandwidth-Efficient Deployment-Time Adaptation for 
 UniPrompt-CL: Efficient Single-Inference Continual Learning for Medical Image Classification
 RaSFNet: Ray-aligned and Scan-aware Fusion Network for LiDAR Semantic Segmentation
 Few-shot Classification as Multi-instance Verification: Effective Backbone-agnostic Transfer across Domains
+Complementing DINO Features with Image Structure for Part Discovery
+GeoLEON-CLIP: Graph-Anchored Multimodal Contrastive Learning for Geographic Region Representation
+OBB-PBD: Extending Parallel Box Decoding to Oriented Bounding Boxes for Referring Expression Grounding in Aerial Imagery
