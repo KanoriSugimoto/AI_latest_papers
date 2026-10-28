@@ -2197,3 +2197,10 @@ Few-shot Classification as Multi-instance Verification: Effective Backbone-agnos
 Complementing DINO Features with Image Structure for Part Discovery
 GeoLEON-CLIP: Graph-Anchored Multimodal Contrastive Learning for Geographic Region Representation
 OBB-PBD: Extending Parallel Box Decoding to Oriented Bounding Boxes for Referring Expression Grounding in Aerial Imagery
+Automated identification of ivory carvings using machine learning: A proof-of-concept approach to detecting the illegal wildlife trade
+SVD-Attention: Efficiently Analyzing Attention Blocks in Transformers
+Sparse Recovery Bird's-Eye View Model Soup for Robust Camera-Based 3D Object Detection
+Macro Mondrian Conformal Risk Control
+Uncertainty Evaluation to Support Safety of the Intended Functionality Analysis for Determining the Applicability of Performance Targets Across Triggering Conditions in ML-Based LiDAR Object Detection
+Targeted Deep Regression - Initial Applications in Whole-Body Water-Fat MRI in UK Biobank
+ArchiveLens: A Generative Spatial Knowledge Framework for Semantic Reconstruction of Historical Maps
