@@ -2204,3 +2204,5 @@ Macro Mondrian Conformal Risk Control
 Uncertainty Evaluation to Support Safety of the Intended Functionality Analysis for Determining the Applicability of Performance Targets Across Triggering Conditions in ML-Based LiDAR Object Detection
 Targeted Deep Regression - Initial Applications in Whole-Body Water-Fat MRI in UK Biobank
 ArchiveLens: A Generative Spatial Knowledge Framework for Semantic Reconstruction of Historical Maps
+LLINBO: Trustworthy LLM-in-the-Loop Bayesian Optimization
+Vision Transformer Ensembles for Panoramic Street Segmentation
