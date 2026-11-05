@@ -2206,3 +2206,7 @@ Targeted Deep Regression - Initial Applications in Whole-Body Water-Fat MRI in U
 ArchiveLens: A Generative Spatial Knowledge Framework for Semantic Reconstruction of Historical Maps
 LLINBO: Trustworthy LLM-in-the-Loop Bayesian Optimization
 Vision Transformer Ensembles for Panoramic Street Segmentation
+Recasting Visual Language Models as EEG Foundation Models for Clinical Neurodiagnostics
+Role-based Effectiveness of an Epistemic Uncertainty Estimate in Training Models for Semantic Segmentation of 3D LiDAR Point Clouds
+Timing is Everything: Inferring Temporal Membership in Continually Updated Models
+Exploring Sequence Feature Alignment for Domain Adaptive Detection Transformers
