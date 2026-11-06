@@ -2210,3 +2210,5 @@ Recasting Visual Language Models as EEG Foundation Models for Clinical Neurodiag
 Role-based Effectiveness of an Epistemic Uncertainty Estimate in Training Models for Semantic Segmentation of 3D LiDAR Point Clouds
 Timing is Everything: Inferring Temporal Membership in Continually Updated Models
 Exploring Sequence Feature Alignment for Domain Adaptive Detection Transformers
+Improving Context-Shift Robustness of Convolutional Networks via Context-Regularized Cross-Entropy
+Hybrid Dual-Batch and Cyclic Progressive Learning for Efficient Distributed Training of Convolutional Neural Networks
