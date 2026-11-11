@@ -2212,3 +2212,8 @@ Timing is Everything: Inferring Temporal Membership in Continually Updated Model
 Exploring Sequence Feature Alignment for Domain Adaptive Detection Transformers
 Improving Context-Shift Robustness of Convolutional Networks via Context-Regularized Cross-Entropy
 Hybrid Dual-Batch and Cyclic Progressive Learning for Efficient Distributed Training of Convolutional Neural Networks
+Explanation-Aware Fairness Beyond Output Parity: Joint Output-Attribution Regularization for Medical Image Classification
+PSL-RGHA: Parallel Split Learning with Reference Gradient Half-Space Alignment for Mitigating Gradient Divergence
+TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics
+Partition, Refine, and Detect: Preserving Novel Category Capacity in Open-Vocabulary Object Detection
+Counterfactual Analysis of Extent Leakage from Annotation-Derived Prompts in Vision-Language Medical Image Segmentation
