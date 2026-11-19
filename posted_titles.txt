@@ -2219,3 +2219,8 @@ Partition, Refine, and Detect: Preserving Novel Category Capacity in Open-Vocabu
 Counterfactual Analysis of Extent Leakage from Annotation-Derived Prompts in Vision-Language Medical Image Segmentation
 Nanorobot queue: Cooperative treatment of cancer based on team member communication and image processing
 Not All Mislabels Are Equal: Efficient Task-Aware Auditing with Confidence Sequences
+OpenGNS: An Open Dataset of the Gradient Noise Scale across Vision, Language, and Diffusion Models
+Tell Me How Sure You Are: Communicating Uncertainty in Auxiliary Evidence to Foundation Models
+Semi-Supervised GAN-Based Segmentation of CTPA Scans for Pulmonary Emboli Boundary Extraction
+Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving
+Passable for Whom? Few-Shot Learning for Personal Calibration of Sidewalk Accessibility Perception for Human-Centered Autonomous Driving
