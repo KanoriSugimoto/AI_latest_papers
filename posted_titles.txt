@@ -2224,3 +2224,8 @@ Tell Me How Sure You Are: Communicating Uncertainty in Auxiliary Evidence to Fou
 Semi-Supervised GAN-Based Segmentation of CTPA Scans for Pulmonary Emboli Boundary Extraction
 Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving
 Passable for Whom? Few-Shot Learning for Personal Calibration of Sidewalk Accessibility Perception for Human-Centered Autonomous Driving
+Circular Predictive Coding Unlocks Effective Depth
+Ranking-Preserving Coreset Selection for Efficient Evolutionary Hyperparameter Optimization
+Rethinking Cross-Sensor Domain Adaptation for Bridge Point Cloud Semantic Segmentation
+CanopyFormer: Attention-Guided SegFormer for Explainable Forest Cover Segmentation
+Redesigning Neural Networks to Not be Confidently Wrong even to Strong Adversarial Attacks
