@@ -2229,3 +2229,5 @@ Ranking-Preserving Coreset Selection for Efficient Evolutionary Hyperparameter O
 Rethinking Cross-Sensor Domain Adaptation for Bridge Point Cloud Semantic Segmentation
 CanopyFormer: Attention-Guided SegFormer for Explainable Forest Cover Segmentation
 Redesigning Neural Networks to Not be Confidently Wrong even to Strong Adversarial Attacks
+Memory as the Backbone: A Dual-Store Associative Memory Architecture for Visual Recognition
+Forget Vectors at Play: Universal Input Perturbations Driving Machine Unlearning in Image Classification and Generation
